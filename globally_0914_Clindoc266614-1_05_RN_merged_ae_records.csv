@@ -1,0 +1,441 @@
+MRN,Onset Date,Date Resolved,CTCAE,Grade,Attr to Bintrafusp alfa,Attr to Disease,Attr to Other,AE Immune related?,Serious Y/N
+64f5309673cbf36a4298a56da2b87048,2019-06-04,06/11/2019,pruritus,1.0,Possible,Unlikely,Unrelated,No,No
+64f5309673cbf36a4298a56da2b87048,2019-06-04,06/11/2019,cough,1.0,Possible,Unlikely,Unrelated,No,No
+64f5309673cbf36a4298a56da2b87048,2019-06-05,06/06/2019,rash maculopapular,1.0,Possible,Unlikely,Unrelated,No,No
+64f5309673cbf36a4298a56da2b87048,2019-06-29,unknown,bleeding,1.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-07-05,unknown,abdominal discomfort,1.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-07-23,unknown,mucositis oral,1.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-07-23,unknown,blood blister,1.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-08-06,unknown,rash maculopapular,2.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-08-06,unknown,decreased appetite,1.0,Possible,Possible,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-08-06,unknown,weight loss,1.0,Possible,Possible,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-08-10,ongoing,facial paralysis,2.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-08-28,unknown,hemorrhoidal bleeding,1.0,Unlikely,Unlikely,Possible,No,No
+64f5309673cbf36a4298a56da2b87048,2019-09-17,unknown,concentration impairment,1.0,Possible,Unlikely,Unrelated,No,No
+64f5309673cbf36a4298a56da2b87048,2019-10-08,unknown,facial muscle twitching,2.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-11-12,ongoing,facial nerve disorder,2.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-11-12,unknown,rectal hemorrhage,2.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-12-10,ongoing,lichenoid dermatitis,2.0,Probable,Unlikely,Unrelated,No,No
+64f5309673cbf36a4298a56da2b87048,2019-12-24,ongoing,rash,2.0,Probable,Unlikely,Unrelated,No,No
+64f5309673cbf36a4298a56da2b87048,2020-01-07,unknown,rash,1.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2019-10-29,ongoing,skin toxicity,2.0,Probable,Unrelated,Unrelated,No,No
+64f5309673cbf36a4298a56da2b87048,2020-03-16,ongoing,hypothyroidism,2.0,Probable,Unrelated,Unrelated,Yes,No
+64f5309673cbf36a4298a56da2b87048,2020-03-17,unknown,constipation,1.0,Unrelated,Unrelated,Possible,No,No
+64f5309673cbf36a4298a56da2b87048,2020-08-04,unknown,hypokalemia,1.0,Possible,Unlikely,Unlikely,No,No
+64f5309673cbf36a4298a56da2b87048,2020-10-23,unknown,neoplasm malignant,3.0,Unrelated,Definite,Unrelated,No,Yes
+64f5309673cbf36a4298a56da2b87048,2020-11-10,unknown,eye disorder,2.0,Unrelated,Definite,Unrelated,No,No
+b143468311134d27f4f8a7622a1d7235,2018-12-24,ongoing,nausea,1.0,Possible,Unlikely,Unlikely,No,No
+b143468311134d27f4f8a7622a1d7235,2018-12-24,ongoing,flatulence,1.0,Possible,Unlikely,Unlikely,No,No
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2019-02-19,unknown,rash,2.0,Possible,Unlikely,Unrelated,No,No
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2019-03-05,unknown,deep vein thrombosis,2.0,Unlikely,Probable,Unrelated,No,No
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2019-04-02,unknown,pruritus,2.0,Possible,Unlikely,Unrelated,No,No
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2019-04-16,unknown,abdominal hernia pain,2.0,Unlikely,Possible,Unrelated,No,No
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2019-04-16,04/21/2019,ear pain,2.0,Unrelated,Unlikely,Probable,No,No
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2019-04-16,04/21/2019,skin peeling,2.0,Unrelated,Unlikely,Probable,No,No
+ee21ede823037fd3671f67a68376422a,2019-07-09,unknown,tsh increased,1.0,Unlikely,Unlikely,Probable,Yes,No
+ee21ede823037fd3671f67a68376422a,2019-07-09,unknown,white blood cell count decreased,1.0,Unlikely,Unlikely,Probable,No,No
+ee21ede823037fd3671f67a68376422a,2019-07-09,07/11/2019,chest tightness,1.0,Possible,Unlikely,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-07-12,ongoing,rash with itching,1.0,Possible,Unlikely,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-08-06,unknown,rash maculopapular,1.0,Possible,Unlikely,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-08-06,unknown,herpes zoster,2.0,Unlikely,Possible,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-08-14,unknown,cough,1.0,Possible,Unlikely,Possible,No,No
+ee21ede823037fd3671f67a68376422a,2019-08-14,unknown,postnasal drip,1.0,Possible,Unlikely,Possible,No,No
+ee21ede823037fd3671f67a68376422a,2019-09-06,11/24/2019,cough,2.0,Possible,Unlikely,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-09-06,unknown,increased serum creatinine,2.0,Possible,Unlikely,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-09-11,unknown,bronchiectasis,2.0,Unrelated,Probable,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-09-11,unknown,acute bronchitis,2.0,Unrelated,Probable,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-09-12,unknown,cough,3.0,Unlikely,Probable,Unlikely,No,Yes
+ee21ede823037fd3671f67a68376422a,2019-09-12,unknown,dyspnea,3.0,Unlikely,Probable,Unlikely,No,Yes
+ee21ede823037fd3671f67a68376422a,2019-10-01,unknown,increased blood creatinine,1.0,Possible,Unlikely,Probable,No,No
+ee21ede823037fd3671f67a68376422a,2019-10-01,unknown,increased blood urea nitrogen,1.0,Possible,Unlikely,Probable,No,No
+ee21ede823037fd3671f67a68376422a,2019-10-21,unknown,bronchial infection,2.0,Unlikely,Possible,Probable,No,No
+ee21ede823037fd3671f67a68376422a,2019-10-30,ongoing,acute kidney injury,2.0,Possible,Unlikely,Probable,No,No
+ee21ede823037fd3671f67a68376422a,2019-11-26,ongoing,abdominal pain,2.0,Possible,Possible,Unrelated,No,No
+ee21ede823037fd3671f67a68376422a,2019-11-26,ongoing,atrial fibrillation,3.0,Possible,Possible,Unrelated,No,Yes
+ee21ede823037fd3671f67a68376422a,2019-11-14,11/24/2019,dyspnea,2.0,Possible,Possible,Unrelated,No,No
+ee21ede823037fd3671f67a68376422a,2019-12-10,unknown,keratoacanthoma,2.0,Possible,Unlikely,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-12-20,unknown,tachycardia,2.0,Unlikely,Possible,Unrelated,No,No
+ee21ede823037fd3671f67a68376422a,2019-12-11,unknown,infusion related reaction,2.0,Probable,Unlikely,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-12-24,unknown,right hip pain,2.0,Unlikely,Possible,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2019-12-11,unknown,infusion-related reaction,2.0,Probable,Unrelated,Unrelated,No,No
+ee21ede823037fd3671f67a68376422a,2020-01-21,unknown,disease progression,3.0,Unrelated,Definite,Unrelated,No,Yes
+ee21ede823037fd3671f67a68376422a,2020-03-03,unknown,keratoacanthoma,1.0,Possible,Unlikely,Unlikely,No,No
+ee21ede823037fd3671f67a68376422a,2020-03-03,unknown,renal insufficiency,1.0,Possible,Unlikely,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-01-26,07/24/2019,diarrhea,1.0,Unlikely,Unlikely,Possible,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-01-26,unknown,abdominal pain,1.0,Unlikely,Unlikely,Possible,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-02-09,03/10/2019,hematuria,1.0,Possible,Possible,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-02-14,unknown,bladder spasm,1.0,Possible,Possible,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-02-19,unknown,hematuria,2.0,Possible,Possible,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-02-19,unknown,urinary urgency,2.0,Possible,Possible,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-02-19,unknown,bladder spasm,2.0,Possible,Possible,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-03-19,unknown,keratoacanthoma,1.0,Unlikely,Possible,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-04-02,ongoing,leukopenia,2.0,Possible,Possible,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-04-02,unknown,anemia,1.0,Possible,Possible,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-04-02,unknown,gingival bleeding,1.0,Possible,Unlikely,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-04-30,unknown,skin lesion,1.0,Unlikely,Possible,Unrelated,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-05-14,unknown,forgetfulness,1.0,Unlikely,Possible,Unrelated,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-05-14,ongoing,"neulasta sensitivity reaction (chills/rigors, diarrhea with abdominal cramping)",2.0,Unrelated,Unrelated,Definite,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-05-28,unknown,rash maculo-papular,2.0,Possible,Unlikely,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-05-28,ongoing,pruritus,2.0,Possible,Unlikely,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-06-11,ongoing,neutropenia,3.0,Possible,Unlikely,Unrelated,No,Yes
+a24ee1ece206989032e3494ea3ee1061,2019-06-11,unknown,rash,2.0,Possible,Unlikely,Unrelated,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-06-11,unknown,rigors,2.0,Possible,Unlikely,Unrelated,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-07-09,unknown,muscle cramping,1.0,Possible,Unlikely,Possible,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-07-09,unknown,orthostatic hypotension,1.0,Possible,Unlikely,Possible,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-07-23,07/24/2019,abdominal cramping,1.0,Unlikely,Unrelated,Probable,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-07-23,07/24/2019,nausea,1.0,Unlikely,Unrelated,Probable,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-07-23,07/24/2019,vomiting,1.0,Unlikely,Unrelated,Probable,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-08-06,ongoing,skin lesions,2.0,Probable,Unlikely,Unrelated,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-08-06,unknown,gastrointestinal symptoms,2.0,Unlikely,Unlikely,Possible,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-08-20,ongoing,pruritus,1.0,Probable,Unlikely,Unrelated,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-08-20,ongoing,skin lesions,1.0,Probable,Unlikely,Unrelated,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-09-03,unknown,fatigue,3.0,Probable,Unlikely,Unlikely,No,Yes
+a24ee1ece206989032e3494ea3ee1061,2019-09-17,12/14/2021,fatigue,2.0,Possible,Unlikely,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2019-09-17,ongoing,anemia,3.0,Possible,Possible,Unlikely,No,Yes
+a24ee1ece206989032e3494ea3ee1061,2019-10-01,ongoing,myelodysplastic syndrome,3.0,Possible,Definite,Unlikely,No,Yes
+a24ee1ece206989032e3494ea3ee1061,2019-11-12,unknown,anemia,2.0,Possible,Definite,Unlikely,No,No
+a24ee1ece206989032e3494ea3ee1061,2020-10-06,01/05/2021,rash maculo-papular,1.0,Possible,Unrelated,Unrelated,No,No
+a24ee1ece206989032e3494ea3ee1061,2020-10-06,01/05/2021,neutrophil count decreased,4.0,Unrelated,Unlikely,Definite,No,No
+a24ee1ece206989032e3494ea3ee1061,2021-01-05,ongoing,white blood cell count decreased,3.0,Unrelated,Unrelated,Definite,No,No
+a24ee1ece206989032e3494ea3ee1061,2021-08-30,12/14/2021,urinary tract infection,2.0,Unrelated,Unrelated,Definite,No,No
+a24ee1ece206989032e3494ea3ee1061,2022-08-09,unknown,neutrophil count decreased,3.0,Unrelated,Unrelated,Definite,No,No
+a24ee1ece206989032e3494ea3ee1061,2022-08-09,unknown,white blood cell count decreased,2.0,Unrelated,Unrelated,Definite,No,No
+0a6d8ed57bad6cc2158c1a3100d01de7,2019-11-05,unknown,rash maculo-papular,1.0,Possible,Unlikely,Unlikely,No,No
+0a6d8ed57bad6cc2158c1a3100d01de7,2019-11-05,unknown,bleeding at stoma site,1.0,Unlikely,Possible,Unlikely,No,No
+0a6d8ed57bad6cc2158c1a3100d01de7,2019-12-03,ongoing,constipation,2.0,Unlikely,Unlikely,Possible,No,No
+0a6d8ed57bad6cc2158c1a3100d01de7,2019-12-17,ongoing,disease progression,3.0,Possible,Definite,Unlikely,No,Yes
+b162d352bbfe7f1ac571c079f3a91f96,2020-02-18,unknown,skin and subcutaneous tissue disorders - tenderness,1.0,Unlikely,Probable,Unrelated,No,No
+b162d352bbfe7f1ac571c079f3a91f96,2020-03-03,unknown,myositis,3.0,Possible,Unlikely,Unlikely,Yes,Yes
+b162d352bbfe7f1ac571c079f3a91f96,2020-03-03,unknown,myocarditis,3.0,Possible,Unlikely,Unlikely,Yes,Yes
+c6d12120838563dcd1a1241d48adab62,2018-12-04,unknown,rash,1.0,Possible,Unlikely,Unlikely,No,No
+c6d12120838563dcd1a1241d48adab62,2018-12-04,unknown,nasal bump,1.0,Unlikely,Possible,Unlikely,No,No
+c3bb03af386a687b8eef3303f7886bda,2019-10-29,unknown,inguinal hernia,2.0,Unlikely,Unlikely,Possible,No,No
+c3bb03af386a687b8eef3303f7886bda,2019-11-12,ongoing,dyspnea,1.0,Possible,Probable,Unlikely,No,No
+c3bb03af386a687b8eef3303f7886bda,2019-12-24,unknown,epistaxis,1.0,Possible,Unlikely,Unlikely,No,No
+c3bb03af386a687b8eef3303f7886bda,2020-01-07,unknown,dysphagia,2.0,Possible,Probable,Unlikely,No,No
+c3bb03af386a687b8eef3303f7886bda,2020-02-04,ongoing,pericardial effusion,2.0,Possible,Possible,Unlikely,No,Yes
+c3bb03af386a687b8eef3303f7886bda,2020-02-04,unknown,upper respiratory infection,1.0,Unlikely,Unlikely,Possible,No,No
+c3bb03af386a687b8eef3303f7886bda,2020-10-20,unknown,gastroesophageal reflux disease,2.0,Unlikely,Unlikely,Unrelated,No,No
+c3bb03af386a687b8eef3303f7886bda,2020-02-04,unknown,pericardial effusion,3.0,Unlikely,Possible,Possible,No,No
+c3bb03af386a687b8eef3303f7886bda,2021-01-05,01/06/2021,oral hemorrhage,1.0,Unrelated,Possible,Unrelated,No,No
+7820df7c75ff9301d2adc15aa337db34,2019-07-25,unknown,back pain,2.0,Possible,Possible,Unlikely,No,No
+7820df7c75ff9301d2adc15aa337db34,2019-07-25,unknown,pain in extremity,2.0,Possible,Possible,Unlikely,No,No
+7820df7c75ff9301d2adc15aa337db34,2019-08-12,ongoing,dehydration,2.0,Possible,Probable,Unrelated,No,No
+7820df7c75ff9301d2adc15aa337db34,2019-08-12,ongoing,fatigue,2.0,Possible,Probable,Unrelated,No,No
+7820df7c75ff9301d2adc15aa337db34,2019-08-12,ongoing,tachycardia,2.0,Possible,Probable,Unrelated,No,No
+7820df7c75ff9301d2adc15aa337db34,2019-08-12,ongoing,constipation,2.0,Possible,Probable,Unrelated,No,No
+7820df7c75ff9301d2adc15aa337db34,2019-08-28,ongoing,fatigue,3.0,Possible,Probable,Unrelated,No,Yes
+7820df7c75ff9301d2adc15aa337db34,2019-08-28,ongoing,decreased appetite,2.0,Possible,Probable,Unrelated,No,No
+7820df7c75ff9301d2adc15aa337db34,2019-08-28,ongoing,tachycardia,3.0,Unlikely,Definite,Unrelated,No,Yes
+df5d99e7acc6945774fa3fcc9ca6f4a2,2019-12-31,unknown,gingival bleeding,1.0,Possible,Unlikely,Unlikely,No,No
+df5d99e7acc6945774fa3fcc9ca6f4a2,2020-01-14,unknown,allergic reaction,2.0,Possible,Unlikely,Unlikely,No,No
+df5d99e7acc6945774fa3fcc9ca6f4a2,2020-01-28,unknown,vaginal bleeding,1.0,Possible,Unlikely,Unrelated,No,No
+df5d99e7acc6945774fa3fcc9ca6f4a2,2020-02-11,unknown,pruritus,2.0,Possible,Unlikely,Unlikely,No,No
+df5d99e7acc6945774fa3fcc9ca6f4a2,2020-02-11,unknown,rash maculopapular,2.0,Possible,Unlikely,Unlikely,No,No
+df5d99e7acc6945774fa3fcc9ca6f4a2,2020-02-25,unknown,hematuria,2.0,Possible,Probable,Unrelated,No,No
+df5d99e7acc6945774fa3fcc9ca6f4a2,2020-02-25,unknown,hematuria,3.0,unknown,Probable,unknown,No,Yes
+df5d99e7acc6945774fa3fcc9ca6f4a2,2020-03-10,unknown,dysphagia,2.0,Possible,Probable,Unrelated,No,No
+df5d99e7acc6945774fa3fcc9ca6f4a2,2020-03-21,03/24/2020,urinary tract infection,2.0,Unlikely,Unlikely,Possible,No,No
+de5479020c2993d8b712e1f8595233c4,2019-02-19,unknown,rash,1.0,Possible,Unlikely,Unlikely,No,No
+de5479020c2993d8b712e1f8595233c4,2019-03-19,ongoing,pruritus,2.0,Possible,Unlikely,Unlikely,No,No
+de5479020c2993d8b712e1f8595233c4,2019-04-02,unknown,rash maculo-papular,2.0,Possible,Unlikely,Unrelated,No,No
+de5479020c2993d8b712e1f8595233c4,2019-04-30,unknown,pruritus,1.0,Possible,Unlikely,Unlikely,No,No
+de5479020c2993d8b712e1f8595233c4,2019-04-30,unknown,rash maculo-papular,1.0,Possible,Unlikely,Unlikely,No,No
+de5479020c2993d8b712e1f8595233c4,2019-06-11,unknown,rash maculopapular,2.0,Possible,Unlikely,Unlikely,Yes,No
+de5479020c2993d8b712e1f8595233c4,2019-07-09,unknown,rash,2.0,Possible,Unlikely,Unlikely,No,No
+de5479020c2993d8b712e1f8595233c4,2019-07-20,unknown,vomiting,1.0,Unlikely,Unrelated,Possible,No,No
+de5479020c2993d8b712e1f8595233c4,2019-07-21,unknown,fall,1.0,Unlikely,Unrelated,Possible,No,No
+de5479020c2993d8b712e1f8595233c4,2019-08-06,unknown,balance disorder,1.0,Unlikely,Possible,Unrelated,No,No
+de5479020c2993d8b712e1f8595233c4,2019-08-26,ongoing,brain metastases,4.0,Unlikely,Definite,Unrelated,No,Yes
+de5479020c2993d8b712e1f8595233c4,2019-10-28,ongoing,imbalance,3.0,Possible,Probable,Unlikely,No,Yes
+de5479020c2993d8b712e1f8595233c4,2019-10-28,ongoing,falls,3.0,Possible,Probable,Unlikely,No,Yes
+c460e2e9af240ce9cf71067e48620eeb,2019-12-03,ongoing,dyspnea,3.0,Possible,Possible,Unlikely,No,Yes
+c460e2e9af240ce9cf71067e48620eeb,2019-12-03,unknown,hypothyroidism,2.0,Possible,Unlikely,Unlikely,Yes,No
+c460e2e9af240ce9cf71067e48620eeb,2019-12-03,unknown,elevated liver enzymes,1.0,Possible,Unlikely,Unlikely,Yes,No
+76a31fecc63b4452993209c2b6e75de7,2019-03-12,03/12/2019,chest pain - epigastric,1.0,Possible,Unlikely,Unlikely,No,No
+76a31fecc63b4452993209c2b6e75de7,2019-03-26,unknown,keratoacanthoma,2.0,Possible,Unlikely,Unrelated,No,No
+76a31fecc63b4452993209c2b6e75de7,2018-08-14,10/02/2018,fatigue,2.0,Possible,Possible,Unrelated,No,No
+55af5e66a032ff37979476659764d59a,2019-10-01,unknown,infusion related reaction,2.0,Possible,Unrelated,Unrelated,No,No
+55af5e66a032ff37979476659764d59a,2019-10-29,unknown,rectal symptoms,1.0,Unlikely,Possible,Unrelated,No,No
+55af5e66a032ff37979476659764d59a,2019-11-12,unknown,blurred vision,1.0,Possible,Unlikely,Unlikely,No,No
+55af5e66a032ff37979476659764d59a,2019-11-26,unknown,nasal congestion,2.0,Possible,Unlikely,Unlikely,No,No
+55af5e66a032ff37979476659764d59a,2019-12-10,unknown,sinusitis,2.0,Unlikely,Possible,Probable,No,No
+55af5e66a032ff37979476659764d59a,2019-12-10,unknown,nasal congestion,1.0,Unlikely,Possible,Probable,No,No
+55af5e66a032ff37979476659764d59a,2020-01-21,unknown,rash,2.0,Unlikely,Unrelated,Possible,No,No
+55af5e66a032ff37979476659764d59a,2020-01-21,unknown,allergic reaction,2.0,Unlikely,Unrelated,Possible,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-03-18,10/20/2020,diarrhea,1.0,Possible,Unlikely,Unlikely,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-06-11,ongoing,dizziness,1.0,Unlikely,Possible,Unrelated,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-06-11,ongoing,gastrointestinal bleeding,2.0,Possible,Unlikely,Unrelated,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-07-09,unknown,neuropathy,2.0,Possible,Possible,Unrelated,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-09-03,ongoing,weakness,2.0,Possible,Possible,Unlikely,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-09-03,ongoing,pain,2.0,Possible,Possible,Unlikely,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-09-03,ongoing,paresthesia,2.0,Possible,Possible,Unlikely,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-09-03,unknown,potential gastrointestinal bleeding,3.0,Possible,Unlikely,Unlikely,No,Yes
+91f21fa70ee3bc8bbea83a1282f266cf,2019-09-18,ongoing,muscle weakness,2.0,Possible,Unlikely,Unlikely,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-09-18,ongoing,lymphedema,2.0,Possible,Unlikely,Unlikely,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-11-12,unknown,tinnitus,1.0,Possible,Unlikely,Unlikely,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-10-16,unknown,hot flashes,1.0,Possible,Unlikely,Unlikely,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-07-09,unknown,headache,1.0,Unrelated,Unrelated,Possible,No,No
+91f21fa70ee3bc8bbea83a1282f266cf,2019-08-25,unknown,fatigue,2.0,Unrelated,Possible,Probable,No,No
+5afd3991622b7c89cbca6bb4fd725221,2019-12-10,unknown,constipation,2.0,Unlikely,Unlikely,Probable,No,No
+5afd3991622b7c89cbca6bb4fd725221,2019-12-18,ongoing,rectal hemorrhage,2.0,Possible,Possible,Unlikely,No,No
+5afd3991622b7c89cbca6bb4fd725221,2019-12-24,unknown,anemia,3.0,Possible,Possible,Unlikely,No,Yes
+5afd3991622b7c89cbca6bb4fd725221,2019-12-24,unknown,hyperbilirubinemia,2.0,Possible,Possible,Unlikely,No,No
+5afd3991622b7c89cbca6bb4fd725221,2019-12-31,unknown,somnolence,2.0,Possible,Possible,Unlikely,No,Yes
+5afd3991622b7c89cbca6bb4fd725221,2020-01-07,unknown,serum amylase increased,1.0,Possible,Unlikely,Unlikely,No,No
+5afd3991622b7c89cbca6bb4fd725221,2020-01-07,unknown,hyponatremia,1.0,Possible,Unlikely,Unlikely,No,No
+5afd3991622b7c89cbca6bb4fd725221,2020-01-18,unknown,abdominal pain,2.0,Possible,Probable,Unrelated,No,No
+5afd3991622b7c89cbca6bb4fd725221,2020-01-18,unknown,abdominal distension,2.0,Possible,Probable,Unrelated,No,No
+5afd3991622b7c89cbca6bb4fd725221,2020-01-18,unknown,fever,1.0,Possible,Unlikely,Unrelated,No,No
+5afd3991622b7c89cbca6bb4fd725221,2020-01-28,unknown,hypokalemia,4.0,Unlikely,Possible,Unrelated,No,Yes
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-03-12,unknown,dyspnea on exertion,2.0,Possible,Probable,Unrelated,No,No
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-03-12,unknown,fatigue,2.0,Possible,Probable,Unrelated,No,No
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-03-12,unknown,anemia,3.0,Possible,Probable,Unrelated,No,Yes
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-03-26,unknown,hydronephrosis,2.0,Possible,Probable,Unlikely,No,Yes
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-03-26,unknown,nausea,1.0,Possible,Unlikely,Probable,No,No
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-03-28,unknown,pain,2.0,Unlikely,Probable,Unrelated,No,No
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-04-09,ongoing,oral mucositis,2.0,Probable,Unlikely,Unrelated,No,No
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-04-09,unknown,anemia,2.0,Unlikely,Probable,Unrelated,No,No
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-04-09,ongoing,deep vein thrombosis,3.0,Unlikely,Probable,Unrelated,No,Yes
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-04-16,unknown,pneumonia,2.0,Unrelated,Possible,Unrelated,No,Yes
+03b2e85588ad5649532819daf87797a7,2019-02-19,unknown,rectal hemorrhage,1.0,Possible,Unlikely,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,2019-08-20,unknown,alanine aminotransferase increased,2.0,Possible,Possible,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,2019-08-22,08/23/2019,fever,2.0,Unlikely,Possible,Probable,No,No
+08b7f8ae708607415cb6d91315044748,2019-08-22,08/23/2019,chills,2.0,Unlikely,Possible,Probable,No,No
+08b7f8ae708607415cb6d91315044748,2019-08-22,08/23/2019,leakage at insertion site,2.0,Unlikely,Possible,Probable,No,No
+08b7f8ae708607415cb6d91315044748,2019-08-22,08/23/2019,elevated liver panel,1.0,Unlikely,Possible,Probable,No,No
+08b7f8ae708607415cb6d91315044748,2019-09-03,ongoing,elevated liver enzymes,2.0,Possible,Possible,Unrelated,Yes,No
+08b7f8ae708607415cb6d91315044748,2019-09-09,unknown,reflux of oral fluids and food particles into biliary drain,2.0,Unlikely,Probable,Unlikely,No,Yes
+08b7f8ae708607415cb6d91315044748,2019-09-09,unknown,dehydration,2.0,Unlikely,Probable,Unlikely,No,Yes
+08b7f8ae708607415cb6d91315044748,2019-09-09,unknown,weight loss,2.0,Unlikely,Probable,Unlikely,No,No
+08b7f8ae708607415cb6d91315044748,2019-08-20,unknown,increased liver enzymes,3.0,Possible,Possible,Unrelated,No,Yes
+08b7f8ae708607415cb6d91315044748,,unknown,biliary drain reflux,2.0,Unrelated,Probable,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,,unknown,increased amylase,2.0,Possible,Possible,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,,unknown,increased lipase,2.0,Possible,Possible,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,,unknown,altered nutrition,2.0,Unrelated,Probable,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,2019-11-12,unknown,hematuria,1.0,Possible,Possible,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,2019-11-12,unknown,gingival bleeding,1.0,Possible,Possible,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,2019-11-18,unknown,fever,1.0,Unlikely,Unlikely,Probable,No,No
+08b7f8ae708607415cb6d91315044748,2019-12-08,unknown,hemorrhoidal bleeding,1.0,Possible,Possible,Unlikely,No,No
+08b7f8ae708607415cb6d91315044748,2019-12-24,unknown,biliary drain leakage,2.0,Unlikely,Probable,Unlikely,No,No
+08b7f8ae708607415cb6d91315044748,2019-12-24,unknown,lip lesion,1.0,Possible,Unlikely,Unlikely,No,No
+08b7f8ae708607415cb6d91315044748,2020-01-07,unknown,biliary drain site leakage,1.0,Possible,Possible,Unlikely,No,No
+08b7f8ae708607415cb6d91315044748,2020-01-07,unknown,lip lesion increased in size,2.0,Possible,Probable,Unlikely,No,No
+08b7f8ae708607415cb6d91315044748,2020-01-07,unknown,papules on shoulders,1.0,Possible,Possible,Unlikely,No,No
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,abdominal pain,2.0,Possible,Possible,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,nausea,1.0,Possible,Possible,Unrelated,No,No
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,cholecystitis,3.0,Possible,Probable,Unrelated,No,Yes
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,spontaneous pneumothorax,3.0,Unlikely,Probable,Unrelated,No,Yes
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,left middle finger bump,1.0,Possible,Unlikely,Unrelated,No,No
+fc68f402183b853a44935936ce8a3be4,2019-02-19,unknown,elevated alt,1.0,Possible,Unlikely,Unrelated,Yes,No
+fc68f402183b853a44935936ce8a3be4,2019-03-05,ongoing,increased alt,2.0,Possible,Unlikely,Possible,No,No
+fc68f402183b853a44935936ce8a3be4,2019-03-05,ongoing,increased ast,2.0,Possible,Unlikely,Possible,No,No
+fc68f402183b853a44935936ce8a3be4,2019-02-19,unknown,transaminitis,2.0,Probable,Unlikely,Unrelated,Yes,No
+fc68f402183b853a44935936ce8a3be4,2019-04-15,ongoing,dyspnea,2.0,Possible,Possible,Unlikely,No,No
+95a25c446c0420eb661d768b5d097f1b,2020-02-21,unknown,pyrexia,2.0,Possible,Unlikely,Unrelated,No,No
+95a25c446c0420eb661d768b5d097f1b,,unknown,wheezing,2.0,Possible,Unlikely,Unrelated,No,No
+95a25c446c0420eb661d768b5d097f1b,2020-03-17,ongoing,dyspnea,2.0,Unlikely,Probable,Unrelated,No,No
+95a25c446c0420eb661d768b5d097f1b,2020-03-19,unknown,dyspnea,3.0,Unlikely,Definite,Unrelated,No,Yes
+95a25c446c0420eb661d768b5d097f1b,2020-04-07,ongoing,vomiting,1.0,Possible,Possible,Unlikely,No,No
+95a25c446c0420eb661d768b5d097f1b,2020-04-07,ongoing,dysphagia,2.0,Possible,Probable,Unlikely,No,No
+95a25c446c0420eb661d768b5d097f1b,2020-04-21,ongoing,pneumonitis,2.0,Possible,Possible,Unrelated,Yes,Yes
+95a25c446c0420eb661d768b5d097f1b,2020-04-21,unknown,hematuria,1.0,Unlikely,Possible,Unrelated,No,No
+95a25c446c0420eb661d768b5d097f1b,2020-05-01,ongoing,seizure,3.0,Possible,Probable,Unrelated,No,Yes
+95a25c446c0420eb661d768b5d097f1b,2020-05-01,unknown,brain metastases,4.0,Unlikely,Definite,Unrelated,No,Yes
+95a25c446c0420eb661d768b5d097f1b,2020-05-12,unknown,chest tightness,2.0,Possible,Possible,Unlikely,No,Yes
+95a25c446c0420eb661d768b5d097f1b,2020-05-14,ongoing,brain metastasis,4.0,Possible,Probable,Unlikely,No,Yes
+bf11e3cd44670a1d3c6a93e5801a9aa5,2019-02-12,unknown,headache,1.0,Unlikely,Possible,Unrelated,No,No
+bf11e3cd44670a1d3c6a93e5801a9aa5,2019-03-12,unknown,cough,2.0,Possible,Possible,Unrelated,No,No
+bf11e3cd44670a1d3c6a93e5801a9aa5,2019-03-28,unknown,supraventricular tachycardia,2.0,Possible,Possible,Unrelated,No,No
+bf11e3cd44670a1d3c6a93e5801a9aa5,2019-04-09,unknown,hypotension,1.0,Unlikely,Unrelated,Probable,No,No
+bf11e3cd44670a1d3c6a93e5801a9aa5,2019-04-23,unknown,dyspnea on exertion,2.0,Possible,Possible,Unlikely,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2019-12-03,12/02/2019,epistaxis,1.0,Unlikely,Unlikely,Possible,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2019-12-17,unknown,epistaxis,2.0,Possible,Possible,Unlikely,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2019-12-17,unknown,anemia,2.0,Possible,Possible,Unlikely,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2019-12-24,12/30/2019,fatigue,1.0,Possible,Unlikely,Unrelated,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2020-01-28,unknown,alt increased,1.0,Possible,Unlikely,Unlikely,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2020-01-28,unknown,ast increased,1.0,Possible,Unlikely,Unlikely,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2020-02-25,unknown,fatigue,2.0,Possible,Possible,Unrelated,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2020-02-25,unknown,decreased libido,2.0,Possible,Unlikely,Unrelated,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2020-03-10,unknown,decreased libido,1.0,Possible,Possible,Unlikely,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2020-03-24,unknown,tsh elevation,1.0,Possible,Unlikely,Unlikely,Yes,No
+aa49b14fb81ff7e0f080562cff98ee13,2020-03-22,03/24/2020,headache,1.0,Unlikely,Unlikely,Possible,No,No
+aa49b14fb81ff7e0f080562cff98ee13,2020-03-22,03/24/2020,rhinorrhea,1.0,Unlikely,Unlikely,Possible,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-09,unknown,pruritus,2.0,Probable,Unlikely,Unlikely,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-09,unknown,urticaria,2.0,Probable,Unlikely,Unlikely,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-23,07/28/2020,vaginal bleeding,1.0,Possible,Possible,Unlikely,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-23,unknown,infusion-related reaction,2.0,Probable,Unlikely,Unlikely,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-30,unknown,rash,1.0,Possible,Unlikely,Unlikely,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-30,unknown,shortness of breath,1.0,Possible,Unlikely,Unlikely,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-07-22,ongoing,vaginal hemorrhage,1.0,Probable,Probable,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-08-04,ongoing,rash maculo-papular,1.0,Possible,Unlikely,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-08-04,09/15/2020,rash maculopapular,1.0,Possible,Unlikely,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-09-29,ongoing,anal hemorrhage,1.0,Probable,Probable,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-10-06,unknown,lichenoid dermatitis,1.0,Possible,Unrelated,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-10-06,ongoing,skin lesion,1.0,Unrelated,Unrelated,Unlikely,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-11-10,09/21/2021,urticaria,1.0,Unrelated,Unrelated,Probable,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-12-08,unknown,skin and subcutaneous tissue disorders - rash maculo-papular,1.0,Possible,Unlikely,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-12-08,unknown,skin and subcutaneous tissue disorders - skin ulceration,1.0,Possible,Unrelated,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-12-08,unknown,musculoskeletal and connective tissue disorders - tendon rupture partial,1.0,Unrelated,Unrelated,Probable,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-12-08,unknown,musculoskeletal and connective tissue disorder - partial tendon rupture,1.0,Unrelated,Unrelated,Probable,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-12-08,12/08/2020,allergic reaction - pruritus and burning on extremities,1.0,Unrelated,Unrelated,Probable,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-12-22,unknown,dermatitis (burning and pruritus),1.0,Unrelated,Unrelated,Probable,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2021-01-19,unknown,esophageal dilation,1.0,Unlikely,Probable,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2021-01-19,unknown,liver hyper-enhancement,1.0,Unlikely,Probable,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2021-01-19,unknown,vaginal discharge,1.0,Unlikely,Unlikely,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2021-02-16,06/22/2021,anemia,2.0,Probable,Possible,Probable,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2021-02-26,06/22/2021,edema limbs,1.0,Unlikely,Possible,Probable,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2020-09-15,unknown,platelet count decreased,1.0,Probable,Possible,Unrelated,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2022-05-31,ongoing,thromboembolic event,2.0,Unrelated,Unrelated,Probable,No,No
+4fd9ca376efebbf6ccc1cc88457d025c,2022-09-06,unknown,rectal bleeding,1.0,Unrelated,Unrelated,Unlikely,No,No
+f93819c38f7ca8f77469ee9f53fce1de,2019-04-19,unknown,urinary tract infection,2.0,Unlikely,Possible,Probable,No,No
+f93819c38f7ca8f77469ee9f53fce1de,2019-04-19,unknown,hypercalcemia,3.0,Possible,Probable,Unlikely,No,Yes
+f93819c38f7ca8f77469ee9f53fce1de,2019-04-19,unknown,nausea,2.0,Possible,Unlikely,Unlikely,No,No
+f93819c38f7ca8f77469ee9f53fce1de,2019-04-19,unknown,vomiting,2.0,Possible,Unlikely,Unlikely,No,No
+f93819c38f7ca8f77469ee9f53fce1de,2019-04-13,unknown,constipation,3.0,Possible,Unlikely,Unlikely,No,Yes
+4013ce1eb4e04dc53415c02629dc6a36,2018-11-20,ongoing,fatigue,2.0,Possible,Possible,Unlikely,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2018-11-20,ongoing,muscle weakness,2.0,Possible,Possible,Unlikely,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2018-12-04,unknown,adrenal insufficiency,2.0,Possible,Unlikely,Unlikely,Yes,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-07-02,ongoing,increased appetite,1.0,Unlikely,Possible,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-07-02,ongoing,weight gain,1.0,Unlikely,Possible,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-07-02,ongoing,depression,2.0,Unlikely,Possible,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-07-02,ongoing,night sweats,1.0,Unlikely,Possible,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-07-02,ongoing,headache,1.0,Unlikely,Possible,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-07-02,ongoing,fatigue,1.0,Unlikely,Possible,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-12-31,unknown,dry mouth,2.0,Possible,Unlikely,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-12-31,04/27/2021,dry eye,2.0,Possible,Unlikely,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-12-31,unknown,rash,2.0,Possible,Unlikely,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-12-31,unknown,pruritus,2.0,Possible,Unlikely,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-12-31,unknown,pulmonary embolism,4.0,Unlikely,Probable,Unrelated,No,Yes
+4013ce1eb4e04dc53415c02629dc6a36,2019-12-31,ongoing,dry mouth,1.0,Possible,Unrelated,Unlikely,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2020-01-14,ongoing,dry eyes,1.0,Possible,Unrelated,Unlikely,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-12-31,ongoing,dry eye,1.0,Possible,Unlikely,Unlikely,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2018-12-04,unknown,hypothyroidism,2.0,Possible,Unlikely,Unrelated,Yes,No
+4013ce1eb4e04dc53415c02629dc6a36,2020-03-24,unknown,weight gain,2.0,Unrelated,Unrelated,Probable,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-12-31,unknown,thromboembolic event,2.0,Unlikely,Possible,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2021-01-05,unknown,oral hemorrhage,1.0,Possible,Unrelated,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2021-01-19,02/16/2021,hypomagnesemia,1.0,Unlikely,Possible,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2021-03-16,04/27/2021,acneiform rash,1.0,Possible,Unrelated,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2021-08-17,unknown,constipation,1.0,Unrelated,Unrelated,Probable,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2021-08-17,unknown,flatulence,1.0,Unrelated,Unrelated,Probable,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-04-23,unknown,hot flashes,1.0,Unlikely,Unlikely,Possible,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2019-11-01,unknown,ear and labyrinth disorders – fullness/congestion left ear,1.0,Unlikely,Unrelated,Probable,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2020-02-11,unknown,"musculoskeletal and connective tissue disorder – tmj symptoms, left jaw",1.0,Unlikely,Unrelated,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2021-12-21,unknown,alk phos increased,1.0,Unrelated,Unrelated,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2021-12-21,unknown,alkaline phosphatase increased,1.0,Unrelated,Unrelated,Unrelated,No,No
+4013ce1eb4e04dc53415c02629dc6a36,2022-01-18,unknown,serum amylase increased,2.0,Possible,Unlikely,Unrelated,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-09,unknown,ast increased,1.0,Unlikely,Unrelated,Unrelated,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-09,unknown,alt increased,1.0,Unlikely,Unrelated,Unrelated,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-24,unknown,dyspnea,2.0,Possible,Possible,Unlikely,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-24,unknown,hypoxia,2.0,Possible,Possible,Unlikely,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-24,unknown,tachycardia,2.0,Possible,Possible,Unlikely,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-24,unknown,anemia,3.0,Possible,Probable,Unlikely,No,Yes
+fd204329b6f420abfec04e8269fee41e,2019-07-24,unknown,hyponatremia,2.0,Possible,Possible,Unlikely,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-24,unknown,hypokalemia,2.0,Possible,Possible,Unlikely,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-24,unknown,hypomagnesemia,2.0,Possible,Possible,Unlikely,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-24,unknown,fatigue,2.0,Possible,Possible,Unlikely,No,No
+fd204329b6f420abfec04e8269fee41e,2019-07-24,unknown,decreased appetite,2.0,Possible,Possible,Unlikely,No,No
+fd204329b6f420abfec04e8269fee41e,2019-08-06,unknown,vaginal bleeding,2.0,Possible,Possible,Unrelated,No,Yes
+6670265bba3f83c1294410a268d3e503,2019-12-03,unknown,anemia,2.0,Possible,Possible,Unlikely,No,No
+6670265bba3f83c1294410a268d3e503,2019-12-03,unknown,increased liver function test,2.0,Possible,Possible,Unlikely,No,No
+6670265bba3f83c1294410a268d3e503,2019-12-07,unknown,abdominal pain,2.0,Unlikely,Probable,Unrelated,No,No
+6670265bba3f83c1294410a268d3e503,2019-12-07,unknown,anemia,3.0,Unlikely,Probable,Unrelated,No,Yes
+6670265bba3f83c1294410a268d3e503,2019-12-07,unknown,tumor hemorrhage,3.0,Unlikely,Probable,Unrelated,No,Yes
+6670265bba3f83c1294410a268d3e503,2019-12-17,ongoing,constipation,2.0,Possible,Unlikely,Unlikely,No,No
+6670265bba3f83c1294410a268d3e503,2019-12-17,ongoing,dyspnea on exertion,2.0,Possible,Possible,Unlikely,No,No
+6670265bba3f83c1294410a268d3e503,2019-12-17,unknown,disease progression,3.0,Unlikely,Definite,Unlikely,No,Yes
+ccecd2b9caceb75e156d158ef7513799,2018-12-15,unknown,rash maculopapular,1.0,Possible,Unlikely,Unlikely,No,No
+8cef60952b35498cb9fe41077e327d0f,2018-11-26,unknown,anemia,3.0,Unlikely,Probable,Unrelated,No,Yes
+8cef60952b35498cb9fe41077e327d0f,2019-01-10,unknown,herpes zoster,2.0,Unlikely,Unlikely,Possible,No,No
+8cef60952b35498cb9fe41077e327d0f,2019-01-17,unknown,pain,2.0,Unlikely,Unlikely,Possible,No,No
+8cef60952b35498cb9fe41077e327d0f,2019-01-17,unknown,burning sensation,2.0,Unlikely,Unlikely,Possible,No,No
+8cef60952b35498cb9fe41077e327d0f,2019-01-17,unknown,skin ulcer,2.0,Unlikely,Unlikely,Possible,No,No
+8cef60952b35498cb9fe41077e327d0f,2019-02-19,ongoing,pruritus,2.0,Possible,Unlikely,Unrelated,No,No
+880d1b0ab2e5e4946585422e8ce11ac4,2019-09-09,unknown,confusion,3.0,Unlikely,Probable,Unrelated,No,Yes
+880d1b0ab2e5e4946585422e8ce11ac4,2019-09-09,unknown,hypercalcemia,4.0,Unlikely,Definite,Unrelated,No,Yes
+f089e1b909605b0d39ac54cc18f05758,2019-07-09,unknown,pruritus,2.0,Possible,Unlikely,Unrelated,No,No
+f089e1b909605b0d39ac54cc18f05758,2019-08-06,unknown,epistaxis,2.0,Possible,Possible,Unlikely,No,No
+f089e1b909605b0d39ac54cc18f05758,2019-08-06,unknown,anemia,3.0,Possible,Possible,Unlikely,No,Yes
+f089e1b909605b0d39ac54cc18f05758,2019-08-20,unknown,gingival bleeding,1.0,Possible,Unlikely,Unrelated,No,No
+f089e1b909605b0d39ac54cc18f05758,2019-08-20,unknown,psoriasis rash,2.0,Possible,Probable,Unrelated,No,No
+f089e1b909605b0d39ac54cc18f05758,2019-10-01,ongoing,anemia,2.0,Possible,Possible,Unrelated,No,No
+f089e1b909605b0d39ac54cc18f05758,2019-10-01,unknown,mucosal bleeding,2.0,Possible,Possible,Unrelated,No,No
+f089e1b909605b0d39ac54cc18f05758,2020-01-24,unknown,dizziness,1.0,Unlikely,Possible,Unrelated,No,No
+f089e1b909605b0d39ac54cc18f05758,2020-03-03,ongoing,pancytopenia,3.0,Possible,Probable,Unlikely,No,Yes
+f089e1b909605b0d39ac54cc18f05758,2020-02-18,unknown,arthralgia,1.0,Unlikely,Unlikely,Unrelated,No,No
+a2eac1eb9ebb6ea61d9498fc9c813106,2020-03-19,03/20/2020,hot flashes,1.0,Possible,Unlikely,Unlikely,No,No
+a2eac1eb9ebb6ea61d9498fc9c813106,2020-03-24,unknown,increased liver enzymes,1.0,Possible,Unlikely,Unlikely,No,No
+a2eac1eb9ebb6ea61d9498fc9c813106,2020-03-24,04/07/2020,ast increased,1.0,Possible,Unlikely,Unrelated,No,No
+a2eac1eb9ebb6ea61d9498fc9c813106,2020-03-24,04/07/2020,alt increased,1.0,Possible,Unlikely,Unrelated,No,No
+a2eac1eb9ebb6ea61d9498fc9c813106,2020-03-24,04/07/2020,proteinuria,2.0,Unrelated,Possible,Unrelated,No,No
+a2eac1eb9ebb6ea61d9498fc9c813106,2020-03-30,04/07/2020,mucositis oral,1.0,Possible,Unrelated,Unrelated,No,No
+99f8e325b895fb103328c46fcecba780,2018-11-13,unknown,dyspnea,2.0,Possible,Possible,Unlikely,No,Yes
+99f8e325b895fb103328c46fcecba780,2018-11-20,unknown,hypoxia,3.0,Possible,Probable,Unlikely,No,Yes
+13f0c302e519fabfdec53ebec86a164f,2019-08-20,unknown,alk phosphatase increased,1.0,Unlikely,Unrelated,Unlikely,No,No
+13f0c302e519fabfdec53ebec86a164f,2019-09-03,unknown,hematuria,2.0,Possible,Possible,Unrelated,No,No
+13f0c302e519fabfdec53ebec86a164f,2019-10-04,unknown,difficulty voiding,1.0,Possible,Possible,Unlikely,No,No
+13f0c302e519fabfdec53ebec86a164f,2019-10-15,unknown,flank pain,2.0,Possible,Possible,Unlikely,No,No
+6193a1dd3825671d9e5ea9f02d0f0fb0,2019-10-29,unknown,dehydration,2.0,Possible,Possible,Unlikely,No,No
+6193a1dd3825671d9e5ea9f02d0f0fb0,2019-10-29,unknown,fatigue,2.0,Possible,Possible,Unlikely,No,No
+6193a1dd3825671d9e5ea9f02d0f0fb0,2019-10-29,ongoing,tachycardia,1.0,Possible,Possible,Unlikely,No,No
+6193a1dd3825671d9e5ea9f02d0f0fb0,2019-10-29,unknown,elevated liver enzymes,1.0,Possible,Unlikely,Unlikely,Yes,No
+6193a1dd3825671d9e5ea9f02d0f0fb0,2019-11-18,unknown,acute kidney injury,3.0,Possible,Possible,Unrelated,No,Yes
+6193a1dd3825671d9e5ea9f02d0f0fb0,2019-11-18,unknown,hyperkalemia,3.0,Possible,Possible,Unrelated,No,Yes
+69a0d1ccba33f6d40b042ec617177636,2018-12-21,unknown,urinary retention,2.0,Possible,Possible,Unlikely,No,Yes
+69a0d1ccba33f6d40b042ec617177636,2018-12-21,unknown,confusion,2.0,Possible,Possible,Unlikely,No,Yes
+69a0d1ccba33f6d40b042ec617177636,2019-01-11,ongoing,weakness,2.0,Possible,Possible,Unlikely,No,No
+69a0d1ccba33f6d40b042ec617177636,2019-01-11,unknown,pain,2.0,Possible,Probable,Unlikely,No,No
+ad0f6d0f06469e9179935afed8931055,2018-12-19,unknown,muscle spasms,2.0,Possible,Unlikely,Possible,No,No
+ad0f6d0f06469e9179935afed8931055,2018-12-19,unknown,pruritus,1.0,Possible,Unlikely,Unlikely,No,No
+ad0f6d0f06469e9179935afed8931055,2018-12-20,unknown,deep vein thrombosis,3.0,Unlikely,Probable,Unrelated,No,Yes
+ad0f6d0f06469e9179935afed8931055,2018-12-31,unknown,alanine aminotransferase increased,2.0,Possible,Unlikely,Probable,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-04-07,unknown,oral mucositis,1.0,Unlikely,Possible,Unrelated,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-04-29,unknown,pain in oropharynx,1.0,Possible,Possible,Unlikely,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-05-12,05/12/2020,mucositis oral,1.0,Unlikely,Definite,Unrelated,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-07-07,ongoing,keratoacanthoma,2.0,Probable,Unlikely,Unrelated,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-07-07,09/01/2020,dysphagia,2.0,Unrelated,Possible,Definite,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-07-07,09/01/2020,esophagitis,2.0,Unrelated,Unlikely,Definite,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-07-07,unknown,dry mouth,1.0,Unrelated,Unlikely,Probable,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-07-21,09/01/2020,soft tissue infection,2.0,Unrelated,Unlikely,Unrelated,No,Yes
+99e34b12538569b3b9f4452ab6ead054,2020-07-21,09/01/2020,dysguesia,2.0,Unrelated,Unlikely,Probable,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-07-21,09/01/2020,nausea,1.0,Unrelated,Unlikely,Probable,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-07-21,09/01/2020,vomiting,1.0,Unrelated,Unlikely,Probable,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-07-07,08/17/2020,weight loss,1.0,Unrelated,Unlikely,Probable,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-07-21,09/01/2020,dermatitis radiation,2.0,Unrelated,Unrelated,Probable,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-08-17,unknown,weight loss,2.0,Unrelated,Unlikely,Probable,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-09-01,unknown,dysguesia,1.0,Unrelated,Unlikely,Probable,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-09-01,unknown,esophagitis,1.0,Unrelated,Unlikely,Definite,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-09-01,unknown,dysphagia,1.0,Unrelated,Possible,Definite,No,No
+99e34b12538569b3b9f4452ab6ead054,2020-12-01,01/05/2021,lymphocyte count decreased,3.0,Unrelated,Possible,Possible,No,No
+ba8df459b1548c0aca86fbc2a802490a,2019-12-03,unknown,rash,1.0,Possible,Unrelated,Unlikely,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-01-09,unknown,rash maculopapular,1.0,Possible,Unlikely,Unrelated,No,No
+ba8df459b1548c0aca86fbc2a802490a,2019-01-31,ongoing,rash maculopapular,2.0,Probable,Unlikely,Unlikely,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-04-07,ongoing,rash maculo-papular,2.0,Probable,Unlikely,Unlikely,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-05-13,unknown,epistaxis,1.0,Possible,Unlikely,Unlikely,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-05-13,unknown,myalgia,1.0,Possible,Unlikely,Unlikely,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,adrenal insufficiency,2.0,Probable,Unlikely,Unrelated,Yes,Yes
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,fatigue,2.0,Probable,Unlikely,Unrelated,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,nausea,2.0,Probable,Unlikely,Unrelated,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,vomiting,2.0,Probable,Unlikely,Unrelated,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,myalgia,2.0,Probable,Unlikely,Unrelated,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,anorexia,2.0,Probable,Unlikely,Unrelated,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,weight loss,2.0,Probable,Unlikely,Unrelated,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,abdominal pain,2.0,Probable,Unlikely,Unrelated,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-06-05,unknown,cough,1.0,Unrelated,Unrelated,Possible,No,No
+ba8df459b1548c0aca86fbc2a802490a,2020-08-01,unknown,anosmia,1.0,Unrelated,Unrelated,Probable,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-08-27,unknown,fatigue,1.0,Possible,Unlikely,Unlikely,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-08-27,ongoing,gum bleeding,1.0,Possible,Unlikely,Unlikely,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-08-27,08/24/2019,vaginal spotting,1.0,Possible,Unlikely,Unlikely,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-09-10,ongoing,vaginal bleeding,2.0,Possible,Unlikely,Unrelated,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-09-24,unknown,gingival bleeding,1.0,Possible,Unlikely,Unlikely,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-09-24,ongoing,perianal skin abrasion,2.0,Unlikely,Possible,Unlikely,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-10-08,unknown,stomatitis,1.0,Possible,Unlikely,Unrelated,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-11-05,ongoing,perineal pain,2.0,Unlikely,Possible,Unrelated,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-11-19,unknown,dyspnea,3.0,Possible,Possible,Unrelated,No,Yes
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-11-19,ongoing,asthma exacerbation,2.0,Unlikely,Probable,Unrelated,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2019-12-17,ongoing,perineal pain,1.0,Unlikely,Probable,Unrelated,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-01-14,unknown,pain,3.0,Unlikely,Probable,Unrelated,No,Yes
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-01-28,ongoing,pain at surgical site,2.0,Unlikely,Possible,Probable,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-01-28,unknown,discomfort at surgical site,1.0,Unlikely,Possible,Probable,No,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-02-11,unknown,hypothyroidism,2.0,Possible,Unlikely,Unrelated,Yes,No
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-05-05,unknown,arthralgia,2.0,Possible,Unlikely,Unrelated,No,No
