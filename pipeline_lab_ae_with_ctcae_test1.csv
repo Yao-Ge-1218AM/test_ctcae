@@ -1,0 +1,22 @@
+MRN,Onset Date,Date Resolved,CTCAE,Grade,Attr to Disease,AE Immune related?,Serious Y/N,CTCAE_Mapped_Top1,Similarity_Top1,Final_CTCAE_Term
+ebac4f67360c91e7bd8c6e10ba775fcd,2/11/20,unknown,lymphocyte count decreased,2,Possible,No,No,Lymphocyte Count Decreased,1.0,Lymphocyte Count Decreased
+ebac4f67360c91e7bd8c6e10ba775fcd,2/11/20,unknown,eosinophilia,1,Unlikely,No,No,Eosinophilia,1.0,Eosinophilia
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,hyperglycemia,2,Possible,No,No,Hyperglycemia,1.0,Hyperglycemia
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,lymphocyte count decreased,2,Possible,No,No,Lymphocyte Count Decreased,1.0,Lymphocyte Count Decreased
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,neutrophil count increased,1,Unlikely,No,No,Neutrophil Count Decreased,0.9904837012290955,Neutrophil Count Decreased
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,white blood cell increased,1,Unlikely,No,No,White Blood Cell Decreased,0.9830653071403503,White Blood Cell Decreased
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,anemia,1,Possible,No,No,Anemia,1.0,Anemia
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,alanine aminotransferase increased,1,Unlikely,No,No,Alanine Aminotransferase Increased,1.0,Alanine Aminotransferase Increased
+ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,unknown,platelet count decreased,1,Possible,No,No,Platelet Count Decreased,1.000000238418579,Platelet Count Decreased
+ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,unknown,eosinophilia,1,Possible,No,No,Eosinophilia,1.0,Eosinophilia
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,platelet count decreased,1,Possible,No,No,Platelet Count Decreased,1.000000238418579,Platelet Count Decreased
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,eosinophilia,1,Possible,No,No,Eosinophilia,1.0,Eosinophilia
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,alanine aminotransferase increased,1,Unlikely,No,No,Alanine Aminotransferase Increased,1.0,Alanine Aminotransferase Increased
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,thyroid stimulating hormone increased,1,Possible,Yes,No,Thyroid Stimulating Hormone Increased,0.9999998807907104,Thyroid Stimulating Hormone Increased
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,white blood cell decreased,1,Possible,No,No,White Blood Cell Decreased,1.0000001192092896,White Blood Cell Decreased
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,anemia,1,Possible,No,No,Anemia,1.0,Anemia
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,lymphocyte count decreased,2,Possible,No,No,Lymphocyte Count Decreased,1.0,Lymphocyte Count Decreased
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,eosinophilia,1,Possible,No,No,Eosinophilia,1.0,Eosinophilia
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,thyroid stimulating hormone increased,1,Possible,Yes,No,Thyroid Stimulating Hormone Increased,0.9999998807907104,Thyroid Stimulating Hormone Increased
+ebac4f67360c91e7bd8c6e10ba775fcd,9/9/20,unknown,eosinophilia,1,Possible,No,No,Eosinophilia,1.0,Eosinophilia
+ebac4f67360c91e7bd8c6e10ba775fcd,9/9/20,unknown,mean platelet volume decreased,1,Unlikely,No,No,Platelet Count Decreased,0.915678858757019,Platelet Count Decreased
