@@ -1,0 +1,973 @@
+MRN,Onset Date,Date Resolved,AE Term,Grade,Attribution to Disease,Immune-related AE,Serious AE,Row Index,Document Date,Document Name
+64f5309673cbf36a4298a56da2b87048,5/14/19,ongoing,Abdominal pain,1,Possible,No,No,0,5/14/19,Outpatient First Registration Progress Notes
+64f5309673cbf36a4298a56da2b87048,5/14/19,unknown,Headache,2,Unlikely,No,No,0,5/14/19,Outpatient First Registration Progress Notes
+64f5309673cbf36a4298a56da2b87048,5/28/19,ongoing,Depression,2,Unlikely,No,No,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/28/19,ongoing,Headache,1,Unrelated,No,No,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/28/19,ongoing,Fatigue,1,Possible,No,No,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/28/19,ongoing,Concentration impairment,1,Possible,No,No,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/28/19,ongoing,Anhedonia (decreased interest),2,Possible,No,No,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/28/19,5/28/19,Abdominal pain,1,Possible,No,No,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/28/19,unknown,Leukopenia,1,Possible,No,No,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/19,ongoing,Meningioma,2,Unrelated,No,No,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/19,ongoing,Pituitary mass,2,Unrelated,No,No,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,3/18/19,ongoing,Lymph node metastasis (left level II),3,Definite,No,Yes,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,3/18/19,ongoing,Pulmonary metastases,3,Definite,No,Yes,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,3/18/19,ongoing,Left psoas metastasis,3,Definite,No,Yes,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,3/18/19,ongoing,Ascending colon lesion (residual disease),3,Definite,No,Yes,1,5/28/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/29/19 (estimated),5/30/19 (estimated),Rash,1,Possible,Yes,No,2,6/11/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,6/4/19 (estimated),ongoing,Throat pruritus,1,Possible,No,No,2,6/11/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,6/4/19 (estimated),ongoing,Cough,1,Possible,No,No,2,6/11/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,6/11/19,ongoing,Fatigue,1,Possible,No,No,2,6/11/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,6/11/19,ongoing,Abdominal pain,1,Possible,No,No,2,6/11/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,6/11/19,ongoing,Dyspnea,1,Possible,No,No,2,6/11/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,6/10/19,ongoing,Leukopenia,1,Possible,No,No,2,6/11/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,6/10/19,ongoing,Thrombocytopenia,1,Possible,No,No,2,6/11/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,6/25/19,ongoing,Fatigue,1,Possible,No,No,3,6/25/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,06/29/19,07/05/19,Gingival bleeding,1,Unrelated,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Hemorrhoids,2,Unrelated,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Pruritus,1,Unrelated,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,07/09/19,Headache,1,Unrelated,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Abdominal pain,1,Unrelated,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Anxiety,1,Unrelated,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Fatigue,2,Possible,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Throat irritation,1,Unrelated,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Cough,1,Unrelated,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Dyspnea,2,Possible,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Depression,2,Possible,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Insomnia,2,Possible,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Night terrors,2,Unrelated,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,07/09/19,ongoing,Anorexia,2,Possible,No,No,4,7/9/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/12/19,ongoing,Mucositis,2,Possible,No,No,5,7/23/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/23/19,ongoing,Fatigue,2,Possible,No,No,5,7/23/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/23/19,ongoing,Hemorrhoids,2,Unlikely,No,No,5,7/23/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/23/19,ongoing,Depression,2,Unlikely,No,No,5,7/23/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/23/19,ongoing,Insomnia,2,Unlikely,No,No,5,7/23/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/23/19,ongoing,Anorexia,2,Unlikely,No,No,5,7/23/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/23/19,ongoing,Abdominal pain,1,Possible,No,No,5,7/23/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/23/19,ongoing,Pruritus,1,Unlikely,No,No,5,7/23/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/23/19,ongoing,Agitation,3,Unlikely,No,Yes,5,7/23/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,8/6/19,Stomatitis,1,Possible,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Rash maculopapular,2,Possible,Yes,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Decreased appetite,2,Possible,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Weight loss,2,Possible,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Constipation,2,Unrelated,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Nausea,1,Unlikely,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Dyspnea,2,Possible,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Hemorrhoids,2,Unrelated,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Fatigue,1,Possible,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Insomnia,1,Unlikely,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/6/19,ongoing,Abdominal pain,2,Possible,No,No,6,8/6/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,ongoing,Cranial nerve palsy,2,Unrelated,Yes,Yes,7,8/20/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/20/19,8/20/19,Hematuria,1,Unrelated,No,No,7,8/20/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/20/19,8/20/19,Stomatitis,2,Unrelated,No,No,7,8/20/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/20/19,ongoing,Rash,1,Unrelated,Yes,No,7,8/20/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/20/19,ongoing,Nausea,1,Unrelated,No,No,7,8/20/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/20/19,ongoing,Abdominal pain,1,Possible,No,No,7,8/20/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/20/19,ongoing,Dyspnea on exertion,2,Possible,No,No,7,8/20/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/20/19,8/20/19,Hemorrhoids with rectal bleeding,1,Unrelated,No,No,7,8/20/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/20/19,ongoing,Fatigue,1,Possible,No,No,7,8/20/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/3/19,ongoing,Cranial neuropathy,2,Possible,Yes,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/28/19,8/28/19,Hematochezia,1,Possible,Yes,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/3/19,ongoing,Anal pain,1,Possible,No,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/3/19,ongoing,Rash,1,Possible,Yes,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/3/19,9/3/19,Stomatitis,1,Possible,Yes,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/3/19,ongoing,Nausea,1,Possible,No,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/3/19,ongoing,Abdominal pain,2,Possible,No,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/3/19,ongoing,Dyspnea on exertion,2,Possible,No,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/3/19,ongoing,Fatigue,2,Possible,No,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/3/19,ongoing,Decreased appetite,1,Possible,No,No,8,9/3/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/17/19 (estimated),ongoing,Bell's palsy,2,Possible,Yes,No,9,9/17/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/17/19 (estimated),9/17/19,Rectal hemorrhage,1,Possible,No,No,9,9/17/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/17/19 (estimated),ongoing,Rash,1,Probable,Yes,No,9,9/17/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/17/19 (estimated),ongoing,Anorexia,1,Possible,No,No,9,9/17/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/17/19 (estimated),ongoing,Night sweats,1,Possible,No,No,9,9/17/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/17/19 (estimated),ongoing,Memory impairment,1,Possible,No,No,9,9/17/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/17/19 (estimated),ongoing,Nausea,1,Possible,No,No,9,9/17/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/17/19 (estimated),ongoing,Reflux,1,Possible,No,No,9,9/17/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/17/19 (estimated),ongoing,Abdominal cramping,1,Possible,No,No,9,9/17/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/1/19,ongoing,Gingival bleeding,1,Possible,No,No,10,10/1/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/1/19,ongoing,Rectal hemorrhage,1,Unlikely,No,No,10,10/1/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/1/19,ongoing,Rash,1,Possible,Yes,No,10,10/1/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/1/19,ongoing,Cranial nerve palsy,2,Probable,Yes,No,10,10/1/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/1/19,ongoing,Anorexia,2,Possible,No,No,10,10/1/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/1/19,ongoing,Insomnia,2,Unrelated,No,No,10,10/1/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/1/19,ongoing,Fatigue,1,Unrelated,No,No,10,10/1/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/1/19,ongoing,Memory impairment,1,Possible,No,No,10,10/1/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/1/19,ongoing,Nausea,1,Possible,No,No,10,10/1/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,ongoing,Facial nerve palsy,2,Possible,Yes,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Facial fasciculations,1,Possible,Yes,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Gingival bleeding,1,Unrelated,No,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Rectal bleeding,1,Unrelated,No,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Papular rash,1,Possible,Yes,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Fatigue,1,Possible,No,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Insomnia,2,Possible,No,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Memory impairment,1,Possible,No,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Dry throat,1,Possible,No,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Anorexia,1,Possible,No,No,11,10/15/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,10/29/19,Facial nerve palsy,2,Probable,Yes,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,10/29/19,Facial nerve disorder (twitching),2,Probable,Yes,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Gum bleeding,1,Unrelated,No,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,10/29/19,Rectal bleeding,1,Unrelated,No,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Rash,1,Probable,Yes,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Fatigue,1,Possible,No,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Cognitive impairment,1,Possible,No,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Depression,2,Unrelated,No,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Anxiety,2,Unrelated,No,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Bipolar disorder,2,Unrelated,No,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Insomnia,2,Possible,No,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Anorexia,2,Possible,No,No,12,10/29/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,ongoing,Facial nerve palsy,2,Probable,Yes,Yes,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Rash maculopapular (back),2,Probable,Yes,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Epistaxis,1,Probable,No,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Gingival bleeding,1,Probable,No,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Rectal hemorrhage,2,Probable,No,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Dysgeusia,1,Possible,Yes,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Oral paresthesia,1,Possible,Yes,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Papular rash (forearm/other sites),1,Possible,Yes,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Cheilitis (lip dryness/bleeding),1,Possible,No,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Insomnia,1,Unlikely,No,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Anorexia,1,Possible,No,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,11/12/19,Memory impairment,1,Unlikely,No,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,ongoing,Pleural thickening,1,Definite,No,No,13,11/12/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,08/10/19,ongoing,Facial nerve palsy,2,Unrelated,Yes,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,08/10/19,ongoing,Dysgeusia,2,Unrelated,Yes,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,11/26/19,Facial twitching,2,Unrelated,Yes,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,11/26/19,Rectal hemorrhage,2,Unrelated,No,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,11/26/19,Oral mucositis,2,Unrelated,Yes,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/12/19,11/26/19,Epistaxis,1,Unrelated,Yes,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/26/19,ongoing,Rash maculopapular,2,Unrelated,Yes,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/26/19,ongoing,Anorexia,2,Possible,No,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/26/19,ongoing,Insomnia,1,Unlikely,No,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/26/19,11/26/19,Memory impairment,1,Unlikely,No,No,14,11/26/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,08/10/19,12/10/19,Facial nerve palsy,2,Probable,Yes,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,08/10/19,ongoing,Dysgeusia,2,Probable,Yes,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,12/10/19,Facial twitching,2,Probable,Yes,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/26/19,ongoing,Rash maculopapular,2,Probable,Yes,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,11/26/19,12/10/19,Stomatitis,2,Probable,Yes,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/10/19,12/10/19,Hemorrhoids hemorrhage,2,Possible,No,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/10/19,12/10/19,Oral hemorrhage,2,Possible,No,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/10/19,12/10/19,Epistaxis,2,Possible,No,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/10/19,ongoing,Pruritus,2,Possible,Yes,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/10/19,ongoing,Fatigue,1,Possible,No,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/10/19,12/10/19,Memory impairment,2,Unlikely,No,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/10/19,ongoing,Decreased appetite,2,Possible,No,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/10/19,ongoing,Insomnia,2,Possible,No,No,15,12/10/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,ongoing,Facial nerve palsy,2,Possible,Yes,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Facial twitching,2,Possible,Yes,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Rash,2,Probable,Yes,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/24/19,ongoing,Rectal hemorrhage,2,Possible,No,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/24/19,12/24/19,Mucosal bleeding (oral/nasal),2,Probable,No,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/24/19,ongoing,Nausea,1,Possible,No,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/24/19,ongoing,Fatigue,2,Possible,No,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,ongoing,Dysgeusia,2,Possible,Yes,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,ongoing,Facial numbness,2,Possible,Yes,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/24/19,ongoing,Cognitive disorder (fogginess/memory issues),2,Unlikely,No,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/24/19,ongoing,Insomnia,2,Unlikely,No,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/24/19,12/24/19,Anorexia,2,Possible,No,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,12/24/19,ongoing,Cheilitis (dry lips with bleeding),1,Possible,No,No,16,12/24/19,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,ongoing,Facial nerve palsy,2,Probable,Yes,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,1/7/20 (estimated),1/7/20,Hemorrhoidal hemorrhage,2,Possible,No,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,1/7/20 (estimated),ongoing,Bullous dermatitis,2,Probable,Yes,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,ongoing,Facial twitching,2,Possible,Yes,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,1/7/20 (estimated),1/7/20,Anorexia,1,Possible,No,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,1/7/20 (estimated),ongoing,Fatigue,1,Possible,No,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,1/7/20 (estimated),ongoing,Insomnia,1,Possible,No,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,1/7/20 (estimated),ongoing,Dysgeusia,2,Possible,Yes,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,1/7/20 (estimated),ongoing,Hypoesthesia,2,Possible,Yes,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,1/7/20 (estimated),1/7/20,Oral hemorrhage,2,Probable,No,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,1/7/20 (estimated),1/7/20,Epistaxis,2,Probable,No,No,17,1/7/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,2/4/20,Facial nerve palsy,2,Possible,Yes,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/20,2/4/20,Hemorrhoids,2,Probable,No,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/20,2/4/20,Epistaxis,1,Probable,No,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/20,2/4/20,Oral hemorrhage,1,Probable,No,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,2/4/20,Rash maculopapular,2,Probable,Yes,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/20,2/4/20,Dysgeusia,1,Possible,Yes,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/20,2/4/20,Paresthesia,1,Possible,Yes,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/20,ongoing,Fatigue,1,Possible,No,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/20,2/4/20,Decreased appetite,1,Possible,No,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,2/4/20,ongoing,Insomnia,1,Possible,No,No,18,2/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,3/17/20,Facial nerve palsy,3,Probable,Yes,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/10/19,3/17/20,Rectal hemorrhage,2,Definite,No,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/10/19,12/24/19,Rash,3,Definite,Yes,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/10/19,3/17/20,Dysgeusia,1,Possible,Yes,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/10/19,3/17/20,Mucosal bleeding,2,Definite,No,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/15/19,3/17/20,Facial twitching,2,Possible,Yes,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,3/17/20,ongoing,Hypothyroidism,1,Probable,Yes,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,7/01/19,ongoing,Fatigue,1,Possible,No,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,3/17/20,ongoing,Constipation,1,Possible,No,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,3/17/20,ongoing,Pruritus,1,Possible,No,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,3/17/20,3/17/20,Anorexia,1,Possible,No,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,3/17/20,ongoing,Insomnia,1,Possible,No,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,9/10/19,3/17/20,Numbness,1,Possible,Yes,No,19,3/17/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,5/12/20,Cranial nerve palsy,3,Probable,Yes,Yes,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,5/12/20,Hemorrhoids,2,Possible,No,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,5/12/20,Oral hemorrhage,2,Definite,No,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,5/12/20,Epistaxis,2,Definite,No,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,12/24/19,Rash,3,Definite,Yes,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,5/12/20,Dysgeusia,1,Possible,No,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,5/12/20,Paresthesia,1,Possible,No,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,5/12/20,Anorexia,2,Possible,No,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,ongoing,Insomnia,1,Unlikely,No,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,ongoing,Hypothyroidism,1,Probable,Yes,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,5/12/20,ongoing,Abdominal pain,2,Unlikely,No,No,20,5/12/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/10/19,8/4/20,Facial nerve palsy,3,Unrelated,Yes,Yes,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,10/29/19,12/24/19,Rash,2,Unrelated,Yes,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,8/4/20,Hemorrhoids,2,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,8/4/20,Oral hemorrhage,2,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,8/4/20,Epistaxis,2,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,ongoing,Hypokalemia,2,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,8/4/20,Anorexia,2,Possible,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,ongoing,Insomnia,2,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,8/4/20,Dysgeusia,1,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,8/4/20,Paresthesia,1,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,ongoing,Hypothyroidism,2,Unrelated,Yes,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,ongoing,Depression,2,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,ongoing,Anxiety,2,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+64f5309673cbf36a4298a56da2b87048,8/4/20,ongoing,Bipolar disorder,2,Unrelated,No,No,21,8/4/20,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,08/07/18,ongoing,Facial rash,2,Unlikely,Yes,No,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,10/27/18,ongoing,Right ear lesion,2,Unrelated,No,No,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,11/27/18,11/27/18,Constipation,1,Unrelated,No,No,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,07/11/18,ongoing,Hematuria,2,Unrelated,No,No,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,11/27/18,ongoing,Left groin pain,2,Possible,No,No,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,11/27/18,ongoing,Hypothyroidism,2,Unlikely,Yes,No,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,08/07/18,10/16/18,Fatigue,1,Unlikely,No,No,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/27/17,unknown,Pulmonary embolism,3,Unrelated,No,Yes,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,11/27/18,ongoing,Keratotic spines on bilateral ear helices,2,Unrelated,No,No,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,07/11/18,ongoing,Radiation cystitis,2,Unrelated,No,No,22,11/27/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/27/17,unknown,Pulmonary embolism,3,Unlikely,No,Yes,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,07/11/18,ongoing,Hematuria,2,Unlikely,No,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,07/25/18,ongoing,Radiation cystitis,2,Unrelated,No,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,08/07/18,10/16/18,Fatigue,1,Possible,No,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,08/07/18,ongoing,Rash,1,Possible,Yes,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,11/27/18,unknown,Skin lesion,2,Unrelated,No,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/11/18,ongoing,Hypothyroidism,2,Possible,Yes,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/11/18,ongoing,Constipation,2,Possible,No,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/11/18,12/11/18,Nausea,1,Possible,No,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/11/18,12/11/18,Vomiting,1,Possible,No,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/11/18,ongoing,Pain in left groin,1,Unlikely,No,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/11/18,ongoing,Skin lesion,2,Unrelated,No,No,23,12/11/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/27/17,ongoing,Pulmonary embolism,3,Unlikely,No,Yes,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,07/11/18,ongoing,Hematuria,2,Unrelated,No,No,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,07/25/18,ongoing,Radiation cystitis,2,Unrelated,No,No,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,07/25/18,ongoing,Hypothyroidism,2,Possible,Yes,No,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,08/07/18,10/16/18,Fatigue,1,Possible,No,No,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,08/07/18,ongoing,Rash on cheeks,2,Possible,Yes,No,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,11/27/18,ongoing,Keratoacanthoma (ear lesion),2,Unrelated,No,No,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/24/18,ongoing,Fatigue,1,Possible,No,No,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/24/18,ongoing,Constipation,2,Unrelated,No,No,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/24/18,12/24/18,Nausea/vomiting,1,Unrelated,No,No,24,12/24/18,Progress Note - Standard SOAP
+b143468311134d27f4f8a7622a1d7235,12/24/18,ongoing,Left groin pain,2,Unrelated,No,No,24,12/24/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013,unknown,Fatigue,3,Unrelated,No,No,25,12/11/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/11/18,ongoing,Fatigue,2,Unrelated,No,No,25,12/11/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/11/18,12/11/18,Stomatitis (gum pain),1,Unrelated,No,No,25,12/11/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/11/18,12/11/18,Pruritus (hand itching),1,Unrelated,No,No,25,12/11/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/11/18,12/11/18,Decreased appetite,2,Unrelated,No,No,25,12/11/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/11/18,12/11/18,Diarrhea,2,Unrelated,No,No,25,12/11/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/11/18,ongoing,Pain in sacral area,2,Probable,No,No,25,12/11/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/11/18,ongoing,Nausea,2,Possible,No,No,25,12/11/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/14/18,12/26/18,Myalgia,1,Possible,No,No,26,12/26/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/14/18,12/26/18,Chills,1,Possible,No,No,26,12/26/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/19/18,ongoing,Fatigue,2,Possible,No,No,26,12/26/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/19/18,ongoing,Chest pain,2,Possible,No,No,26,12/26/18,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013,unknown,Fatigue,3,Probable,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/14/18 (estimated),12/18/18 (estimated),Flu-like symptoms,1,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/14/18 (estimated),12/18/18 (estimated),Sore throat,1,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/14/18 (estimated),12/18/18 (estimated),Myalgia,1,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,12/14/18 (estimated),12/18/18 (estimated),Chills,1,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/8/19 (estimated),1/8/19,Chest pain,2,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/8/19 (estimated),ongoing,Fatigue,1,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/3/19 (estimated),ongoing,Left hip pain,2,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/3/19 (estimated),ongoing,Pelvic pain,2,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/8/19 (estimated),ongoing,Abdominal pain,2,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/8/19 (estimated),unknown,Skin cancer,3,Unlikely,No,Yes,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/8/19 (estimated),unknown,Anemia,1,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/8/19 (estimated),unknown,Lymphopenia,2,Possible,No,No,27,1/8/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013 (estimated),unknown,Fatigue,3,Unlikely,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Pelvic pain,3,Probable,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Constipation,2,Possible,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Rash,1,Possible,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Fatigue,2,Possible,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,unknown,Rectal bleeding,1,Probable,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Rectal pain,2,Probable,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Decreased appetite,2,Possible,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Nausea,2,Possible,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Hypothyroidism,1,Possible,Yes,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Perineal fibrosis,3,Unlikely,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/22/19,ongoing,Abdominal pain,1,Possible,No,No,28,1/22/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/5/19,ongoing,Pelvic pain,1,Possible,No,No,29,2/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/5/19,ongoing,Abdominal pain,1,Possible,No,No,29,2/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/5/19,ongoing,Constipation,1,Possible,No,No,29,2/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/5/19,ongoing,Rash,1,Possible,No,No,29,2/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/5/19,ongoing,Fatigue,1,Possible,No,No,29,2/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/5/19,2/5/19,Rectal hemorrhage,1,Possible,No,No,29,2/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/5/19,ongoing,Rectal pain,1,Possible,No,No,29,2/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/5/19,ongoing,Decreased appetite,1,Possible,No,No,29,2/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/5/19,ongoing,Nausea,2,Possible,No,No,29,2/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013,unknown,Fatigue,3,Unlikely,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,02/19/19,Left hip pain,2,Possible,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,02/19/19,Lower pelvic pain,2,Possible,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,02/19/19,Constipation,2,Possible,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,ongoing,Rash,2,Possible,Yes,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,ongoing,Fatigue,1,Possible,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,ongoing,Hematochezia (BRBPR),2,Probable,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,ongoing,Rectal pain,2,Probable,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,ongoing,Decreased appetite,2,Probable,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,ongoing,Nausea,2,Possible,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,02/19/19,Abdominal pain,2,Possible,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,ongoing,Ventral hernia,1,Unrelated,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,ongoing,Leukopenia,1,Possible,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,02/19/19,ongoing,Anemia,1,Possible,No,No,30,2/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013,unknown,Fatigue,3,Unlikely,No,No,31,3/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,Rash,1,Possible,Yes,No,31,3/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,Rectal hemorrhage,1,Possible,No,No,31,3/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,Nausea,1,Possible,No,No,31,3/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,Abdominal hernia,1,Unlikely,No,No,31,3/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,Disease progression,3,Definite,No,Yes,31,3/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,3/5/19,Abdominal pain,2,Possible,No,No,31,3/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,Anemia,1,Possible,No,No,31,3/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,Leukopenia,1,Possible,No,No,31,3/5/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,10/2012,3/19/19,Rectal bleeding,2,Definite,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,10/2012,3/19/19,Constipation,2,Possible,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,11/2012,ongoing,Right lung nodules,3,Definite,No,Yes,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013,unknown,Fatigue,3,Unrelated,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,11/2018,ongoing,Sacral sclerosis,3,Definite,No,Yes,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/19/19,ongoing,Keratoacanthomas,2,Probable,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/19/19,ongoing,Skin bruising,1,Unrelated,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/19/19,ongoing,Sacral pain,1,Probable,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/19/19,ongoing,Jitteriness,1,Unrelated,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/19/19,ongoing,Nausea,1,Unrelated,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/19/19,ongoing,Anemia,1,Possible,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/19/19,ongoing,Anxiety,2,Possible,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/19/19,ongoing,Tumor thrombus,3,Definite,No,Yes,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/19/19,ongoing,Ventral hernia,1,Unrelated,No,No,32,3/19/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/1/2013,unknown,Fatigue,3,Unrelated,No,No,33,4/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/2/19,ongoing,Pruritus,2,Unrelated,Yes,No,33,4/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/2/19,ongoing,Keratoacanthoma,2,Unrelated,Yes,No,33,4/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/2/19,ongoing,Myalgia,1,Unrelated,No,No,33,4/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/2/19,ongoing,Nausea,1,Unrelated,No,No,33,4/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/2/19,ongoing,Back pain,1,Definite,No,No,33,4/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/2/19,ongoing,Anemia,1,Possible,No,No,33,4/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/2/19,ongoing,Leukopenia,1,Possible,No,No,33,4/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/2/19,ongoing,Lymphocyte count decreased,1,Possible,No,No,33,4/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013,unknown,Fatigue,2,Probable,No,No,34,4/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/16/19,ongoing,Pruritus,1,Probable,No,No,34,4/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/16/19,ongoing,Keratoacanthomas,2,Probable,No,No,34,4/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/16/19,ongoing,Myalgia,1,Possible,No,No,34,4/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/16/19,ongoing,Back pain,1,Possible,No,No,34,4/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/16/19,ongoing,Nausea,1,Possible,No,No,34,4/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/16/19,ongoing,Vaginal atrophy,1,Unrelated,No,No,34,4/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/16/19,ongoing,Anxiety,1,Possible,No,No,34,4/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/2/19,ongoing,Fatigue,1,Possible,No,No,35,5/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/2/19,ongoing,Pruritus,2,Probable,Yes,No,35,5/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/2/19,ongoing,Keratoacanthomas,2,Probable,Yes,No,35,5/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/2/19,5/2/19,Ear burning,2,Unrelated,No,No,35,5/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/2/19,ongoing,Skin lesion bleeding,2,Probable,Yes,No,35,5/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/2/19,ongoing,Anxiety,2,Possible,No,No,35,5/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/2/19,ongoing,Sacral pain,2,Definite,No,No,35,5/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/2/19,ongoing,Anemia,2,Possible,No,No,35,5/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,Tumor extension in IVC,3,Definite,No,Yes,35,5/2/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013,unknown,Fatigue,2,Unrelated,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,ongoing,Keratoacanthomas,3,Unrelated,Yes,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,ongoing,Pruritus,2,Unrelated,Yes,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,5/14/19,Palpitations,2,Unrelated,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,5/14/19,Insomnia,2,Unrelated,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,5/14/19,Gastrointestinal upset,2,Unrelated,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,unknown,Somnolence,2,Unrelated,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,5/16/19,Leg pain,2,Possible,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,unknown,Sacral pain,1,Probable,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,unknown,Burning sensation at port site,1,Unrelated,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,unknown,Ear burning,1,Unrelated,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,unknown,Ear skin peeling,1,Unrelated,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,unknown,Cutaneous bleeding,1,Unrelated,Yes,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,ongoing,Right hydronephrosis,1,Probable,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,ongoing,Left caliectasis,1,Probable,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,ongoing,Pericardial effusion,1,Possible,No,No,36,5/16/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/28/19,ongoing,Rash,3,Definite,Yes,No,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/28/19,ongoing,Keratoacanthomas,2,Definite,Yes,No,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/28/19,ongoing,Pruritus,2,Possible,Yes,No,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/28/19,ongoing,Insomnia,2,Unrelated,No,No,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/28/19,ongoing,Pain,1,Probable,No,No,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,1/1/2013 (estimated),unknown,Fatigue,3,Probable,No,No,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,IVC thrombus,3,Definite,No,Yes,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,3/5/19,ongoing,Left internal iliac thrombus,3,Definite,No,Yes,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,11/1/2012 (estimated),ongoing,Pulmonary metastases,3,Definite,No,Yes,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,11/1/2018 (estimated),ongoing,Sacral metastases,3,Definite,No,Yes,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/28/19,ongoing,Anxiety,2,Possible,No,No,37,5/28/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/12/19 (estimated),ongoing,Keratoacanthomas,3,Unrelated,Yes,No,38,6/12/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/12/19 (estimated),ongoing,Pruritus,2,Unrelated,Yes,No,38,6/12/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/05/19 (estimated),ongoing,Pelvic pain,1,Probable,No,No,38,6/12/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/12/19 (estimated),ongoing,Dysuria,1,Possible,No,No,38,6/12/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/12/19 (estimated),ongoing,Urinary urgency,1,Possible,No,No,38,6/12/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/12/19 (estimated),ongoing,Anxiety,1,Possible,No,No,38,6/12/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/01/2013 (estimated),unknown,Fatigue,3,Unrelated,No,No,38,6/12/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Rash,3,Probable,Yes,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Keratoacanthoma,2,Probable,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Pruritus,2,Probable,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Dysuria,2,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Urinary urgency,2,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Pelvic pain,2,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Rectal hemorrhage,2,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Stomatitis,1,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013,unknown,Fatigue,3,Probable,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Anxiety,2,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Abdominal pain,2,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Anemia,1,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Leukopenia,1,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Hyperglycemia,1,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/25/19,ongoing,Hypercholesterolemia,1,Possible,No,No,39,6/25/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,06/16/19,ongoing,Skin reaction (rash),3,Unrelated,Yes,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,01/2013,unknown,Fatigue,2,Unrelated,No,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,ongoing,Keratoacanthomas,2,Unrelated,Yes,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,ongoing,Pruritus,2,Unrelated,Yes,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,ongoing,Anxiety,2,Possible,No,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,ongoing,"Swelling in right pelvis, groin, and leg",2,Probable,No,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,ongoing,"Pain in right pelvis, groin, and leg",2,Probable,No,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,ongoing,Sedation,2,Unrelated,No,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,ongoing,Abdominal pain,2,Probable,No,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,unknown,Leukopenia,1,Possible,No,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,unknown,Anemia,1,Possible,No,No,40,8/20/19,Progress Note - Standard SOAP
+7d6b3003a0ab29e50e44cc5d6ffb2f39,08/20/19,unknown,Hyperglycemia,1,Possible,No,No,40,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,5/28/19 (estimated),ongoing,Fatigue,2,Possible,No,No,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,5/28/19 (estimated),ongoing,Cough,2,Possible,No,No,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,5/28/19 (estimated),6/25/19,Pharyngitis,1,Unlikely,No,No,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,6/25/19 (estimated),ongoing,Dysgeusia,1,Probable,No,No,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,10/2018,12/2018,Back pain,3,Definite,No,Yes,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,9/2017,unknown,Deep vein thrombosis,3,Definite,No,Yes,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,5/28/19 (estimated),ongoing,Dyspnea on exertion,2,Possible,No,No,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,6/25/19 (estimated),ongoing,Pancytopenia,2,Possible,No,No,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,6/25/19 (estimated),ongoing,Wheezing,2,Possible,No,No,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,6/25/19 (estimated),ongoing,Pharyngeal erythema,1,Unlikely,No,No,41,6/25/19,Outpatient First Registration Progress Notes
+ee21ede823037fd3671f67a68376422a,9/2017,unknown,Deep vein thrombosis,3,Probable,No,Yes,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,10/2018,12/2018,Back pain,3,Definite,No,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/9/19,ongoing,Fatigue,1,Unrelated,No,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/9/19,7/9/19,Dry cough,1,Unrelated,No,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/9/19,ongoing,Dry mouth,1,Unrelated,No,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/9/19,ongoing,Taste changes,1,Unrelated,No,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/9/19,ongoing,Hypotension,1,Unrelated,No,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/9/19,ongoing,Anemia,2,Possible,No,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/9/19,ongoing,Leukopenia,1,Possible,No,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/9/19,ongoing,Thrombocytopenia,1,Possible,No,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/9/19,ongoing,Hypothyroidism,1,Unrelated,Yes,No,42,7/9/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/23/19 (estimated),ongoing,Rash maculopapular,1,Unrelated,Yes,No,43,7/23/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/16/19 (estimated),7/18/19 (estimated),Chest pain,1,Unrelated,No,No,43,7/23/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/23/19 (estimated),ongoing,Xerostomia (dry mouth),1,Unrelated,No,No,43,7/23/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/23/19 (estimated),ongoing,Dysgeusia (taste changes),1,Unrelated,No,No,43,7/23/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/23/19 (estimated),ongoing,Constipation,2,Unrelated,No,No,43,7/23/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/23/19 (estimated),ongoing,Fatigue,1,Unrelated,No,No,43,7/23/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/30/19 (estimated),8/6/19,Chest tightness,1,Unlikely,No,No,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,8/4/19 (estimated),ongoing,Cough,1,Unlikely,No,No,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/24/19 (estimated),8/6/19,Somnolence,1,Unrelated,No,No,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,7/16/19 (estimated),ongoing,Rash maculopapular,1,Unrelated,Yes,No,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,8/6/19,ongoing,Possible herpes zoster reactivation,1,Unlikely,No,No,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,8/6/19,ongoing,Anemia,2,Probable,No,No,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,8/6/19,ongoing,Thrombocytopenia,1,Probable,No,No,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,6/2019 (estimated),ongoing,Liver metastases progression,3,Definite,No,Yes,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,6/2019 (estimated),ongoing,Lymph node metastases progression,3,Definite,No,Yes,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,6/2019 (estimated),ongoing,New lung metastases,3,Definite,No,Yes,44,8/6/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,09/01/2017,ongoing,Deep vein thrombosis,3,Definite,No,Yes,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,10/01/2018,12/31/2018,Back pain,3,Definite,No,Yes,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Fatigue,1,Possible,No,No,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Rash,1,Probable,Yes,No,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Rhinitis,1,Possible,No,No,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Cough,2,Possible,No,No,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Hoarseness,1,Possible,No,No,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Pharyngitis,1,Possible,No,No,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Hypophosphatemia,1,Possible,No,No,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Vocal cord paralysis,1,Possible,No,No,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Hepatic metastases,3,Definite,No,Yes,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Bone metastases,3,Definite,No,Yes,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,08/20/2019,ongoing,Bone metastases,3,Definite,No,Yes,45,8/20/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,09/2017 (estimated),unknown,Deep vein thrombosis,3,Definite,No,Yes,46,9/5/19,Progress Note - Medical Oncology Free Text
+ee21ede823037fd3671f67a68376422a,10/2018 (estimated),11/2018 (estimated),Back pain,3,Definite,No,No,46,9/5/19,Progress Note - Medical Oncology Free Text
+ee21ede823037fd3671f67a68376422a,09/05/19,ongoing,Rash maculopapular,1,Definite,Yes,No,46,9/5/19,Progress Note - Medical Oncology Free Text
+ee21ede823037fd3671f67a68376422a,09/05/19,ongoing,Cough,2,Possible,No,No,46,9/5/19,Progress Note - Medical Oncology Free Text
+ee21ede823037fd3671f67a68376422a,09/05/19,ongoing,Wheezing,1,Possible,No,No,46,9/5/19,Progress Note - Medical Oncology Free Text
+ee21ede823037fd3671f67a68376422a,09/05/19,ongoing,Acute kidney injury,1,Possible,No,No,46,9/5/19,Progress Note - Medical Oncology Free Text
+ee21ede823037fd3671f67a68376422a,09/30/19,ongoing,Disease progression,3,Definite,No,Yes,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,11/26/19,ongoing,Atrial fibrillation with RVR,3,Unlikely,No,Yes,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Bronchospasm,3,Unlikely,No,Yes,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Back pain,3,Definite,No,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Arthralgia,2,Unrelated,No,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Fatigue,2,Possible,No,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Constipation,2,Unrelated,No,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Keratocanthoma,1,Unrelated,Yes,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Rash,1,Unrelated,Yes,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Anemia,2,Possible,No,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Thrombocytopenia,1,Possible,No,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/24/19,ongoing,Lymphopenia,3,Possible,No,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,10/01/19 (estimated),ongoing,Acute kidney injury,1,Unrelated,No,No,47,12/24/19,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/11/19,unknown,Bronchospasm,3,Unrelated,No,Yes,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/11/19,unknown,Hypoxia,3,Unrelated,No,Yes,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,1/21/20,ongoing,Pain in extremity (right anterior thigh/hip),3,Probable,No,No,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,1/21/20,ongoing,Constipation,2,Unlikely,No,No,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,1/21/20,1/21/20,Keratoacanthoma,1,Unrelated,Yes,No,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,1/21/20,ongoing,Pruritic papular rash,1,Unrelated,Yes,No,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,1/21/20,1/21/20,Rib and thoracic cage pain,3,Probable,No,No,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,10/01/19 (estimated),ongoing,Acute kidney injury,2,Unlikely,No,No,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,11/26/19,ongoing,Atrial fibrillation with RVR,3,Unrelated,No,Yes,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,1/21/20,ongoing,Anemia,2,Possible,No,No,48,1/21/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,10/2018,12/2018,Back pain,2,Definite,No,No,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,10/19/19,ongoing,Acute kidney injury,2,Unrelated,No,No,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,11/26/19,ongoing,Atrial fibrillation with rapid ventricular response,3,Unrelated,No,Yes,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/11/19,ongoing,Bronchospasm,3,Unrelated,No,Yes,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,12/11/19,3/3/20,Hypoxia,3,Unrelated,No,Yes,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,3/3/20,ongoing,Pruritic papular rash,1,Unrelated,Yes,No,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,3/3/20,ongoing,Keratoacanthomas,2,Unrelated,No,No,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,3/3/20,ongoing,Right anterolateral thigh pain,2,Unlikely,No,No,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,3/3/20,ongoing,Orthostatic hypotension,1,Unrelated,No,No,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,3/3/20,ongoing,Dyspnea on exertion,1,Unrelated,No,No,49,3/3/20,Progress Note - Standard SOAP
+ee21ede823037fd3671f67a68376422a,3/3/20,ongoing,Anemia,3,Possible,No,No,49,3/3/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/2016,1/22/19,Back pain,3,Definite,No,No,50,1/22/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/22/19,ongoing,Perineal numbness,2,Definite,No,No,50,1/22/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/22/19,ongoing,Joint stiffness,1,Unrelated,No,No,50,1/22/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/22/19,ongoing,Urinary incontinence,2,Unrelated,No,No,50,1/22/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/22/19,ongoing,Fecal urgency,2,Unrelated,No,No,50,1/22/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,8/17/18,ongoing,Disease progression (local recurrence),3,Definite,No,Yes,50,1/22/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/14/19,ongoing,Mediastinal adenopathy,2,Definite,No,No,50,1/22/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,03/01/16,02/05/19,Pain in lower back and buttock,2,Definite,No,No,51,2/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,02/05/19 (estimated),ongoing,Perineal and left buttock numbness,1,Definite,No,No,51,2/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,01/22/19,01/22/19,Chills,1,Unrelated,No,No,51,2/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,01/23/19,02/02/19,Diarrhea,2,Unrelated,No,No,51,2/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,02/05/19 (estimated),ongoing,Urinary stress incontinence,1,Unrelated,No,No,51,2/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,02/05/19 (estimated),ongoing,Joint stiffness,1,Unrelated,No,No,51,2/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/19/19 (estimated),ongoing,Bladder spasm,2,Unlikely,No,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/12/19 (estimated),ongoing,Hematuria,2,Unlikely,Yes,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/19/19 (estimated),ongoing,Urinary urgency,2,Unlikely,No,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/19/19 (estimated),ongoing,Gingival bleeding,1,Unlikely,Yes,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/9/19 (estimated),ongoing,Fatigue,2,Unlikely,No,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/19/19 (estimated),ongoing,Numbness of perineum and left buttock,2,Probable,No,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/19/19 (estimated),ongoing,Neutropenia,3,Unlikely,No,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/19/19 (estimated),2/19/19,Diarrhea,2,Unlikely,No,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/19/19 (estimated),ongoing,Arthralgia (bilateral hip joint stiffness),2,Unlikely,No,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/19/19 (estimated),ongoing,Urinary incontinence,2,Unlikely,No,No,52,2/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/12/19 (estimated),3/1/19,Hematuria,1,Unlikely,Yes,No,53,3/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/12/19 (estimated),ongoing,Mucosal bleeding,1,Unlikely,Yes,No,53,3/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/5/19,ongoing,Joint stiffness,1,Unlikely,No,No,53,3/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/2016,ongoing,Numbness,2,Probable,No,No,53,3/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/2016,3/5/19,Pain,2,Probable,No,No,53,3/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/2/19 (estimated),3/3/19 (estimated),Diarrhea,1,Unlikely,No,No,53,3/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/5/19,ongoing,Fatigue,1,Possible,No,No,53,3/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/5/19,ongoing,Urinary stress incontinence,2,Unlikely,No,No,53,3/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/5/19,ongoing,Fecal urgency,2,Possible,No,No,53,3/5/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/1/16,3/19/19,Back and buttock pain,3,Definite,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/1/16,ongoing,Neuropathy peripheral sensory (perineal and L buttock numbness),2,Definite,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/15/19,3/1/19,Hematuria,1,Probable,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/19/19,ongoing,Mucosal bleeding,1,Probable,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/15/19,ongoing,Keratoacanthoma (skin lesions),1,Probable,Yes,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/19/19,ongoing,Bilateral hip joint stiffness,1,Probable,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/19/19,ongoing,Fatigue,1,Possible,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/19/19,ongoing,Urinary incontinence,2,Probable,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/19/19,ongoing,Fecal urgency,1,Probable,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/19/19,ongoing,Neutropenia,3,Probable,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/19/19,ongoing,Bladder spasms,2,Possible,No,No,54,3/19/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,4/16/19,Chills,1,Unrelated,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,4/16/19,Diarrhea,2,Possible,Yes,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,4/16/19,Hematuria,1,Possible,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,ongoing,Hot flashes,1,Unrelated,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,ongoing,Mucosal bleeding,1,Possible,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,ongoing,Skin lesion (Keratoacanthoma),1,Probable,Yes,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,ongoing,Hip joint stiffness,1,Unrelated,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,ongoing,Numbness of the perineum and left buttock,2,Probable,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,ongoing,Pancytopenia,2,Unrelated,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19,ongoing,Fatigue,1,Possible,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/15/19,3/1/19,Hematuria,1,Possible,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/11/19,4/11/19,Rectal hemorrhage,1,Unrelated,No,No,55,4/16/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/16/19 (estimated),ongoing,Memory impairment,1,Possible,No,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/30/19 (estimated),ongoing,Urinary incontinence,2,Unrelated,No,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/15/19 (estimated),3/1/19,Hematuria,1,Unrelated,Yes,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/30/19 (estimated),ongoing,Mucosal bleeding,1,Unrelated,Yes,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/30/19 (estimated),ongoing,Keratoacanthoma,1,Unrelated,Yes,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/30/19 (estimated),4/30/19,Keratoacanthoma,1,Unrelated,Yes,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/30/19 (estimated),ongoing,Arthralgia,1,Unrelated,No,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/1/16 (estimated),ongoing,Neuropathy,2,Definite,No,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/2/19 (estimated),ongoing,Pancytopenia,2,Unrelated,No,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/30/19 (estimated),ongoing,Skin lesion,1,Possible,No,No,56,4/30/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/1/16,5/14/19,Buttock pain,1,Definite,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/1/16,ongoing,Numbness of perineum and left buttock,1,Definite,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/15/19,3/1/19,Hematuria,1,Unrelated,Yes,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Mucosal bleeding,1,Unrelated,Yes,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Dermatitis,1,Unrelated,Yes,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Pruritus,1,Unrelated,Yes,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Dry skin,1,Unrelated,Yes,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Keratoacanthoma lesion,1,Possible,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/1/19,ongoing,Word finding difficulty,1,Possible,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Neutropenia,3,Unrelated,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Anemia,2,Unrelated,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Hip joint stiffness,1,Unrelated,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Urinary stress incontinence,2,Unrelated,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Fecal urgency,2,Possible,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,Hypercalcemia,1,Possible,No,No,57,5/14/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/28/19,ongoing,Rash,2,Unrelated,Yes,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/30/19,5/28/19,Right hip ligament strain (musculoskeletal pain),2,Unrelated,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,2/15/19,3/1/19,Hematuria,1,Possible,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/28/19,ongoing,Mucosal bleeding (oral),1,Possible,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/28/19,ongoing,Bilateral hip stiffness,1,Unrelated,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/1/16,ongoing,Left buttock and perineal numbness,2,Probable,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/1/19,ongoing,Word-finding difficulty (forgetfulness),1,Possible,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/28/19,ongoing,Keratoacanthomas,2,Unrelated,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/28/19,ongoing,Cytopenia,2,Unrelated,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/28/19,unknown,Diarrhea (previous Neulasta treatment),2,Unrelated,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,5/28/19,unknown,Rigors (previous Neulasta treatment),2,Unrelated,No,No,58,5/28/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/11/19,ongoing,Rash,2,Possible,Yes,No,59,6/11/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/11/19,ongoing,Pruritus,2,Possible,Yes,No,59,6/11/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/11/19,ongoing,Vaginal bleeding,1,Possible,No,No,59,6/11/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/11/19,ongoing,Gingival bleeding,1,Unlikely,No,No,59,6/11/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/11/19,ongoing,Joint stiffness,1,Unrelated,No,No,59,6/11/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/11/19,ongoing,Numbness,2,Definite,No,No,59,6/11/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/11/19,ongoing,Cognitive disturbance,1,Unlikely,No,No,59,6/11/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/11/19,ongoing,Keratoacanthomas,2,Unlikely,No,No,59,6/11/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/11/19,ongoing,Cytopenia,3,Unlikely,No,No,59,6/11/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/25/19,ongoing,Fatigue,1,Possible,No,No,60,6/25/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/25/19,ongoing,Rash,2,Possible,Yes,No,60,6/25/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/25/19,ongoing,Gingival bleeding,1,Possible,No,No,60,6/25/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/25/19,ongoing,Rectal hemorrhage,1,Possible,No,No,60,6/25/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/25/19,ongoing,Joint stiffness,1,Unrelated,No,No,60,6/25/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/25/19,ongoing,Neuropathy,2,Probable,No,No,60,6/25/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/25/19,ongoing,Dizziness,1,Possible,Yes,No,60,6/25/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/25/19,ongoing,Keratoacanthomas,2,Possible,Yes,No,60,6/25/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,6/25/19,ongoing,Neutropenia,3,Possible,No,No,60,6/25/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/9/19,ongoing,Dermatitis,1,Possible,Yes,No,61,7/9/19,Progress Note - Standard SOAP-Week 25
+a24ee1ece206989032e3494ea3ee1061,7/9/19,ongoing,Fatigue,1,Possible,No,No,61,7/9/19,Progress Note - Standard SOAP-Week 25
+a24ee1ece206989032e3494ea3ee1061,7/9/19,ongoing,Dizziness,1,Possible,No,No,61,7/9/19,Progress Note - Standard SOAP-Week 25
+a24ee1ece206989032e3494ea3ee1061,7/9/19,ongoing,Muscle cramp,1,Possible,No,No,61,7/9/19,Progress Note - Standard SOAP-Week 25
+a24ee1ece206989032e3494ea3ee1061,7/9/19,ongoing,Neutropenia,3,Possible,No,No,61,7/9/19,Progress Note - Standard SOAP-Week 25
+a24ee1ece206989032e3494ea3ee1061,7/23/19,ongoing,Rash,2,Probable,Yes,No,62,7/23/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,unknown,Diarrhea,2,Probable,Yes,No,62,7/23/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,7/23/19,Vomiting,2,Possible,No,No,62,7/23/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,unknown,Abdominal pain,2,Probable,Yes,No,62,7/23/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,ongoing,Fatigue,1,Possible,No,No,62,7/23/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,ongoing,Lightheadedness,1,Possible,No,No,62,7/23/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,ongoing,Keratoacanthoma,2,Probable,Yes,No,62,7/23/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,ongoing,Neutropenia,3,Unlikely,No,No,62,7/23/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Rash pruritic,2,Possible,Yes,No,63,8/6/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,ongoing,Keratoacanthoma,2,Possible,Yes,No,63,8/6/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Diarrhea,2,Possible,Yes,No,63,8/6/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Rectal bleeding,1,Possible,Yes,No,63,8/6/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Fatigue,1,Possible,No,No,63,8/6/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Delayed wound healing,1,Unrelated,No,No,63,8/6/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Neutropenia,3,Possible,No,No,63,8/6/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Lightheadedness,1,Possible,No,No,63,8/6/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Hypertriglyceridemia,1,Possible,No,No,63,8/6/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/2016,unknown,Back and buttock pain,3,Definite,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,3/2016,unknown,Perineal and left buttock numbness,2,Definite,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/17/2018,ongoing,Bone metastases,2,Definite,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Pelvic mass progression,2,Definite,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Pruritic rash,2,Probable,Yes,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Keratoacanthoma,2,Probable,Yes,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Diarrhea,2,Possible,Yes,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Gingival bleeding,1,Possible,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Rectal bleeding,1,Probable,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Fatigue,2,Possible,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Lightheadedness,1,Possible,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Neutropenia,3,Possible,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Anemia,2,Possible,No,No,64,8/20/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Fatigue,2,Possible,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Gingival bleeding,1,Possible,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Rectal hemorrhage,1,Possible,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Epistaxis,1,Possible,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Diarrhea,1,Unrelated,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Weight loss,1,Possible,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Rash,1,Possible,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,ongoing,Keratoacanthoma,2,Possible,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Chills,2,Probable,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Neutropenia,3,Possible,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/3/19,ongoing,Abdominal pain,1,Possible,No,No,65,9/3/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Fatigue,2,Possible,No,No,66,9/17/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Gingival bleeding,1,Possible,No,No,66,9/17/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Rectal hemorrhage,1,Possible,No,No,66,9/17/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Epistaxis,1,Possible,No,No,66,9/17/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Diarrhea,1,Unlikely,No,No,66,9/17/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Rash,1,Possible,No,No,66,9/17/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,7/23/19,ongoing,Keratoacanthoma,2,Possible,No,No,66,9/17/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Anemia,3,Possible,No,No,66,9/17/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Neutropenia,4,Possible,No,Yes,66,9/17/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/1/19,ongoing,Rash,2,Probable,Yes,No,67,10/1/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/1/19,ongoing,Cough,1,Probable,No,No,67,10/1/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/1/19,ongoing,Diarrhea,2,Probable,Yes,No,67,10/1/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/1/19,ongoing,Fatigue,1,Probable,No,No,67,10/1/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/1/19,ongoing,Anemia,3,Unlikely,No,Yes,67,10/1/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/1/19,ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,67,10/1/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/1/19,ongoing,Keratoacanthoma,2,Probable,Yes,No,67,10/1/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/15/19,ongoing,Rash,1,Unlikely,Yes,No,68,10/15/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/15/19,ongoing,Fatigue,2,Unlikely,No,No,68,10/15/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/15/19,ongoing,Dyspnea on exertion,2,Unlikely,No,No,68,10/15/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/15/19,ongoing,Orthostatic hypotension,1,Unlikely,No,No,68,10/15/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/15/19,ongoing,Anemia,3,Possible,No,Yes,68,10/15/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/15/19,ongoing,Myelodysplastic syndrome,3,Possible,No,Yes,68,10/15/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/15/19,ongoing,Keratoacanthoma,2,Unlikely,No,No,68,10/15/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/15/19,ongoing,Systolic murmur,1,Unlikely,No,No,68,10/15/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/29/19,10/29/19,Rash,2,Unrelated,Yes,No,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/29/19,10/29/19,Pruritus,1,Unrelated,Yes,No,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/29/19,10/29/19,Keratoacanthoma,2,Unrelated,Yes,No,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/29/19,ongoing,Memory impairment,1,Possible,No,No,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/29/19,ongoing,Dyspnea on exertion,1,Possible,No,No,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,09/2019,ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/29/19,ongoing,Fatigue,2,Possible,No,No,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/29/19,ongoing,Anemia,4,Possible,No,Yes,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/29/19,ongoing,Leukopenia,3,Possible,No,No,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,10/29/19,ongoing,Thrombocytopenia,1,Possible,No,No,69,10/29/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,03/2016,11/12/19,Back pain,2,Probable,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,03/2016,11/12/19,Buttock pain,2,Probable,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,03/2016,unknown,Perineal numbness,2,Probable,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,03/2016,unknown,Left buttock numbness,2,Probable,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,09/2019,ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,11/12/19,Rash,2,Unrelated,Yes,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,11/12/19,Pruritus,2,Unrelated,Yes,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,11/12/19,Keratoacanthoma,2,Unrelated,Yes,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,ongoing,Memory impairment,1,Unrelated,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,ongoing,Dyspnea on exertion,1,Possible,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,ongoing,Fatigue,2,Possible,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,ongoing,Anemia,3,Unrelated,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,11/12/19,Neutropenia,3,Unrelated,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,unknown,Thrombocytopenia,1,Unrelated,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,unknown,Systolic murmur,1,Unrelated,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/12/19,unknown,Hypomagnesemia,1,Unrelated,No,No,70,11/12/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,09/2019,ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,71,11/26/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/26/19,ongoing,Memory impairment,1,Unrelated,No,No,71,11/26/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/26/19,11/26/19,Skin toxicity,2,Unrelated,Yes,No,71,11/26/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/26/19,11/26/19,Keratoacanthoma,2,Unrelated,No,No,71,11/26/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/26/19,ongoing,Shoulder pain,2,Unrelated,No,No,71,11/26/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/26/19,ongoing,Anemia,2,Unrelated,No,No,71,11/26/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/26/19,ongoing,Fatigue,2,Unrelated,No,No,71,11/26/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,11/26/19,ongoing,Dyspnea,1,Unrelated,No,No,71,11/26/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,09/01/19,ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,ongoing,Memory impairment,1,Unrelated,No,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,12/10/19,Skin toxicity,2,Unrelated,Yes,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,12/10/19,Keratoacanthoma,2,Unrelated,No,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,ongoing,Musculoskeletal pain,2,Unrelated,No,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,ongoing,Anemia,2,Unrelated,No,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,ongoing,Fatigue,2,Unrelated,No,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,ongoing,Dyspnea,1,Unrelated,No,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,ongoing,Leukopenia,3,Unrelated,No,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,ongoing,Neutropenia,3,Unrelated,No,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,12/10/19,ongoing,Thrombocytopenia,1,Unrelated,No,No,72,12/10/19,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/2019 (estimated),ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,73,1/7/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/7/20 (estimated),ongoing,Memory impairment,1,Unrelated,No,No,73,1/7/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/7/20 (estimated),ongoing,Rash,1,Unrelated,Yes,No,73,1/7/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/7/20 (estimated),ongoing,Shoulder pain,2,Unrelated,No,No,73,1/7/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/7/20 (estimated),ongoing,Neutropenia,3,Unrelated,No,No,73,1/7/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/7/20 (estimated),ongoing,Dyspnea on exertion,2,Unrelated,No,No,73,1/7/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/7/20 (estimated),ongoing,Fatigue,2,Unrelated,No,No,73,1/7/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/7/20 (estimated),1/7/20,Keratoacanthoma,2,Unrelated,No,No,73,1/7/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,1/7/20 (estimated),1/7/20,Anemia,3,Unrelated,No,No,73,1/7/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/2019,ongoing,Myelodysplastic syndrome,3,Definite,No,Yes,74,4/21/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/21/20,ongoing,Fatigue,2,Possible,No,No,74,4/21/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/21/20,ongoing,Anemia,2,Possible,No,No,74,4/21/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/21/20,ongoing,Skin lesions,1,Possible,No,No,74,4/21/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/21/20,4/21/20,Keratoacanthoma,2,Possible,No,No,74,4/21/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/21/20,ongoing,Dyspnea on exertion,2,Possible,No,No,74,4/21/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,4/21/20,ongoing,Neutropenia,4,Possible,No,Yes,74,4/21/20,Progress Note - Standard SOAP
+a24ee1ece206989032e3494ea3ee1061,9/2019,ongoing,Myelodysplastic syndrome,3,Definite,No,Yes,75,7/14/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,8/20/19,7/14/20,Anemia,3,Probable,No,No,75,7/14/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,7/14/20,ongoing,Neutropenia,4,Probable,No,No,75,7/14/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,7/14/20,ongoing,Dysphagia,2,Unrelated,No,No,75,7/14/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,7/14/20,ongoing,Fatigue,2,Possible,No,No,75,7/14/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,7/14/20,7/14/20,Keratoacanthoma,2,Unrelated,No,No,75,7/14/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,7/14/20,ongoing,Shoulder pain,2,Unrelated,No,No,75,7/14/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,7/14/20,ongoing,Abdominal pain,2,Unrelated,No,No,75,7/14/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,7/14/20,ongoing,Diarrhea,2,Unrelated,No,No,75,7/14/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,10/06/20,ongoing,Fatigue,1,Possible,No,No,76,10/6/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,10/06/20,ongoing,Arthralgia,1,Possible,No,No,76,10/6/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,10/06/20,ongoing,Rash,1,Possible,No,No,76,10/6/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,09/01/19,ongoing,Anemia,3,Definite,No,No,76,10/6/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,01/22/19,ongoing,Neutropenia,4,Definite,No,Yes,76,10/6/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,09/01/19,ongoing,Myelodysplastic syndrome,3,Definite,No,Yes,76,10/6/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,10/06/20,ongoing,Dysphagia,2,Unrelated,No,No,76,10/6/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,10/06/20,10/06/20,Keratoacanthoma,2,Probable,No,No,76,10/6/20,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,1/5/21,1/5/21,Fatigue,1,Possible,No,No,77,1/5/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,1/5/21,1/5/21,Rash,1,Possible,Yes,No,77,1/5/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,1/5/21,1/5/21,Inguinal lymphadenopathy,1,Unlikely,No,No,77,1/5/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,09/2019,ongoing,Myelodysplastic syndrome,3,Definite,No,Yes,77,1/5/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,1/5/21,ongoing,Neutropenia,3,Probable,No,No,77,1/5/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,1/5/21,1/5/21,Anemia,2,Probable,No,No,77,1/5/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,1/5/21,1/5/21,Keratoacanthoma,2,Probable,No,No,77,1/5/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,1/5/21,ongoing,Dysphagia,1,Unrelated,No,No,77,1/5/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/30/21,ongoing,Fatigue,1,Possible,No,No,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/30/21,3/30/21,Rash,1,Possible,Yes,No,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/30/21,3/30/21,Lymphadenopathy (left groin lump),1,Possible,No,No,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/30/21,ongoing,Diarrhea,2,Possible,No,No,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/30/21,ongoing,Fecal incontinence,2,Possible,No,No,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,9/2019,ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/30/21,unknown,Anemia,3,Unrelated,No,No,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/30/21,ongoing,Neutropenia,4,Unrelated,No,Yes,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/30/21,3/30/21,Keratoacanthoma,1,Unrelated,No,No,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/30/21,ongoing,Dysphagia,2,Unrelated,No,No,78,3/30/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,6/22/21,ongoing,Anemia,3,Unrelated,No,Yes,79,6/22/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,6/22/21,ongoing,Neutropenia,3,Unrelated,No,Yes,79,6/22/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,6/22/21,ongoing,Fatigue,1,Possible,No,No,79,6/22/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,6/22/21,ongoing,Diarrhea,1,Possible,No,No,79,6/22/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,6/22/21,ongoing,Fecal incontinence,1,Possible,No,No,79,6/22/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,6/22/21,ongoing,Pelvic pain,2,Possible,No,No,79,6/22/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,9/2019,ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,79,6/22/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,6/22/21,6/22/21,Dysphagia,1,Possible,No,No,79,6/22/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,6/22/21,6/22/21,Keratoacanthoma,2,Unrelated,No,No,79,6/22/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,1/22/19,ongoing,Neutropenia,3,Definite,No,Yes,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,1/23/19 (estimated),9/21/21 (estimated),Keratoacanthoma,2,Possible,No,No,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,8/20/19 (estimated),ongoing,Anemia,3,Definite,No,Yes,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,9/1/19 (estimated),ongoing,Myelodysplastic syndrome,3,Definite,No,Yes,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,8/10/21 (estimated),ongoing,Fatigue,2,Possible,No,No,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,8/21/21 (estimated),9/21/21,Urinary tract infection,2,Unrelated,No,No,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,9/1/21 (estimated),ongoing,Urinary tract infection,2,Unrelated,No,No,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,9/1/21 (estimated),ongoing,Vulvovaginal candidiasis,2,Unrelated,No,No,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,9/21/21 (estimated),9/21/21,Dysphagia,2,Unrelated,No,No,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,9/21/21 (estimated),ongoing,Shoulder pain,2,Unrelated,No,No,80,9/21/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,08/20/2019,ongoing,Anemia,3,Unrelated,No,No,81,12/14/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,01/22/2019,ongoing,Neutropenia,3,Unrelated,No,No,81,12/14/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,09/01/2019,ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,81,12/14/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,12/14/2021,12/14/2021,Keratoacanthoma,2,Unrelated,No,No,81,12/14/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,12/14/2021,12/14/2021,Dysphagia,2,Unrelated,No,No,81,12/14/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,12/14/2021,ongoing,Shoulder pain,2,Unrelated,No,No,81,12/14/21,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/1/22,ongoing,Anemia,3,Probable,No,No,82,3/1/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/1/22,ongoing,Neutropenia,3,Probable,No,No,82,3/1/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,9/1/19,ongoing,Myelodysplastic syndrome,4,Definite,No,Yes,82,3/1/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/1/22,ongoing,Shoulder pain,1,Unrelated,No,No,82,3/1/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/1/22,3/1/22,Keratoacanthoma,2,Possible,No,No,82,3/1/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,3/1/22,3/1/22,Dysphagia,1,Unrelated,No,No,82,3/1/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,08/20/19,ongoing,Anemia,3,Unrelated,No,No,83,8/9/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,01/22/19,ongoing,Neutropenia,3,Unrelated,No,No,83,8/9/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,09/01/19,ongoing,Myelodysplastic syndrome,3,Unrelated,No,Yes,83,8/9/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,08/09/22 (estimated),ongoing,Proctitis,2,Unrelated,No,No,83,8/9/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,10/26/16,ongoing,Numbness in left gluteal region,1,Probable,No,No,83,8/9/22,Progress Note - Medical Oncology
+a24ee1ece206989032e3494ea3ee1061,08/09/22 (estimated),08/09/22,Keratoacanthoma,2,Unrelated,No,No,83,8/9/22,Progress Note - Medical Oncology
+d869dac0cc532b7676d237c1ac5a5f4e,10/23/18,unknown,Jaundice,3,Probable,No,Yes,84,12/18/18,Progress Note - Standard SOAP
+d869dac0cc532b7676d237c1ac5a5f4e,10/23/18,unknown,Hyperbilirubinemia,3,Probable,No,Yes,84,12/18/18,Progress Note - Standard SOAP
+d869dac0cc532b7676d237c1ac5a5f4e,10/23/18,unknown,Transaminitis,3,Probable,No,Yes,84,12/18/18,Progress Note - Standard SOAP
+d869dac0cc532b7676d237c1ac5a5f4e,10/25/18,unknown,Leukocytosis,2,Possible,No,No,84,12/18/18,Progress Note - Standard SOAP
+d869dac0cc532b7676d237c1ac5a5f4e,10/25/18,unknown,Pain,2,Possible,No,No,84,12/18/18,Progress Note - Standard SOAP
+d869dac0cc532b7676d237c1ac5a5f4e,12/18/18 (estimated),ongoing,Jaw pain,2,Possible,No,No,84,12/18/18,Progress Note - Standard SOAP
+d869dac0cc532b7676d237c1ac5a5f4e,12/18/18 (estimated),ongoing,Back pain,2,Possible,No,No,84,12/18/18,Progress Note - Standard SOAP
+d869dac0cc532b7676d237c1ac5a5f4e,12/18/18 (estimated),ongoing,Constipation,2,Unrelated,No,No,84,12/18/18,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011,unknown,Rectal hemorrhage,2,Probable,No,No,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011,unknown,Rectal pain,2,Probable,No,No,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,02/01/2018,unknown,Malaise,2,Unrelated,No,No,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,07/01/2018,unknown,Pain with defecation,3,Definite,No,No,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,10/17/2018,11/13/2018,Local recurrence of anal carcinoma,3,Definite,No,Yes,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,07/08/2019,ongoing,Metastatic disease to lung,3,Definite,No,Yes,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,07/08/2019,ongoing,Metastatic disease to liver,3,Definite,No,Yes,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,08/27/2019,ongoing,Anorectal pressure,1,Probable,No,No,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,08/27/2019,ongoing,Left buttock muscle cramping,1,Probable,No,No,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,08/27/2019,ongoing,Local recurrence of anal carcinoma,3,Definite,No,Yes,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,08/27/2019,ongoing,Possible metastatic disease to peritoneum,3,Possible,No,Yes,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,08/27/2019,ongoing,Bilateral hearing loss,2,Unrelated,No,Yes,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,08/27/2019,ongoing,Osteopenia,1,Unrelated,No,No,85,8/27/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011 (estimated),unknown,Rectal hemorrhage,2,Probable,No,No,86,8/28/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011 (estimated),unknown,Anal pain,2,Probable,No,No,86,8/28/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,07/01/2018 (estimated),unknown,Anal pain,3,Probable,No,No,86,8/28/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,02/01/2018 (estimated),unknown,Malaise,2,Unrelated,No,No,86,8/28/19,Outpatient First Registration Progress Notes
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011 (estimated),unknown,Rectal bleeding,2,Definite,No,No,87,9/10/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011 (estimated),unknown,Anal pain,2,Definite,No,No,87,9/10/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,02/01/2018 (estimated),unknown,Malaise,2,Unrelated,No,No,87,9/10/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,07/01/2018 (estimated),unknown,Anal pain,3,Definite,No,No,87,9/10/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,2/2018,unknown,Malaise,2,Probable,No,No,88,9/24/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,7/2018,unknown,Pain with bowel movements,3,Definite,No,No,88,9/24/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,9/24/19,ongoing,Anal pain,2,Definite,No,No,88,9/24/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,9/24/19,ongoing,Skin nodule (right hand),1,Unrelated,No,No,88,9/24/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,9/24/19,unknown,Anemia,1,Possible,No,No,88,9/24/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,9/24/19,unknown,Thrombocytopenia,1,Possible,No,No,88,9/24/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,9/24/19,unknown,Lymphopenia,2,Possible,No,No,88,9/24/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011 (estimated),unknown,Rectal bleeding,2,Definite,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011 (estimated),unknown,Anal pain,2,Definite,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/18/2017,unknown,Fatty liver,1,Unrelated,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,02/01/2018 (estimated),unknown,Fatigue,2,Unrelated,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,07/01/2018 (estimated),unknown,Anal pain,3,Probable,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/08/2019 (estimated),ongoing,Anal pain,2,Probable,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/08/2019,ongoing,Gingival bleeding,1,Unrelated,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/08/2019,unknown,Anemia,1,Possible,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/08/2019,unknown,Immature granulocyte count increased,1,Possible,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/08/2019,unknown,Lymphopenia,2,Possible,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/08/2019,unknown,Skin lesion on right hand,1,Unrelated,No,No,89,10/8/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/xx/2011,10/22/19,Rectal hemorrhage,2,Definite,No,No,90,10/22/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/xx/2011,ongoing,Anal pain,2,Definite,No,No,90,10/22/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/22/19,ongoing,Gingival bleeding,1,Possible,No,No,90,10/22/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/22/19,ongoing,Stoma site hemorrhage,1,Probable,No,No,90,10/22/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/22/19,ongoing,Fatigue,2,Possible,No,No,90,10/22/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/22/19,ongoing,Anemia,1,Possible,No,No,90,10/22/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/22/19,ongoing,Lymphopenia,2,Possible,No,No,90,10/22/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,02/2018,unknown,Malaise (feeling ill with chemotherapy),2,Possible,No,No,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/23/19,ongoing,Rectal pain,2,Definite,No,No,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/23/19,ongoing,Gingival bleeding,1,Possible,No,No,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/23/19,ongoing,Stoma site bleeding,1,Possible,No,No,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/23/19,ongoing,Fatigue,2,Possible,No,No,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/23/19,ongoing,Anemia,1,Possible,No,No,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/23/19,ongoing,Lymphopenia,3,Possible,No,No,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/21/19,ongoing,Neoplasm progression (lung),3,Definite,No,Yes,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/21/19,ongoing,Neoplasm progression (liver),3,Definite,No,Yes,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,10/21/19,ongoing,Neoplasm progression (pelvis),3,Definite,No,Yes,91,10/23/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,07/01/2018,ongoing,Rectal pain,2,Probable,No,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/05/2019,ongoing,Rash maculopapular,1,Possible,Yes,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/05/2019,ongoing,Pruritus,1,Possible,Yes,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/05/2019,11/05/2019,Pleuritic pain,1,Unrelated,No,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/05/2019,ongoing,Gingival bleeding,1,Possible,No,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/05/2019,ongoing,Stoma site bleeding,1,Possible,No,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/05/2019,ongoing,Fatigue,1,Possible,No,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/05/2019,ongoing,Stoma site erythema and irritation,1,Possible,No,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/04/2019,ongoing,Blood alkaline phosphatase increased,1,Possible,No,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/04/2019,ongoing,Alanine aminotransferase increased,1,Possible,No,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/04/2019,ongoing,Cardiac metastasis,3,Probable,No,Yes,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/04/2019,ongoing,Esophagitis,1,Possible,Yes,No,92,11/5/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,02/01/2018 (estimated),unknown,Malaise,2,Probable,No,No,93,11/19/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,07/01/2018 (estimated),unknown,Rectal pain,3,Definite,No,No,93,11/19/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/12/2019 (estimated),ongoing,Pelvic pain,2,Definite,No,No,93,11/19/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/19/2019 (estimated),ongoing,Gingival bleeding,1,Possible,No,No,93,11/19/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/19/2019 (estimated),ongoing,Stoma site bleeding,1,Unlikely,No,No,93,11/19/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/19/2019 (estimated),ongoing,Fatigue,1,Possible,No,No,93,11/19/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/19/2019 (estimated),ongoing,Stoma site complication (erythema/irritation),1,Unlikely,No,No,93,11/19/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,11/19/2019 (estimated),11/19/2019,Alkaline phosphatase increased,1,Possible,No,No,93,11/19/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011,unknown,Rectal hemorrhage,2,Probable,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011,07/01/2018,Rectal pain,2,Probable,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,07/01/2018,11/13/2018,Rectal pain,3,Probable,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,02/01/2018,unknown,Malaise,2,Unlikely,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/03/2019,ongoing,Fatigue,1,Possible,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/03/2019,ongoing,Pelvic pain,3,Definite,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/03/2019,ongoing,Stoma site complication (erythema/irritation),1,Unlikely,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/03/2019,ongoing,Keratoacanthoma,1,Unrelated,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/03/2019,ongoing,Increased alkaline phosphatase,1,Possible,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/03/2019,ongoing,Anemia,1,Possible,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/03/2019,ongoing,Lymphopenia,2,Unlikely,No,No,94,12/3/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011 (estimated),unknown,Rectal hemorrhage,3,Probable,No,No,95,12/17/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,03/01/2011 (estimated),unknown,Anal-rectal pain,2,Probable,No,No,95,12/17/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,07/01/2018 (estimated),unknown,Anal-rectal pain,3,Probable,No,No,95,12/17/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,02/01/2018 (estimated),unknown,Fatigue,2,Probable,No,No,95,12/17/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/10/2019,12/10/2019,Hemoptysis,3,Probable,No,Yes,95,12/17/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/17/2019 (estimated),ongoing,Anal-rectal pain,3,Probable,No,No,95,12/17/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/17/2019,ongoing,Fatigue,2,Possible,No,No,95,12/17/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/17/2019,ongoing,Stoma site erythema,1,Unrelated,No,No,95,12/17/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/17/2019,unknown,Skin lesion - keratoacanthoma,2,Possible,No,No,95,12/17/19,Progress Note - Standard SOAP
+0a6d8ed57bad6cc2158c1a3100d01de7,12/17/2019,unknown,Blood alkaline phosphatase increased,1,Probable,No,No,95,12/17/19,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,07/01/2019,unknown,Transient ischemic attack,3,Unrelated,No,Yes,96,1/14/20,Outpatient First Registration Progress Note
+b162d352bbfe7f1ac571c079f3a91f96,08/01/2018,unknown,Constipation,1,Possible,No,No,96,1/14/20,Outpatient First Registration Progress Note
+b162d352bbfe7f1ac571c079f3a91f96,08/01/2019,unknown,Bowel obstruction,3,Possible,No,Yes,96,1/14/20,Outpatient First Registration Progress Note
+b162d352bbfe7f1ac571c079f3a91f96,08/12/2019,ongoing,Biliary obstruction,2,Definite,No,No,96,1/14/20,Outpatient First Registration Progress Note
+b162d352bbfe7f1ac571c079f3a91f96,01/14/2020,ongoing,Peripheral sensory neuropathy,1,Possible,No,No,96,1/14/20,Outpatient First Registration Progress Note
+b162d352bbfe7f1ac571c079f3a91f96,01/14/2020,ongoing,Constipation,1,Possible,No,No,96,1/14/20,Outpatient First Registration Progress Note
+b162d352bbfe7f1ac571c079f3a91f96,01/14/2020,ongoing,Migraine,1,Unrelated,No,No,96,1/14/20,Outpatient First Registration Progress Note
+b162d352bbfe7f1ac571c079f3a91f96,01/14/2020,ongoing,Depression,1,Unrelated,No,No,96,1/14/20,Outpatient First Registration Progress Note
+b162d352bbfe7f1ac571c079f3a91f96,01/14/2020,ongoing,Pancreatitis,1,Unrelated,No,No,96,1/14/20,Outpatient First Registration Progress Note
+b162d352bbfe7f1ac571c079f3a91f96,7/1/19 (estimated),unknown,Transient ischemic attack,3,Unlikely,No,Yes,97,1/21/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,8/1/19 (estimated),unknown,Bowel obstruction,3,Probable,No,Yes,97,1/21/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,10/1/19 (estimated),unknown,Bowel obstruction,3,Probable,No,Yes,97,1/21/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,8/1/18 (estimated),ongoing,Constipation,1,Possible,No,No,97,1/21/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,1/21/20 (estimated),ongoing,Peripheral sensory neuropathy,1,Probable,No,No,97,1/21/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,1/21/20 (estimated),ongoing,Depression,1,Unlikely,No,No,97,1/21/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,1/21/20 (estimated),ongoing,Migraine,1,Unlikely,No,No,97,1/21/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,07/01/19,unknown,Transient ischemic attack,3,Unlikely,No,Yes,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,08/01/19,12/31/19,Bowel obstruction,3,Probable,No,Yes,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,8/12/19,ongoing,Biliary obstruction,2,Definite,No,No,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,8/12/19,ongoing,Pulmonary infiltrates,1,Possible,No,No,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,2/4/20,ongoing,Diarrhea,1,Possible,No,No,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,2/4/20,ongoing,Constipation,1,Possible,No,No,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,2/4/20,ongoing,Peripheral sensory neuropathy,1,Possible,No,No,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,2/4/20,2/4/20,Abdominal pain,2,Possible,No,No,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,2/4/20,ongoing,Leukopenia,1,Possible,No,No,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,2/4/20,ongoing,Anemia,1,Possible,No,No,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,2/4/20,ongoing,Thrombocytopenia,1,Possible,No,No,98,2/4/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,07/2019 (estimated),07/2019 (estimated),Transient ischemic attack,3,Unlikely,No,Yes,99,2/18/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,08/2019 (estimated),12/2019 (estimated),Bowel obstruction,3,Possible,No,Yes,99,2/18/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,02/18/20 (estimated),02/18/20 (estimated),Headache,1,Unlikely,No,No,99,2/18/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,02/18/20 (estimated),ongoing,Migraine,2,Unrelated,No,No,99,2/18/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,02/18/20 (estimated),02/18/20 (estimated),Gingival bleeding,1,Unlikely,No,No,99,2/18/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,02/11/20 (estimated),02/18/20 (estimated),Actinic keratosis,1,Unrelated,No,No,99,2/18/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,02/18/20 (estimated),02/18/20 (estimated),Diarrhea,1,Unlikely,No,No,99,2/18/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,02/18/20 (estimated),ongoing,Abdominal pain,2,Probable,No,No,99,2/18/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,02/18/20 (estimated),ongoing,Transaminases increased,1,Possible,No,No,99,2/18/20,Progress Note - Standard SOAP
+b162d352bbfe7f1ac571c079f3a91f96,02/18/20 (estimated),ongoing,Anemia,1,Possible,No,No,99,2/18/20,Progress Note - Standard SOAP

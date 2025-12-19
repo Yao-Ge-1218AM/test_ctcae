@@ -1,0 +1,242 @@
+MRN,Onset Date,Date Resolved,AE Term,Grade,Attribution to Disease,Immune-related AE,Serious AE,Group MRN,Collected Date Time,Order Name
+99e34b12538569b3b9f4452ab6ead054,1/5/21,unknown,White blood cell decreased,2,Possible,No,No,99e34b12538569b3b9f4452ab6ead054,1/5/21,CBC + Diff
+99e34b12538569b3b9f4452ab6ead054,1/5/21,unknown,Anemia,1,Possible,No,No,99e34b12538569b3b9f4452ab6ead054,1/5/21,CBC + Diff
+99e34b12538569b3b9f4452ab6ead054,1/5/21,unknown,Macrocytosis,1,Unlikely,No,No,99e34b12538569b3b9f4452ab6ead054,1/5/21,CBC + Diff
+99e34b12538569b3b9f4452ab6ead054,1/5/21,unknown,Increased red cell distribution width,1,Unlikely,No,No,99e34b12538569b3b9f4452ab6ead054,1/5/21,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,1/14/20,unknown,Anemia,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,1/14/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,1/14/20,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,1/14/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,1/14/20,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,1/14/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Metabolic acidosis,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Hyperglycemia,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Increased anion gap,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Lymphocyte count decreased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Monocyte count decreased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Eosinophil count decreased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Neutrophil count increased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,RBC Distribution Width increased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Hypothyroidism,3,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,T3 Free
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Hypothyroidism,3,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,"T3, T4"
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Hypothyroidism,3,Possible,Yes,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,Thyroid Stimulating Hormone
+ba8df459b1548c0aca86fbc2a802490a,1/28/20,unknown,Hypothyroidism,3,Possible,Yes,No,ba8df459b1548c0aca86fbc2a802490a,1/28/20,"Thyroxine, Free"
+ba8df459b1548c0aca86fbc2a802490a,11/19/19,unknown,Anemia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,11/19/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,11/19/19,unknown,Eosinophil count decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,11/19/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,11/19/19,unknown,Mean corpuscular hemoglobin concentration decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,11/19/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Decreased bicarbonate,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Decreased creatinine,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Hyperglycemia,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,White blood cell increased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Anemia,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Lymphocyte count decreased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Monocyte count decreased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Eosinophil count decreased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Neutrophil count increased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Hypothyroidism,3,Possible,Yes,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,Thyroid Stimulating Hormone
+ba8df459b1548c0aca86fbc2a802490a,12/17/19,unknown,Hyperthyroxinemia,3,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/17/19,"Thyroxine, Free"
+ba8df459b1548c0aca86fbc2a802490a,12/3/19,unknown,Anemia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,12/3/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/3/19,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/3/19,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,12/3/19,unknown,Hypocalcemia,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/3/19,Mineral Panel
+ba8df459b1548c0aca86fbc2a802490a,12/31/19,unknown,Anemia,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,12/31/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/31/19,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/31/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/31/19,unknown,Lymphocyte count decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/31/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/31/19,unknown,MCHC decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/31/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,12/31/19,unknown,RBC Distribution Width increased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,12/31/19,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,2/11/20,unknown,Anemia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,2/11/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,2/11/20,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,2/11/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,2/11/20,unknown,Lymphocyte count decreased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,2/11/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,2/11/20,unknown,MCHC decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,2/11/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,2/11/20,unknown,Eosinophilia,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,2/11/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,2/11/20,unknown,RBC Distribution Width increased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,2/11/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,2/11/20,unknown,Hypothyroidism,3,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,2/11/20,T3 Free
+ba8df459b1548c0aca86fbc2a802490a,2/11/20,unknown,Hypothyroidism,3,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,2/11/20,"T3, T4"
+ba8df459b1548c0aca86fbc2a802490a,2/11/20,unknown,Hypothyroidism,4,Possible,Yes,Yes,ba8df459b1548c0aca86fbc2a802490a,2/11/20,Thyroid Stimulating Hormone
+ba8df459b1548c0aca86fbc2a802490a,2/25/20,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,2/25/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,2/25/20,unknown,Aspartate aminotransferase increased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,2/25/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Chloride decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Hyperglycemia,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Increased anion gap,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Lymphocyte count decreased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Monocyte count decreased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Eosinophilia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Neutrophil count increased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Red blood cell distribution width increased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Mean corpuscular hemoglobin concentration decreased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Hypothyroidism,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,T3 Free
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Hypothyroidism,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,"T3, T4"
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Hypothyroidism,3,Possible,Yes,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,Thyroid Stimulating Hormone
+ba8df459b1548c0aca86fbc2a802490a,3/10/20,unknown,Hypothyroidism,2,Possible,Yes,No,ba8df459b1548c0aca86fbc2a802490a,3/10/20,"Thyroxine, Free"
+ba8df459b1548c0aca86fbc2a802490a,3/24/20,unknown,Anemia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,3/24/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/24/20,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,3/24/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/24/20,unknown,Lymphocyte count decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,3/24/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/24/20,unknown,MCHC decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,3/24/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/24/20,unknown,RBC Distribution Width increased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,3/24/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,3/24/20,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,3/24/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,4/21/20,unknown,Hyperglycemia,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/21/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,4/21/20,unknown,Metabolic acidosis,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,4/21/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,4/21/20,unknown,Lymphocyte count decreased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/21/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/21/20,unknown,Monocyte count decreased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/21/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/21/20,unknown,Eosinophilia,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/21/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/21/20,unknown,Neutrophil count increased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/21/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/21/20,unknown,White blood cell increased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,4/21/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/21/20,unknown,Anemia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/21/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/21/20,unknown,Increased red cell distribution width,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/21/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,unknown,Anemia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/7/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,4/7/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,unknown,Lymphocyte count decreased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/7/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,unknown,Eosinophilia,1,Unrelated,No,No,ba8df459b1548c0aca86fbc2a802490a,4/7/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,unknown,RBC Distribution Width increased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/7/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,unknown,MCHC decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,4/7/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,4/7/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,unknown,Hypothyroidism,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,4/7/20,"T3, T4"
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,unknown,Hypothyroidism,3,Possible,Yes,No,ba8df459b1548c0aca86fbc2a802490a,4/7/20,Thyroid Stimulating Hormone
+ba8df459b1548c0aca86fbc2a802490a,5/19/20,unknown,Anemia,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,5/19/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,5/19/20,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,5/19/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,5/19/20,unknown,Basophilia,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,5/19/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,5/26/20,unknown,Anemia,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,5/26/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,5/26/20,unknown,D-dimer increased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,5/26/20,D-dimer
+ba8df459b1548c0aca86fbc2a802490a,5/26/20,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,5/26/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,5/5/20,unknown,Anemia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,5/5/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,5/5/20,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,5/5/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,5/5/20,unknown,Red blood cell distribution width increased,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,5/5/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,6/2/20,unknown,Hyponatremia,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,6/2/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,6/2/20,unknown,Hyperglycemia,2,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,6/2/20,Acute Care Panel
+ba8df459b1548c0aca86fbc2a802490a,6/2/20,unknown,Anemia,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,6/2/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,6/2/20,unknown,Lymphocyte count decreased,3,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,6/2/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,6/2/20,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,6/2/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,6/2/20,unknown,Neutrophil count increased,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,6/2/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,6/2/20,unknown,Eosinophilia,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,6/2/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,6/2/20,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,6/2/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,Anemia,2,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,Lymphocyte count decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,RBC Distribution Width increased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,Hyperphosphatemia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,Mineral Panel
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,Hypothyroidism,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,T3 Free
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,Hypothyroidism,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,"T3, T4"
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,Hypothyroidism,3,Possible,Yes,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,Thyroid Stimulating Hormone
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,unknown,Thyroxine decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,7/14/20,"Thyroxine, Free"
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,Anemia,1,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,White blood cell decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,Mean corpuscular hemoglobin concentration decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,Red blood cell distribution width increased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,Mean platelet volume decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,Basophilia,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,CBC + Diff
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,Alkaline phosphatase decreased,1,Unlikely,No,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,Hepatic Panel
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,Hypothyroidism,3,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,T3 Free
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,Hypothyroidism,3,Possible,No,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,"T3, T4"
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,ongoing,Hypothyroidism,4,Possible,Yes,Yes,ba8df459b1548c0aca86fbc2a802490a,8/25/20,Thyroid Stimulating Hormone
+ba8df459b1548c0aca86fbc2a802490a,8/25/20,unknown,Hypothyroidism,3,Possible,Yes,No,ba8df459b1548c0aca86fbc2a802490a,8/25/20,"Thyroxine, Free"
+ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,unknown,White blood cell decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,unknown,Hypoalbuminemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,unknown,Hypothyroidism,3,Possible,Yes,No,ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,Thyroid Stimulating Hormone
+ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,unknown,Hyperglycemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,unknown,White blood cell decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,unknown,Immature granulocytes increased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,unknown,Hypocalcemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/22/19,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,unknown,Immature granulocytes increased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,unknown,Alanine aminotransferase increased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,Hepatic Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,unknown,Eosinophilia,2,Possible,Yes,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,unknown,Immature granulocytes increased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,unknown,Neutrophil count increased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,unknown,Alanine aminotransferase increased,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,Hepatic Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,unknown,White blood cell decreased,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,unknown,Eosinophilia,2,Possible,Yes,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,unknown,Hypocalcemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,unknown,Hypothyroidism,2,Possible,Yes,No,ebac4f67360c91e7bd8c6e10ba775fcd,11/4/19,"Thyroxine, Free"
+ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,unknown,White blood cell decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,unknown,Hypermagnesemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,12/16/19,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,12/30/19,unknown,Hyperglycemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,12/30/19,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,12/30/19,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,12/30/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,12/30/19,unknown,Eosinophilia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,12/30/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,12/30/19,unknown,Hypomagnesemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,12/30/19,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,2/11/20,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,2/11/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,2/11/20,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,2/11/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,2/11/20,unknown,Hypothyroidism,3,Possible,Yes,No,ebac4f67360c91e7bd8c6e10ba775fcd,2/11/20,"Thyroxine, Free"
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Chloride decreased,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Hyperglycemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Increased blood urea nitrogen,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,White blood cell decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Anemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Monocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Eosinophilia,1,Unrelated,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Neutrophil count increased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Red blood cell distribution width increased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Alanine aminotransferase increased,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,Hepatic Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,unknown,Hyperphosphatemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,3/9/20,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,unknown,White blood cell decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,unknown,Platelet count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,unknown,Eosinophilia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,unknown,Red blood cell distribution width increased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,unknown,Hypothyroidism,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,5/4/20,"Thyroxine, Free"
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,Anemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,Platelet count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,Eosinophilia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,Alanine aminotransferase increased,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,Hepatic Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,unknown,Hypothyroidism,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,6/15/20,Thyroid Stimulating Hormone
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,Hyperglycemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,White blood cell decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,Anemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,Eosinophilia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,unknown,Hypothyroidism,1,Possible,Yes,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/27/20,Thyroid Stimulating Hormone
+ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,unknown,Blood urea nitrogen increased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,unknown,Anemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,unknown,Platelet count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/30/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,unknown,Anemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,unknown,Thrombocytopenia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,unknown,Basophil count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,7/31/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/1/19,unknown,Anemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/1/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/1/19,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/1/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/1/19,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/1/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,unknown,Eosinophilia,2,Possible,Yes,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,unknown,Hypocalcemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,unknown,Hypermagnesemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/12/19,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,unknown,Hyperglycemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,unknown,Increased blood urea nitrogen,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,unknown,Hypocalcemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,unknown,Hyperglycemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,unknown,Increased blood urea nitrogen,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,Acute Care Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,unknown,White blood cell decreased,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,unknown,Eosinophilia,2,Possible,Yes,No,ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,unknown,Platelet count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,unknown,Lymphocyte count decreased,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/23/19,unknown,Anemia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/23/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/23/19,unknown,Lymphocyte count decreased,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/23/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/23/19,unknown,Eosinophilia,2,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/23/19,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/23/19,unknown,Hypocalcemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/23/19,Mineral Panel
+ebac4f67360c91e7bd8c6e10ba775fcd,9/9/20,unknown,Anemia,1,Possible,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/9/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/9/20,unknown,Eosinophilia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/9/20,CBC + Diff
+ebac4f67360c91e7bd8c6e10ba775fcd,9/9/20,unknown,Hyperphosphatemia,1,Unlikely,No,No,ebac4f67360c91e7bd8c6e10ba775fcd,9/9/20,Mineral Panel
