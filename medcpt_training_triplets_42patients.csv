@@ -1,0 +1,351 @@
+AE_text,Gold_CTCAE_Term,Neg_CTCAE_Term
+rhinorrhoea,epistaxis,rhinorrhea
+epistaxis,epistaxis,nasal congestion
+rash,rash maculo-papular,papulopustular rash
+headache,headache,dizziness
+rash maculopapular,rash maculo-papular,papulopustular rash
+anaemia,anemia,hemoglobin increased
+rash maculo-papular,rash maculo-papular,papulopustular rash
+creatinine increased,creatinine increased,"renal and urinary disorders - other, specify"
+basal cell carcinoma,"neoplasms benign, malignant and unspecified (incl cysts and polyps) - other, specify",skin papilloma
+pruritus,pruritus,eczema
+platelet count decreased,platelet count decreased,lymphocyte count decreased
+bruising,bruising,hematoma
+hypertension,hypertension,pulmonary hypertension
+myalgia,myalgia,generalized muscle weakness
+anemia,anemia,hemolysis
+skin and subcutaneous tissue disorders - pearlescent dermal lesions,"skin and subcutaneous tissue disorders - other, specify",skin induration
+bursitis,arthralgia,arthritis
+olecranon bursitis,arthralgia,rotator cuff injury
+arthralgia,arthralgia,arthritis
+pharyngeal mucositis,pharyngeal mucositis,laryngeal mucositis
+pharyngeal growth,pharyngeal mucositis,pharyngeal hemorrhage
+hypotension,hypotension,hypertension
+gingival bleeding,oral hemorrhage,gingival pain
+hypopituitarism,hypopituitarism,hypophysitis
+carpal tunnel syndrome,"musculoskeletal and connective tissue disorder - other, specify",brachial plexopathy
+blood and lymphatic system disorders - anemia,anemia,"blood and lymphatic system disorders - other, specify"
+tendonitis,"musculoskeletal and connective tissue disorder - other, specify",arthralgia
+tenosynovitis,"musculoskeletal and connective tissue disorder - other, specify",arthralgia
+rotator cuff tendonitis,arthralgia,rotator cuff injury
+hearing loss,tinnitus,hearing impaired
+insomnia,insomnia,somnolence
+mucosal bleeding,oral hemorrhage,upper gastrointestinal hemorrhage
+hypothyroidism,hypothyroidism,hyperthyroidism
+trace blood in mouth after brushing teeth,oral hemorrhage,tooth infection
+lung infection,pneumonitis,lung infection
+pneumonitis,pneumonitis,lung infection
+ground glass opacities,pneumonitis,lung infection
+pulmonary nodules,"respiratory, thoracic and mediastinal disorders - other, specify",pulmonary fibrosis
+pneumomediastinum,"respiratory, thoracic and mediastinal disorders - other, specify",pneumothorax
+rash macular,rash maculo-papular,rash acneiform
+dyspepsia,dyspepsia,stomach pain
+tachycardia,sinus tachycardia,ventricular tachycardia
+gum bleeding,oral hemorrhage,gum infection
+maculopapular rash,rash maculo-papular,papulopustular rash
+papule,rash maculo-papular,papulopustular rash
+macular rash,rash maculo-papular,papulopustular rash
+conjunctivitis,eye infection,conjunctivitis
+pneumonia,pneumonitis,lung infection
+pleural effusion,pleural effusion,pleural hemorrhage
+pleuritic pain,pleural effusion,pleuritic pain
+rash follicular,folliculitis,rash acneiform
+skin rash,rash maculo-papular,rash acneiform
+folliculitis,folliculitis,alopecia
+eye irritation,dry eye,eye pain
+respiratory irritation,pneumonitis,bronchospasm
+xerophthalmia,dry eye,dry mouth
+sleep difficulty,insomnia,somnolence
+keratoconjunctivitis sicca,dry eye,conjunctivitis
+dry eye,dry eye,dry mouth
+ocular irritation,dry eye,eye pain
+bacterial conjunctivitis,eye infection,conjunctivitis infective
+eye discharge,eye infection,"eye disorders - other, specify"
+ground-glass opacities,pneumonitis,lung infection
+pneumothorax,pleural effusion,pneumothorax
+pseudomonas pneumonia,pneumonitis,lung infection
+hip pain,pain,hip fracture
+facial discomfort,facial pain,lip pain
+erythema,rash maculo-papular,erythema multiforme
+eczema,pruritus,eczema
+tooth abscess,tooth infection,dental caries
+tooth infection,tooth infection,tooth development disorder
+facial pain,facial pain,oral pain
+fever,fever,hypothermia
+vitiligo,skin hypopigmentation,skin hyperpigmentation
+pyrexia,fever,hypothermia
+eyelid itching,pruritus,eyelid function disorder
+hepatic enzyme increased,alanine aminotransferase increased,aspartate aminotransferase increased
+pain in extremity,pain,pain in extremity
+pain,pain,bone pain
+metabolism and nutrition disorders other: immune-mediated diabetes,"metabolism and nutrition disorders - other, specify","immune system disorders - other, specify"
+diarrhea,diarrhea,vomiting
+esophageal hemorrhage,esophageal hemorrhage,upper gastrointestinal hemorrhage
+troponin elevation,cardiac troponin i increased,cardiac troponin t increased
+"metabolism and nutrition, other, immune-mediated diabetes","metabolism and nutrition disorders - other, specify","immune system disorders - other, specify"
+paresthesia,oral dysesthesia,paresthesia
+ear fullness,ear pain,"ear and labyrinth disorders - other, specify"
+perioral tingling,oral dysesthesia,paresthesia
+ear discomfort,ear pain,external ear pain
+oral paresthesia,oral dysesthesia,paresthesia
+hematuria,hematuria,renal hemorrhage
+rectal hemorrhage,hemorrhoidal hemorrhage,rectal hemorrhage
+hemorrhoidal bleeding,hemorrhoidal hemorrhage,rectal hemorrhage
+vision changes,"eye disorders - other, specify",vision decreased
+cataract,"eye disorders - other, specify",cataract
+esophagitis,esophagitis,esophageal infection
+radiation esophagitis,esophagitis,esophageal infection
+urinary tract infection,urinary tract infection,bladder infection
+alopecia,folliculitis,alopecia
+Sinus Tachycardia with 2nd Degree A-V Block (Mobitz I),Atrioventricular block first degree,Mobitz (Type) Ii Atrioventricular Block
+Rash on torso and back,Folliculitis,Rash Maculo-Papular
+diverticulitis,"Gastrointestinal disorders - Other, specify",colonic perforation
+Keratoacanthoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify",skin papilloma
+Basal cell carcinoma,"Skin and subcutaneous tissue disorders - Other, specify",skin papilloma
+decreased appetite,Weight loss,anorexia
+Corneal perforation,"Eye disorders - Other, specify",corneal ulcer
+eyelid swelling,"Eye disorders - Other, specify",eyelid function disorder
+Eyelid Function Disorder,"Eye disorders - Other, specify",Eyelid Function Disorder
+Achiness,Flu like symptoms,Lethargy
+Weakness,Flu like symptoms,generalized muscle weakness
+hip pain,Arthralgia,Hip Fracture
+pain in right leg,Arthralgia,pain in extremity
+Pain in Right hand,Arthralgia,Muscle Weakness Right-Sided
+peripheral edema,Localized edema,edema limbs
+perianal anesthesia,Paresthesia,Anal Pain
+fatigue,fatigue,myalgia
+muscle weakness,generalized muscle weakness,muscle weakness lower limb
+hypomagnesemia,hypomagnesemia,hypermagnesemia
+rash,rash acneiform,papulopustular rash
+weight loss,weight loss,weight gain
+adrenal insufficiency,adrenal insufficiency,hypopituitarism
+ear pruritus,pruritus,ear pain
+hypopituitarism,adrenal insufficiency,hypopituitarism
+cat scratch,pruritus,"infections and infestations - other, specify"
+night sweats,hot flashes,palpitations
+increased appetite,anorexia,nausea
+weight gain,weight gain,weight loss
+hot flashes,hot flashes,dysmenorrhea
+depression,depression,depressed level of consciousness
+dry mouth,dry mouth,dry eye
+pulmonary embolism,thromboembolic event,arterial thromboembolism
+dry eyes,dry eye,dry mouth
+facial rash,rash acneiform,rash maculo-papular
+muscle cramping,myalgia,muscle cramp
+muscle cramps,myalgia,muscle cramp
+increased c-reactive protein,creatinine increased,fibrinogen decreased
+anxiety,depression,anxiety
+dry skin,dry mouth,dry skin
+xerostomia,dry mouth,dry eye
+cyst,"neoplasms benign, malignant and unspecified (incl cysts and polyps) - other, specify",tumor hemorrhage
+c-reactive protein increased,creatinine increased,fibrinogen decreased
+thromboembolic event,thromboembolic event,arterial thromboembolism
+oral hemorrhage,oral hemorrhage,hematoma
+acneiform rash,rash acneiform,papulopustular rash
+constipation,constipation,flatulence
+flatulence,flatulence,bloating
+alk phos increased,alkaline phosphatase increased,hyperphosphatemia
+alkaline phosphatase increased,alkaline phosphatase increased,aspartate aminotransferase increased
+serum amylase increased,serum amylase increased,pancreatic enzymes decreased
+abdominal pain,abdominal pain,gastrointestinal pain
+bladder spasm,bladder spasm,urinary tract pain
+forgetfulness,memory impairment,amnesia
+"neulasta sensitivity reaction (chills/rigors, diarrhea with abdominal cramping)",diarrhea,abdominal distension
+neutropenia,neutrophil count decreased,febrile neutropenia
+muscle cramping,muscle cramp,myalgia
+orthostatic hypotension,dizziness,hypotension
+abdominal cramping,muscle cramp,abdominal pain
+nausea,nausea,vomiting
+vomiting,vomiting,nausea
+myelodysplastic syndrome,anemia,myelodysplastic syndrome
+neutrophil count decreased,neutrophil count decreased,white blood cell decreased
+white blood cell count decreased,white blood cell decreased,lymphocyte count decreased
+bladder spasms,bladder spasm,bladder infection
+dry skin,dry skin,dry mouth
+cognitive disturbance,memory impairment,cognitive disturbance
+cytopenia,anemia,leukocytosis
+lightheadedness,dizziness,blurred vision
+muscle cramp,muscle cramp,myalgia
+rash pruritic,pruritus,papulopustular rash
+rectal bleeding,rectal hemorrhage,hemorrhoidal hemorrhage
+dyspnea on exertion,dyspnea,palpitations
+dyspnea,dyspnea,cough
+memory impairment,memory impairment,cognitive disturbance
+dysphagia,dysphagia,gastroesophageal reflux disease
+cough,cough,productive cough
+rectal pain,rectal pain,anal pain
+rectal swelling,rectal pain,rectal hemorrhage
+vision blurred,blurred vision,vision decreased
+yellow sputum,cough,productive cough
+shortness of breath,dyspnea,vital capacity abnormal
+infusion related reaction,infusion related reaction,injection site reaction
+rectal symptoms,rectal pain,rectal hemorrhage
+blurred vision,blurred vision,vision decreased
+allergic reaction,allergic rhinitis,allergic reaction
+chest tightness,dyspnea,chest wall pain
+nasal congestion,nasal congestion,rhinorrhea
+chills,chills,fever
+tumor hemorrhage,tumor hemorrhage,hematoma
+alanine aminotransferase increased,alanine aminotransferase increased,aspartate aminotransferase increased
+muscle spasms,muscle cramp,bladder spasm
+deep vein thrombosis,thromboembolic event,arterial thromboembolism
+left hydronephrosis,urinary tract obstruction,"renal and urinary disorders - other, specify"
+transaminitis,alanine aminotransferase increased,"hepatobiliary disorders - other, specify"
+cholangitis,cholecystitis,biliary tract infection
+transaminases increased,alanine aminotransferase increased,aspartate aminotransferase increased
+transaminase increased,alanine aminotransferase increased,aspartate aminotransferase increased
+right lower quadrant pain,abdominal pain,flank pain
+cholecystitis,cholecystitis,gallbladder infection
+pneumothorax,pneumothorax,pleural hemorrhage
+urosepsis,urinary tract infection,urethral infection
+poor appetite,nausea,anorexia
+vomiting,nausea,vomiting
+chills,fever,chills
+elevated liver panel,alanine aminotransferase increased,"hepatobiliary disorders - other, specify"
+elevated liver enzymes,alanine aminotransferase increased,aspartate aminotransferase increased
+dehydration,dehydration,hyponatremia
+increased liver enzymes,alanine aminotransferase increased,aspartate aminotransferase increased
+increased amylase,serum amylase increased,pancreatic enzymes decreased
+increased lipase,lipase increased,pancreatic enzymes decreased
+papules on shoulders,rash maculo-papular,papulopustular rash
+spontaneous pneumothorax,pneumothorax,pleural hemorrhage
+abdominal distention,abdominal pain,abdominal distension
+urinary hesitancy,"renal and urinary disorders - other, specify",urinary frequency
+poor appetite,anorexia,"metabolism and nutrition disorders - other, specify"
+edema lower limb,edema limbs,generalized edema
+anasarca,edema limbs,hypotension
+hypoalbuminemia,hypoalbuminemia,hyponatremia
+urticaria,urticaria,anaphylaxis
+vaginal bleeding,vaginal hemorrhage,uterine hemorrhage
+vaginal hemorrhage,vaginal hemorrhage,uterine hemorrhage
+anal hemorrhage,anal hemorrhage,rectal hemorrhage
+skin and subcutaneous tissue disorders - rash maculo-papular,rash maculo-papular,"skin and subcutaneous tissue disorders - other, specify"
+musculoskeletal and connective tissue disorders - tendon rupture partial,"musculoskeletal and connective tissue disorder - other, specify",rotator cuff injury
+musculoskeletal and connective tissue disorder - partial tendon rupture,"musculoskeletal and connective tissue disorder - other, specify",rotator cuff injury
+allergic reaction - pruritus and burning on extremities,urticaria,pruritus
+edema limbs,edema limbs,generalized edema
+thrombocytopenia,platelet count decreased,thrombotic thrombocytopenic purpura
+peripheral edema,edema limbs,generalized edema
+elevated lipase,serum amylase increased,lipase increased
+elevated amylase,serum amylase increased,pancreatic enzymes decreased
+amylase increased,serum amylase increased,pancreatic enzymes decreased
+hyperamylasemia,serum amylase increased,aspartate aminotransferase increased
+venous thromboembolism,thromboembolic event,arterial thromboembolism
+rectal hemorrhage,anal hemorrhage,rectal hemorrhage
+metatarsal fracture,fracture,ankle fracture
+skin and subcutaneous tissue infection,skin infection,"skin and subcutaneous tissue disorders - other, specify"
+pain in extremity,pain in extremity,pain
+chest pain,non-cardiac chest pain,chest pain - cardiac
+leg pain,pain in extremity,pain
+suture dehiscence,wound dehiscence,wound complication
+dysphagia,gastroesophageal reflux disease,dysphagia
+lipase increased,lipase increased,pancreatic enzymes decreased
+pericardial effusion,pericardial effusion,pericardial tamponade
+upper respiratory infection,upper respiratory infection,bronchial infection
+gastroesophageal reflux disease,gastroesophageal reflux disease,dysphagia
+hyperthyroidism,hyperthyroidism,hypothyroidism
+lower extremity edema,edema limbs,generalized edema
+dysgeusia,dysgeusia,dysarthria
+fatigue,myalgia,fatigue
+anosmia,anosmia,anorgasmia
+flank pain,abdominal pain,flank pain
+elevated ast,aspartate aminotransferase increased,alanine aminotransferase increased
+elevated alt,aspartate aminotransferase increased,alanine aminotransferase increased
+hyponatremia,hyponatremia,hypernatremia
+transaminitis,aspartate aminotransferase increased,"hepatobiliary disorders - other, specify"
+elevated liver enzymes,aspartate aminotransferase increased,alanine aminotransferase increased
+acute kidney injury,acute kidney injury,renal hemorrhage
+hyperkalemia,hyperkalemia,hypokalemia
+myositis,myositis,infective myositis
+edema peripheral,edema limbs,generalized edema
+ast increased,aspartate aminotransferase increased,alanine aminotransferase increased
+alt increased,alanine aminotransferase increased,aspartate aminotransferase increased
+myocarditis,myocarditis,pericarditis
+gastrointestinal hemorrhage,upper gastrointestinal hemorrhage,lower gastrointestinal hemorrhage
+hematochezia,upper gastrointestinal hemorrhage,lower gastrointestinal hemorrhage
+pain in pelvis,pelvic pain,urinary tract pain
+anorexia,anorexia,vomiting
+hematuria,"renal and urinary disorders - other, specify",hematuria
+hypokalemia,hypokalemia,hyperkalemia
+sinus tachycardia,sinus tachycardia,sinus bradycardia
+thyroiditis,hypothyroidism,thyroid stimulating hormone increased
+nausea,vomiting,nausea
+fall,fall,"investigations - other, specify"
+balance disorder,"nervous system disorders - other, specify",conduction disorder
+brain metastases,"nervous system disorders - other, specify",encephalopathy
+gait disturbance,gait disturbance,movements involuntary
+muscle weakness lower limb,generalized muscle weakness,muscle weakness lower limb
+falls,fall,syncope
+hydronephrosis,urinary tract obstruction,"renal and urinary disorders - other, specify"
+pulmonary nodules,lung infection,pulmonary fibrosis
+oral ulceration,mucositis oral,skin ulceration
+skin rash,rash acneiform,papulopustular rash
+febrile neutropenia,fever,febrile neutropenia
+edema limb,edema limbs,generalized edema
+oral mucositis,mucositis oral,pharyngeal mucositis
+pneumonia,lung infection,pneumonitis
+decreased appetite,Weight loss,nausea
+rash maculo-papular,rash pustular,rash maculo-papular
+gastric ulcer,gastric ulcer,duodenal ulcer
+orthopnea,dyspnea,apnea
+hypophosphatemia,hypophosphatemia,hyperphosphatemia
+"respiratory, thoracic and mediastinal disorders - cough",cough,"respiratory, thoracic and mediastinal disorders - other, specify"
+supraventricular tachycardia,supraventricular tachycardia,ventricular tachycardia
+difficulty concentrating,concentration impairment,cognitive disturbance
+decreased interest in doing things,"surgical and medical procedures - other, specify","investigations - other, specify"
+rectal hemorrhage,rectal hemorrhage,hemorrhoidal hemorrhage
+mucositis oral,mucositis oral,pharyngeal mucositis
+hemorrhoidal hemorrhage,hemorrhoidal hemorrhage,rectal hemorrhage
+facial paralysis,facial nerve disorder,facial muscle weakness
+facial nerve palsy,facial nerve disorder,abducens nerve disorder
+cognitive disturbance,concentration impairment,cognitive disturbance
+facial fasciculations,facial muscle weakness,facial nerve disorder
+facial twitching,facial muscle weakness,facial nerve disorder
+stomatitis,mucositis oral,pharyngeal mucositis
+milia,"surgical and medical procedures - other, specify","investigations - other, specify"
+papular rash,rash maculo-papular,papulopustular rash
+rash with blisters,rash maculo-papular,erythema multiforme
+bleeding,oral hemorrhage,hematoma
+abdominal discomfort,abdominal pain,abdominal distension
+blood blister,oral hemorrhage,bruising
+concentration impairment,concentration impairment,cognitive disturbance
+facial muscle twitching,facial muscle weakness,facial nerve disorder
+facial nerve disorder,facial nerve disorder,trigeminal nerve disorder
+dyspnea on exertion,fatigue,dyspnea
+night sweats,fever,palpitations
+ascites,ascites,chylous ascites
+abdominal distension,bloating,abdominal distension
+pelvic pain,pelvic pain,uterine pain
+flu-like symptoms,flu like symptoms,flushing
+tumor thrombus,thromboembolic event,tumor hemorrhage
+tumor pain,pain,tumor pain
+swelling,edema limbs,generalized edema
+abdominal hernia pain,pelvic pain,abdominal pain
+ear pain,ear pain,external ear pain
+neoplasm pain,tumor pain,pain
+nasal lesion,epistaxis,nasal congestion
+"neoplasms benign, malignant and unspecified (including cysts and polyps) - tonsillar enlargement","neoplasms benign, malignant and unspecified (incl cysts and polyps) - other, specify",pharyngeal stenosis
+keratoacanthoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify",hyperkeratosis
+radiation dermatitis,dermatitis radiation,radiation recall reaction (dermatologic)
+folliculitis,skin infection,folliculitis
+skin and subcutaneous tissue disorders - skin lesion,skin infection,"skin and subcutaneous tissue disorders - other, specify"
+"neoplasms benign, malignant and unspecified (including cysts and polyps) - tonsillar growth","neoplasms benign, malignant and unspecified (incl cysts and polyps) - other, specify",pharyngeal stenosis
+soft tissue infection,skin infection,soft tissue infection
+dysguesia,dysgeusia,dysesthesia
+dermatitis radiation,dermatitis radiation,radiation recall reaction (dermatologic)
+lymphocyte count decreased,lymphocyte count decreased,lymphocyte count increased
+hyperbilirubinemia,blood bilirubin increased,hepatic hemorrhage
+abdominal bloating,bloating,abdominal distension
+erythema,erythroderma,erythema multiforme
+abdominal distension,abdominal distension,abdominal pain
+bleeding (stoma fragility),intestinal stoma site bleeding,intestinal stoma obstruction
+bleeding (gum bleeding),oral hemorrhage,gingival pain
+pain in anus,rectal pain,anal pain
+stoma bleeding,intestinal stoma site bleeding,intestinal stoma obstruction
+stoma site bleeding,intestinal stoma site bleeding,stoma site infection
+bleeding at stoma site,intestinal stoma site bleeding,stoma site infection
+aspartate aminotransferase increased,aspartate aminotransferase increased,alanine aminotransferase increased
+loss of libido,libido decreased,libido increased
+decreased libido,libido decreased,libido increased
+rhinorrhea,rhinorrhea,nasal congestion
+papules,rash maculo-papular,papulopustular rash
