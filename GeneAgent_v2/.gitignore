@@ -1,0 +1,11 @@
+OPENAI.env
+__pycache__/
+*.pyc
+*.pyo
+
+gpt-4o-mini.case.cascade.result.txt
+gpt-4o-mini.case.agent.cascade.result.txt
+claim.case.cascade.gpt-4o-mini.txt
+geneagent.initial_summary.txt
+geneagent.final_result.txt
+geneagent.claim_verification.txt
