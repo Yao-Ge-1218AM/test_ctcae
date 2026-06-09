@@ -1,0 +1,8 @@
+MRN,Onset Date,Date Resolved,CTCAE,Grade,Attr to Disease,AE Immune related?,Serious Y/N,CTCAE_Mapped_Top1,Similarity_Top1,Final_CTCAE_Term
+64f5309673cbf36a4298a56da2b87048,3/18/2019,ongoing,pulmonary nodules,2,Definite,No,Yes,"Respiratory, Thoracic And Mediastinal Disorders - Other, Specify",0.677067756652832,"Respiratory, Thoracic And Mediastinal Disorders - Other, Specify"
+64f5309673cbf36a4298a56da2b87048,3/18/2019,ongoing,lymphadenopathy,2,Definite,No,Yes,Vaccination Site Lymphadenopathy,0.8194888830184937,Vaccination Site Lymphadenopathy
+64f5309673cbf36a4298a56da2b87048,3/18/2019,ongoing,abdominal mass,2,Definite,No,Yes,Abdominal Infection,0.7462689280509949,Abdominal Infection
+64f5309673cbf36a4298a56da2b87048,2/4/2019,ongoing,meningioma,1,Unrelated,No,No,Meningitis,0.6643252968788147,Meningitis
+64f5309673cbf36a4298a56da2b87048,2018,ongoing,pituitary mass,1,Unrelated,No,No,Hypopituitarism,0.7816212773323059,Hypopituitarism
+64f5309673cbf36a4298a56da2b87048,5/14/2019,unknown,abdominal pain,2,Possible,No,No,Abdominal Pain,1.0,Abdominal Pain
+64f5309673cbf36a4298a56da2b87048,2018,ongoing,pituitary hemorrhage,2,Unrelated,No,No,Intracranial Hemorrhage,0.8216026425361633,Intracranial Hemorrhage
