@@ -1,0 +1,719 @@
+MRN,Onset Date,Date Resolved,CTCAE,Grade,Attr to Bintrafusp alfa,Attr to Disease,Attr to Other,AE Immune related?,Serious Y/N,Row Index,Document Date,Document Name
+64f5309673cbf36a4298a56da2b87048,6/4/19,6/11/19,Pruritus,1,Possible,Unlikely,Unrelated,No,No,1,6/11/19,Research Nurse Protocol Note-Week # 3
+64f5309673cbf36a4298a56da2b87048,6/4/19,6/11/19,Cough,1,Possible,Unlikely,Unrelated,No,No,1,6/11/19,Research Nurse Protocol Note-Week # 3
+64f5309673cbf36a4298a56da2b87048,6/5/19,6/6/19,Rash maculopapular,1,Possible,Unlikely,Unrelated,No,No,1,6/11/19,Research Nurse Protocol Note-Week # 3
+64f5309673cbf36a4298a56da2b87048,2019-06-29,unknown,Bleeding,1,Possible,Unlikely,Unlikely,No,No,3,7/9/19,Research Nurse Protocol Note-Week # 7 Visit
+64f5309673cbf36a4298a56da2b87048,2019-07-05,unknown,Abdominal discomfort,1,Possible,Unlikely,Unlikely,No,No,3,7/9/19,Research Nurse Protocol Note-Week # 7 Visit
+64f5309673cbf36a4298a56da2b87048,7/23/19,unknown,Mucositis oral,1,Possible,Unlikely,Unlikely,No,No,4,7/23/19,Research Nurse Protocol Note-Week # 9 Visit
+64f5309673cbf36a4298a56da2b87048,7/23/19,unknown,Blood blister,1,Possible,Unlikely,Unlikely,No,No,4,7/23/19,Research Nurse Protocol Note-Week # 9 Visit
+64f5309673cbf36a4298a56da2b87048,7/23/19,ongoing,Pruritus,1,Probable,Unlikely,Unlikely,No,No,4,7/23/19,Research Nurse Protocol Note-Week # 9 Visit
+64f5309673cbf36a4298a56da2b87048,8/6/19,unknown,Pruritus,1,Possible,Unlikely,Unlikely,No,No,5,8/6/19,Research Nurse Protocol Note-Week # 11 Visit
+64f5309673cbf36a4298a56da2b87048,8/6/19,unknown,Rash maculopapular,2,Possible,Unlikely,Unlikely,No,No,5,8/6/19,Research Nurse Protocol Note-Week # 11 Visit
+64f5309673cbf36a4298a56da2b87048,8/6/19,unknown,Decreased appetite,1,Possible,Possible,Unlikely,No,No,5,8/6/19,Research Nurse Protocol Note-Week # 11 Visit
+64f5309673cbf36a4298a56da2b87048,8/6/19,unknown,Weight loss,1,Possible,Possible,Unlikely,No,No,5,8/6/19,Research Nurse Protocol Note-Week # 11 Visit
+64f5309673cbf36a4298a56da2b87048,08/10/19,ongoing,Facial paralysis,2,Possible,Unlikely,Unlikely,No,No,6,8/20/19,Research Nurse Protocol Note-Week #13 Visit
+64f5309673cbf36a4298a56da2b87048,8/28/19,unknown,Hemorrhoidal bleeding,1,Unlikely,Unlikely,Possible,No,No,7,9/3/19,Research Nurse Protocol Note-Week # 15 Visit
+64f5309673cbf36a4298a56da2b87048,9/17/19,unknown,Concentration impairment,1,Possible,Unlikely,Unrelated,No,No,8,9/17/19,Research Nurse Protocol Note-Week #17 Visit
+64f5309673cbf36a4298a56da2b87048,10/08/19,unknown,Facial muscle twitching,2,Possible,Unlikely,Unlikely,No,No,10,10/15/19,Research Nurse Protocol Note-Week # 21 Visit
+64f5309673cbf36a4298a56da2b87048,10/29/19,unknown,Facial muscle twitching,2,Possible,Unlikely,Unlikely,No,No,11,10/29/19,Research Nurse Protocol Note-Week #23 Visit
+64f5309673cbf36a4298a56da2b87048,11/12/19,unknown,Facial nerve disorder,2,Possible,Unlikely,Unlikely,No,No,12,11/12/19,Research Nurse Protocol Note-Week #25 Visit
+64f5309673cbf36a4298a56da2b87048,11/12/19,unknown,Rectal hemorrhage,2,Possible,Unlikely,Unlikely,No,No,12,11/12/19,Research Nurse Protocol Note-Week #25 Visit
+64f5309673cbf36a4298a56da2b87048,11/26/19,unknown,Rash maculopapular,2,Possible,Unlikely,Unrelated,No,No,13,11/26/19,Research Nurse Protocol Note-Week # 27 Visit
+64f5309673cbf36a4298a56da2b87048,11/26/19,ongoing,Facial nerve disorder,2,Possible,Unlikely,Unrelated,No,No,13,11/26/19,Research Nurse Protocol Note-Week # 27 Visit
+64f5309673cbf36a4298a56da2b87048,12/10/19,unknown,Rash maculopapular,2,Possible,Unlikely,Unrelated,No,No,14,12/10/19,Research Nurse Protocol Note-Week # 29 Visit
+64f5309673cbf36a4298a56da2b87048,12/10/19,ongoing,Lichenoid dermatitis,2,Probable,Unlikely,Unrelated,No,No,14,12/10/19,Research Nurse Protocol Note-Week # 29 Visit
+64f5309673cbf36a4298a56da2b87048,12/24/19,ongoing,Rash,2,Probable,Unlikely,Unrelated,No,No,15,12/24/19,Research Nurse Protocol Note-Week # 31 Visit
+64f5309673cbf36a4298a56da2b87048,1/7/20,unknown,Rash,1,Possible,Unlikely,Unlikely,No,No,16,1/7/20,Research Nurse Protocol Note-Week #33
+64f5309673cbf36a4298a56da2b87048,10/29/19,ongoing,Skin toxicity,2,Probable,Unrelated,Unrelated,No,No,17,1/21/20,Research Nurse Protocol Note-Week 35 AE Summary
+64f5309673cbf36a4298a56da2b87048,2020-03-17,ongoing,Hypothyroidism,2,Probable,Unrelated,Unrelated,Yes,No,20,3/17/20,Research Nurse Protocol Note-Week # 43 Visit
+64f5309673cbf36a4298a56da2b87048,2020-03-17,unknown,Constipation,1,Unrelated,Unrelated,Possible,No,No,20,3/17/20,Research Nurse Protocol Note-Week # 43 Visit
+64f5309673cbf36a4298a56da2b87048,2020-03-17,unknown,Pruritus,1,Possible,Unrelated,Unrelated,No,No,20,3/17/20,Research Nurse Protocol Note-Week # 43 Visit
+64f5309673cbf36a4298a56da2b87048,8/4/20,unknown,Hypokalemia,1,Possible,Unlikely,Unlikely,No,No,22,8/4/20,Research Nurse Protocol Note-Week 59 Re-staging
+64f5309673cbf36a4298a56da2b87048,10/23/20,unknown,Neoplasm malignant,3,Unrelated,Definite,Unrelated,No,Yes,23,10/28/20,Research Nurse Protocol Note-Follow Up Update
+64f5309673cbf36a4298a56da2b87048,03/16/20,ongoing,Hypothyroidism,2,Probable,Unrelated,Unrelated,Yes,No,24,12/17/20,Research Nurse Protocol Note-Follow Up AE Summary
+64f5309673cbf36a4298a56da2b87048,10/23/20,unknown,Neoplasm malignant,3,Unrelated,Definite,Unrelated,No,Yes,24,12/17/20,Research Nurse Protocol Note-Follow Up AE Summary
+64f5309673cbf36a4298a56da2b87048,11/10/20,unknown,Eye disorder,2,Unrelated,Definite,Unrelated,No,No,24,12/17/20,Research Nurse Protocol Note-Follow Up AE Summary
+b143468311134d27f4f8a7622a1d7235,12/24/18,ongoing,Nausea,1,Possible,Unlikely,Unlikely,No,No,25,12/24/18,Research Nurse Protocol Note-wk. 35
+b143468311134d27f4f8a7622a1d7235,12/24/18,ongoing,Flatulence,1,Possible,Unlikely,Unlikely,No,No,25,12/24/18,Research Nurse Protocol Note-wk. 35
+b143468311134d27f4f8a7622a1d7235,unknown,unknown,Small bowel obstruction,unknown,unknown,unknown,unknown,No,Yes,26,1/22/19,Research Nurse Protocol Note-week 39 missed visit
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2/19/19,unknown,Rash,2,Possible,Unlikely,Unrelated,No,No,32,2/19/19,Research Nurse Protocol Note
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2019-03-05,unknown,Deep vein thrombosis,2,Unlikely,Probable,Unrelated,No,No,33,3/5/19,Research Nurse Protocol Note-wk.13
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/2/19,unknown,Pruritus,2,Possible,Unlikely,Unrelated,No,No,35,4/2/19,Research Nurse Protocol Note-week 17
+7d6b3003a0ab29e50e44cc5d6ffb2f39,4/16/19,unknown,Abdominal hernia pain,2,Unlikely,Possible,Unrelated,No,No,36,4/16/19,Research Nurse Protocol Note-week 19
+7d6b3003a0ab29e50e44cc5d6ffb2f39,04/16/19,unknown,Pruritus,2,Probable,Unlikely,Unrelated,No,No,38,5/2/19,Research Nurse Protocol Note-Week # 21 Visit
+7d6b3003a0ab29e50e44cc5d6ffb2f39,04/16/19,04/21/19,Ear pain,2,Unrelated,Unlikely,Probable,No,No,38,5/2/19,Research Nurse Protocol Note-Week # 21 Visit
+7d6b3003a0ab29e50e44cc5d6ffb2f39,04/16/19,04/21/19,Skin peeling,2,Unrelated,Unlikely,Probable,No,No,38,5/2/19,Research Nurse Protocol Note-Week # 21 Visit
+7d6b3003a0ab29e50e44cc5d6ffb2f39,5/16/19,unknown,Abdominal hernia pain,2,Unlikely,Possible,Unrelated,No,No,39,5/16/19,Research Nurse Protocol Note-week 23
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/12/19,unknown,Rash,2,Possible,Unlikely,Unrelated,No,No,41,6/12/19,Research Nurse Protocol Note-week 27
+7d6b3003a0ab29e50e44cc5d6ffb2f39,6/12/19,unknown,Pruritus,2,Possible,Unlikely,Unrelated,No,No,41,6/12/19,Research Nurse Protocol Note-week 27
+7d6b3003a0ab29e50e44cc5d6ffb2f39,2019-06-25,unknown,Anxiety,1,Unlikely,Possible,Unrelated,No,No,42,6/25/19,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+ee21ede823037fd3671f67a68376422a,07/09/19,unknown,TSH increased,1,Unlikely,Unlikely,Probable,Yes,No,45,7/23/19,Research Nurse Protocol Note-Baseline Symptoms/Findings
+ee21ede823037fd3671f67a68376422a,07/09/19,unknown,Anemia,2,Unlikely,Unlikely,Probable,No,No,45,7/23/19,Research Nurse Protocol Note-Baseline Symptoms/Findings
+ee21ede823037fd3671f67a68376422a,07/09/19,unknown,Platelet count decreased,1,Unlikely,Unlikely,Probable,No,No,45,7/23/19,Research Nurse Protocol Note-Baseline Symptoms/Findings
+ee21ede823037fd3671f67a68376422a,07/09/19,unknown,Lymphocyte count decreased,3,Unlikely,Unlikely,Probable,No,Yes,45,7/23/19,Research Nurse Protocol Note-Baseline Symptoms/Findings
+ee21ede823037fd3671f67a68376422a,07/09/19,unknown,White blood cell count decreased,1,Unlikely,Unlikely,Probable,No,No,45,7/23/19,Research Nurse Protocol Note-Baseline Symptoms/Findings
+ee21ede823037fd3671f67a68376422a,7/09/19,7/11/19,Chest tightness,1,Possible,Unlikely,Unlikely,No,No,46,7/23/19,Research Nurse Protocol Note-Week # 3 Visit
+ee21ede823037fd3671f67a68376422a,7/12/19,ongoing,Rash with itching,1,Possible,Unlikely,Unlikely,No,No,46,7/23/19,Research Nurse Protocol Note-Week # 3 Visit
+ee21ede823037fd3671f67a68376422a,8/6/19,unknown,Rash maculopapular,1,Possible,Unlikely,Unlikely,No,No,47,8/6/19,Research Nurse Protocol Note-Week # 5 Visit
+ee21ede823037fd3671f67a68376422a,8/6/19,unknown,Herpes zoster,2,Unlikely,Possible,Unlikely,No,No,47,8/6/19,Research Nurse Protocol Note-Week # 5 Visit
+ee21ede823037fd3671f67a68376422a,08/14/19,unknown,Cough,1,Possible,Unlikely,Possible,No,No,48,8/20/19,Research Nurse Protocol Note-Week #7 Visit
+ee21ede823037fd3671f67a68376422a,08/14/19,unknown,Postnasal drip,1,Possible,Unlikely,Possible,No,No,48,8/20/19,Research Nurse Protocol Note-Week #7 Visit
+ee21ede823037fd3671f67a68376422a,9/6/19,unknown,Cough,2,Possible,Unlikely,Unlikely,No,No,49,9/6/19,Research Nurse Protocol Note-Week # 9 Visit
+ee21ede823037fd3671f67a68376422a,9/6/19,unknown,Increased serum creatinine,2,Possible,Unlikely,Unlikely,No,No,49,9/6/19,Research Nurse Protocol Note-Week # 9 Visit
+ee21ede823037fd3671f67a68376422a,9/11/19,unknown,Bronchiectasis,2,Unrelated,Probable,Unlikely,No,No,50,9/11/19,Research Nurse Protocol Note-Pulmonology consult update
+ee21ede823037fd3671f67a68376422a,9/11/19,unknown,Acute bronchitis,2,Unrelated,Probable,Unlikely,No,No,50,9/11/19,Research Nurse Protocol Note-Pulmonology consult update
+ee21ede823037fd3671f67a68376422a,09/12/19,unknown,Cough,3,Unlikely,Probable,Unlikely,No,Yes,51,9/16/19,Research Nurse Protocol Note-Week # 11 Adverse Events Sum.
+ee21ede823037fd3671f67a68376422a,09/12/19,unknown,Dyspnea,3,Unlikely,Probable,Unlikely,No,Yes,51,9/16/19,Research Nurse Protocol Note-Week # 11 Adverse Events Sum.
+ee21ede823037fd3671f67a68376422a,10/1/19,unknown,Increased blood creatinine,1,Possible,Unlikely,Probable,No,No,53,10/1/19,Research Nurse Protocol Note-Week # 13 Visit
+ee21ede823037fd3671f67a68376422a,10/1/19,unknown,Increased blood urea nitrogen,1,Possible,Unlikely,Probable,No,No,53,10/1/19,Research Nurse Protocol Note-Week # 13 Visit
+ee21ede823037fd3671f67a68376422a,10/21/19,unknown,Bronchial infection,2,Unlikely,Possible,Probable,No,No,55,10/30/19,Research Nurse Protocol Note-Week # 17 Visit
+ee21ede823037fd3671f67a68376422a,10/30/19,ongoing,Acute kidney injury,2,Possible,Unlikely,Probable,No,No,55,10/30/19,Research Nurse Protocol Note-Week # 17 Visit
+ee21ede823037fd3671f67a68376422a,11/26/19,ongoing,Abdominal pain,2,Possible,Possible,Unrelated,No,No,58,11/26/19,Research Nurse Protocol Note-Week #21 Visit
+ee21ede823037fd3671f67a68376422a,11/26/19,ongoing,Atrial fibrillation,3,Possible,Possible,Unrelated,No,Yes,58,11/26/19,Research Nurse Protocol Note-Week #21 Visit
+ee21ede823037fd3671f67a68376422a,11/14/19,11/24/19,Dyspnea,2,Possible,Possible,Unrelated,No,No,58,11/26/19,Research Nurse Protocol Note-Week #21 Visit
+ee21ede823037fd3671f67a68376422a,11/14/19,11/24/19,Cough,2,Possible,Possible,Unrelated,No,No,58,11/26/19,Research Nurse Protocol Note-Week #21 Visit
+ee21ede823037fd3671f67a68376422a,12/10/19,unknown,Abdominal pain,2,Possible,Probable,Unlikely,No,No,60,12/10/19,Research Nurse Protocol Note-Week #23 Visit
+ee21ede823037fd3671f67a68376422a,12/10/19,unknown,Keratoacanthoma,2,Possible,Unlikely,Unlikely,No,No,60,12/10/19,Research Nurse Protocol Note-Week #23 Visit
+ee21ede823037fd3671f67a68376422a,12/20/19,unknown,Tachycardia,2,Unlikely,Possible,Unrelated,No,No,61,12/20/19,Research Nurse Protocol Note
+ee21ede823037fd3671f67a68376422a,12/11/19,unknown,Infusion related reaction,2,Probable,Unlikely,Unlikely,No,No,62,12/24/19,Research Nurse Protocol Note-Week #25 Visit
+ee21ede823037fd3671f67a68376422a,12/24/19,unknown,Right hip pain,2,Unlikely,Possible,Unlikely,No,No,62,12/24/19,Research Nurse Protocol Note-Week #25 Visit
+ee21ede823037fd3671f67a68376422a,12/11/19,unknown,Infusion-related reaction,2,Probable,Unrelated,Unrelated,No,No,63,1/21/20,Research Nurse Protocol Note-Week # 29 Follow Up
+ee21ede823037fd3671f67a68376422a,1/21/20,unknown,Disease progression,3,Unrelated,Definite,Unrelated,No,Yes,63,1/21/20,Research Nurse Protocol Note-Week # 29 Follow Up
+ee21ede823037fd3671f67a68376422a,3/3/20,unknown,Anemia,1,Possible,Possible,Unlikely,No,No,64,3/3/20,Research Nurse Protocol Note-Week # 35 Off Treatment Note
+ee21ede823037fd3671f67a68376422a,3/3/20,unknown,Keratoacanthoma,1,Possible,Unlikely,Unlikely,No,No,64,3/3/20,Research Nurse Protocol Note-Week # 35 Off Treatment Note
+ee21ede823037fd3671f67a68376422a,3/3/20,unknown,Renal insufficiency,1,Possible,Unlikely,Unlikely,No,No,64,3/3/20,Research Nurse Protocol Note-Week # 35 Off Treatment Note
+a24ee1ece206989032e3494ea3ee1061,1/26/19,unknown,Diarrhea,1,Unlikely,Unlikely,Possible,No,No,66,2/4/19,Research Nurse Protocol Note
+a24ee1ece206989032e3494ea3ee1061,1/26/19,unknown,Abdominal pain,1,Unlikely,Unlikely,Possible,No,No,66,2/4/19,Research Nurse Protocol Note
+a24ee1ece206989032e3494ea3ee1061,2019-02-09,unknown,Hematuria,1,Possible,Possible,Unlikely,No,No,67,2/11/19,Research Nurse Protocol Note-Hematuria Symptom Management
+a24ee1ece206989032e3494ea3ee1061,2/14/19,unknown,Hematuria,1,Possible,Possible,Unlikely,No,No,68,2/14/19,Research Nurse Protocol Note-Symptom management update
+a24ee1ece206989032e3494ea3ee1061,2/14/19,unknown,Urinary incontinence,1,Possible,Possible,Unlikely,No,No,68,2/14/19,Research Nurse Protocol Note-Symptom management update
+a24ee1ece206989032e3494ea3ee1061,2/14/19,unknown,Bladder spasm,1,Possible,Possible,Unlikely,No,No,68,2/14/19,Research Nurse Protocol Note-Symptom management update
+a24ee1ece206989032e3494ea3ee1061,2019-02-19,unknown,Hematuria,2,Possible,Possible,Unlikely,No,No,69,2/19/19,Research Nurse Protocol Note-Week # 5
+a24ee1ece206989032e3494ea3ee1061,2019-02-19,unknown,Urinary urgency,2,Possible,Possible,Unlikely,No,No,69,2/19/19,Research Nurse Protocol Note-Week # 5
+a24ee1ece206989032e3494ea3ee1061,2019-02-19,unknown,Bladder spasm,2,Possible,Possible,Unlikely,No,No,69,2/19/19,Research Nurse Protocol Note-Week # 5
+a24ee1ece206989032e3494ea3ee1061,2019-03-08,2019-03-10,Hematuria,1,Possible,Unlikely,Unlikely,No,No,73,3/19/19,Research Nurse Protocol Note-Week # 9 Visit
+a24ee1ece206989032e3494ea3ee1061,2019-03-19,unknown,Keratoacanthoma,1,Unlikely,Possible,Unlikely,No,No,73,3/19/19,Research Nurse Protocol Note-Week # 9 Visit
+a24ee1ece206989032e3494ea3ee1061,4/2/19,ongoing,Leukopenia,2,Possible,Possible,Unlikely,No,No,74,4/2/19,Research Nurse Protocol Note-Week #11 Visit
+a24ee1ece206989032e3494ea3ee1061,4/2/19,unknown,Anemia,1,Possible,Possible,Unlikely,No,No,74,4/2/19,Research Nurse Protocol Note-Week #11 Visit
+a24ee1ece206989032e3494ea3ee1061,4/2/19,unknown,Hematuria,1,Possible,Unlikely,Unlikely,No,No,74,4/2/19,Research Nurse Protocol Note-Week #11 Visit
+a24ee1ece206989032e3494ea3ee1061,4/2/19,unknown,Gingival bleeding,1,Possible,Unlikely,Unlikely,No,No,74,4/2/19,Research Nurse Protocol Note-Week #11 Visit
+a24ee1ece206989032e3494ea3ee1061,2019-04-30,unknown,Skin lesion,1,Unlikely,Possible,Unrelated,No,No,76,4/30/19,Research Nurse Protocol Note-Week # 15 Visit
+a24ee1ece206989032e3494ea3ee1061,5/6/19,unknown,Skin lesion,1,Possible,Possible,Unlikely,No,No,77,5/6/19,Research Nurse Protocol Note-Week # 15 Visit
+a24ee1ece206989032e3494ea3ee1061,5/14/19,unknown,Forgetfulness,1,Unlikely,Possible,Unrelated,No,No,78,5/14/19,Research Nurse Protocol Note-Week # 17 Visit
+a24ee1ece206989032e3494ea3ee1061,5/14/19,ongoing,"Neulasta sensitivity reaction (chills/rigors, diarrhea with abdominal cramping)",2,Unrelated,Unrelated,Definite,No,No,78,5/14/19,Research Nurse Protocol Note-Week # 17 Visit
+a24ee1ece206989032e3494ea3ee1061,2019-05-28,unknown,Rash maculo-papular,2,Possible,Unlikely,Unlikely,No,No,79,5/28/19,Research Nurse Protocol Note-Week #19
+a24ee1ece206989032e3494ea3ee1061,2019-05-28,unknown,Pruritus,2,Possible,Unlikely,Unlikely,No,No,79,5/28/19,Research Nurse Protocol Note-Week #19
+a24ee1ece206989032e3494ea3ee1061,6/11/19,unknown,Neutropenia,3,Possible,Unlikely,Unrelated,No,Yes,80,6/11/19,Research Nurse Protocol Note-Week #21
+a24ee1ece206989032e3494ea3ee1061,6/11/19,unknown,Rash,2,Possible,Unlikely,Unrelated,No,No,80,6/11/19,Research Nurse Protocol Note-Week #21
+a24ee1ece206989032e3494ea3ee1061,6/11/19,unknown,Pruritus,2,Possible,Unlikely,Unrelated,No,No,80,6/11/19,Research Nurse Protocol Note-Week #21
+a24ee1ece206989032e3494ea3ee1061,6/11/19,unknown,Rigors,2,Possible,Unlikely,Unrelated,No,No,80,6/11/19,Research Nurse Protocol Note-Week #21
+a24ee1ece206989032e3494ea3ee1061,7/9/19,unknown,Muscle cramping,1,Possible,Unlikely,Possible,No,No,82,7/9/19,Research Nurse Protocol Note-Week # 25 Visit
+a24ee1ece206989032e3494ea3ee1061,7/9/19,unknown,Orthostatic hypotension,1,Possible,Unlikely,Possible,No,No,82,7/9/19,Research Nurse Protocol Note-Week # 25 Visit
+a24ee1ece206989032e3494ea3ee1061,7/23/19,7/24/19,Chills,1,Unlikely,Unrelated,Probable,No,No,84,7/23/19,Research Nurse Protocol Note-Week #27 Visit
+a24ee1ece206989032e3494ea3ee1061,7/23/19,7/24/19,Diarrhea,1,Unlikely,Unrelated,Probable,No,No,84,7/23/19,Research Nurse Protocol Note-Week #27 Visit
+a24ee1ece206989032e3494ea3ee1061,7/23/19,7/24/19,Abdominal cramping,1,Unlikely,Unrelated,Probable,No,No,84,7/23/19,Research Nurse Protocol Note-Week #27 Visit
+a24ee1ece206989032e3494ea3ee1061,7/23/19,7/24/19,Nausea,1,Unlikely,Unrelated,Probable,No,No,84,7/23/19,Research Nurse Protocol Note-Week #27 Visit
+a24ee1ece206989032e3494ea3ee1061,7/23/19,7/24/19,Vomiting,1,Unlikely,Unrelated,Probable,No,No,84,7/23/19,Research Nurse Protocol Note-Week #27 Visit
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Pruritus,2,Probable,Unlikely,Unrelated,No,No,85,8/6/19,Research Nurse Protocol Note-Week # 29 Visit
+a24ee1ece206989032e3494ea3ee1061,8/6/19,ongoing,Skin lesions,2,Probable,Unlikely,Unrelated,No,No,85,8/6/19,Research Nurse Protocol Note-Week # 29 Visit
+a24ee1ece206989032e3494ea3ee1061,8/6/19,unknown,Neutropenia,3,Possible,Unlikely,Unrelated,No,Yes,85,8/6/19,Research Nurse Protocol Note-Week # 29 Visit
+a24ee1ece206989032e3494ea3ee1061,8/6/19,unknown,Rigors,2,Unlikely,Unlikely,Possible,No,No,85,8/6/19,Research Nurse Protocol Note-Week # 29 Visit
+a24ee1ece206989032e3494ea3ee1061,8/6/19,unknown,Gastrointestinal symptoms,2,Unlikely,Unlikely,Possible,No,No,85,8/6/19,Research Nurse Protocol Note-Week # 29 Visit
+a24ee1ece206989032e3494ea3ee1061,8/20/19,ongoing,Pruritus,1,Probable,Unlikely,Unrelated,No,No,86,8/20/19,Research Nurse Protocol Note-Week #31 Visit
+a24ee1ece206989032e3494ea3ee1061,8/20/19,ongoing,Skin lesions,1,Probable,Unlikely,Unrelated,No,No,86,8/20/19,Research Nurse Protocol Note-Week #31 Visit
+a24ee1ece206989032e3494ea3ee1061,2019-09-03,unknown,Fatigue,3,Probable,Unlikely,Unlikely,No,Yes,87,9/3/19,Research Nurse Protocol Note-Week # 33 Visit
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Fatigue,2,Possible,Unlikely,Unlikely,No,No,88,9/17/19,Research Nurse Protocol Note-Week # 35 Visit
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Anemia,3,Possible,Possible,Unlikely,No,Yes,88,9/17/19,Research Nurse Protocol Note-Week # 35 Visit
+a24ee1ece206989032e3494ea3ee1061,9/17/19,ongoing,Neutropenia,3,Possible,Possible,Unlikely,No,Yes,88,9/17/19,Research Nurse Protocol Note-Week # 35 Visit
+a24ee1ece206989032e3494ea3ee1061,10/1/19,ongoing,Myelodysplastic syndrome,3,Possible,Definite,Unlikely,No,Yes,89,10/1/19,Research Nurse Protocol Note-Week # 37 Visit
+a24ee1ece206989032e3494ea3ee1061,10/1/19,unknown,Anemia,3,Unlikely,Definite,Possible,No,Yes,89,10/1/19,Research Nurse Protocol Note-Week # 37 Visit
+a24ee1ece206989032e3494ea3ee1061,10/15/19,unknown,Myelodysplastic syndrome,3,Possible,Unlikely,Unlikely,No,Yes,90,10/15/19,Research Nurse Protocol Note-Week #39 Visit
+a24ee1ece206989032e3494ea3ee1061,10/15/19,unknown,Anemia,3,Possible,Unlikely,Possible,No,Yes,90,10/15/19,Research Nurse Protocol Note-Week #39 Visit
+a24ee1ece206989032e3494ea3ee1061,10/29/19,ongoing,Myelodysplastic syndrome,3,Possible,Definite,Unlikely,No,Yes,91,10/29/19,Research Nurse Protocol Note-Week # 41 Visit
+a24ee1ece206989032e3494ea3ee1061,10/29/19,ongoing,Anemia,3,Possible,Definite,Unlikely,No,Yes,91,10/29/19,Research Nurse Protocol Note-Week # 41 Visit
+a24ee1ece206989032e3494ea3ee1061,10/29/19,ongoing,Neutropenia,3,Possible,Definite,Unlikely,No,Yes,91,10/29/19,Research Nurse Protocol Note-Week # 41 Visit
+a24ee1ece206989032e3494ea3ee1061,11/12/19,ongoing,Myelodysplastic syndrome,3,Possible,Definite,Unlikely,No,Yes,92,11/12/19,Research Nurse Protocol Note-Week #43 Visit
+a24ee1ece206989032e3494ea3ee1061,11/12/19,unknown,Anemia,2,Possible,Definite,Unlikely,No,No,92,11/12/19,Research Nurse Protocol Note-Week #43 Visit
+a24ee1ece206989032e3494ea3ee1061,11/26/19,ongoing,Myelodysplastic Syndrome,3,Possible,Definite,Unrelated,No,Yes,93,11/26/19,Research Nurse Protocol Note-Week #45 Visit
+a24ee1ece206989032e3494ea3ee1061,11/26/19,unknown,Anemia,2,Possible,Definite,Unrelated,No,No,93,11/26/19,Research Nurse Protocol Note-Week #45 Visit
+a24ee1ece206989032e3494ea3ee1061,04/07/20,unknown,Keratoacanthoma,1,Possible,Unlikely,Unlikely,No,No,96,4/21/20,Research Nurse Protocol Note-Visit F/U #1
+a24ee1ece206989032e3494ea3ee1061,10/06/20,ongoing,Rash maculo-papular,1,Possible,Unrelated,Unrelated,No,No,98,10/6/20,Research Nurse Protocol Note-Follow Up Visit
+a24ee1ece206989032e3494ea3ee1061,10/06/20,ongoing,Neutrophil count decreased,4,Unrelated,Unlikely,Definite,No,No,98,10/6/20,Research Nurse Protocol Note-Follow Up Visit
+a24ee1ece206989032e3494ea3ee1061,10/06/20,01/05/21,Rash maculo-papular,1,Possible,Unrelated,Unrelated,No,No,99,1/5/21,Research Nurse Protocol Note-Follow Up Visit #4
+a24ee1ece206989032e3494ea3ee1061,10/06/20,01/05/21,Neutrophil count decreased,4,Unrelated,Unlikely,Definite,No,No,99,1/5/21,Research Nurse Protocol Note-Follow Up Visit #4
+a24ee1ece206989032e3494ea3ee1061,01/05/21,unknown,White blood cell count decreased,3,Unrelated,Unrelated,Definite,No,No,99,1/5/21,Research Nurse Protocol Note-Follow Up Visit #4
+a24ee1ece206989032e3494ea3ee1061,03/30/21,unknown,Neutrophil count decreased,4,Unrelated,Unrelated,Definite,No,No,100,3/30/21,Research Nurse Protocol Note-Follow Up visit
+a24ee1ece206989032e3494ea3ee1061,01/05/21,unknown,White blood cell count decreased,3,Unrelated,Unrelated,Definite,No,No,100,3/30/21,Research Nurse Protocol Note-Follow Up visit
+a24ee1ece206989032e3494ea3ee1061,03/30/21,ongoing,Neutrophil count decreased,4,Unrelated,Unrelated,Definite,No,No,101,6/22/21,Research Nurse Protocol Note-18C0056 3-month follow-up #6
+a24ee1ece206989032e3494ea3ee1061,01/05/21,ongoing,White blood cell count decreased,3,Unrelated,Unrelated,Definite,No,No,101,6/22/21,Research Nurse Protocol Note-18C0056 3-month follow-up #6
+a24ee1ece206989032e3494ea3ee1061,03/30/21,unknown,Neutrophil count decreased,4,Unrelated,Unrelated,Definite,No,No,102,9/21/21,Research Nurse Protocol Note-Follow Up Visit
+a24ee1ece206989032e3494ea3ee1061,01/05/21,unknown,White blood cell count decreased,3,Unrelated,Unrelated,Definite,No,No,102,9/21/21,Research Nurse Protocol Note-Follow Up Visit
+a24ee1ece206989032e3494ea3ee1061,09/21/21,ongoing,Fatigue,2,Unrelated,Unrelated,Probable,No,No,102,9/21/21,Research Nurse Protocol Note-Follow Up Visit
+a24ee1ece206989032e3494ea3ee1061,08/30/21,unknown,Urinary tract infection,2,Unrelated,Unrelated,Definite,No,No,102,9/21/21,Research Nurse Protocol Note-Follow Up Visit
+a24ee1ece206989032e3494ea3ee1061,03/30/21,ongoing,Neutrophil count decreased,4,Unrelated,Unrelated,Definite,No,No,103,12/14/21,Research Nurse Protocol Note-Follow up visit
+a24ee1ece206989032e3494ea3ee1061,01/05/21,ongoing,White blood cell count decreased,3,Unrelated,Unrelated,Definite,No,No,103,12/14/21,Research Nurse Protocol Note-Follow up visit
+a24ee1ece206989032e3494ea3ee1061,09/21/21,12/14/21,Fatigue,2,Unrelated,Unrelated,Probable,No,No,103,12/14/21,Research Nurse Protocol Note-Follow up visit
+a24ee1ece206989032e3494ea3ee1061,08/30/21,12/14/21,Urinary tract infection,2,Unrelated,Unrelated,Definite,No,No,103,12/14/21,Research Nurse Protocol Note-Follow up visit
+a24ee1ece206989032e3494ea3ee1061,08/09/22,unknown,Neutrophil count decreased,3,Unrelated,Unrelated,Definite,No,No,106,8/9/22,Research Nurse Protocol Note-Follow Up Visit
+a24ee1ece206989032e3494ea3ee1061,08/09/22,unknown,White blood cell count decreased,2,Unrelated,Unrelated,Definite,No,No,106,8/9/22,Research Nurse Protocol Note-Follow Up Visit
+0a6d8ed57bad6cc2158c1a3100d01de7,11/5/19,unknown,Rash maculo-papular,1,Possible,Unlikely,Unlikely,No,No,112,11/5/19,Research Nurse Protocol Note-Week # 9 Visit
+0a6d8ed57bad6cc2158c1a3100d01de7,11/5/19,unknown,Bleeding at stoma site,1,Unlikely,Possible,Unlikely,No,No,112,11/5/19,Research Nurse Protocol Note-Week # 9 Visit
+0a6d8ed57bad6cc2158c1a3100d01de7,11/5/19,unknown,Rash maculo-papular,1,Possible,Unlikely,Unlikely,No,No,113,11/5/19,Research Nurse Protocol Note-Week # 9 Visit
+0a6d8ed57bad6cc2158c1a3100d01de7,11/5/19,unknown,Bleeding at stoma site,1,Unlikely,Possible,Unlikely,No,No,113,11/5/19,Research Nurse Protocol Note-Week # 9 Visit
+0a6d8ed57bad6cc2158c1a3100d01de7,12/3/19,unknown,Constipation,2,Unlikely,Unlikely,Possible,No,No,115,12/3/19,Research Nurse Protocol Note-Week # 13 Visit
+0a6d8ed57bad6cc2158c1a3100d01de7,12/17/19,ongoing,Constipation,2,Possible,Unlikely,Probable,No,No,116,12/17/19,Research Nurse Protocol Note-18c0056 wk. 15 & Off Tx
+0a6d8ed57bad6cc2158c1a3100d01de7,12/17/19,ongoing,Disease progression,3,Possible,Definite,Unlikely,No,Yes,116,12/17/19,Research Nurse Protocol Note-18c0056 wk. 15 & Off Tx
+b162d352bbfe7f1ac571c079f3a91f96,2/18/20,unknown,Skin and subcutaneous tissue disorders - Tenderness,1,Unlikely,Probable,Unrelated,No,No,120,2/18/20,Research Nurse Protocol Note-week 5 18c0056
+b162d352bbfe7f1ac571c079f3a91f96,2020-03-03,unknown,Myositis,3,Possible,Unlikely,Unlikely,Yes,Yes,121,3/3/20,Research Nurse Protocol Note-wk. 7 18c0056
+b162d352bbfe7f1ac571c079f3a91f96,2020-03-03,unknown,Myocarditis,3,Possible,Unlikely,Unlikely,Yes,Yes,121,3/3/20,Research Nurse Protocol Note-wk. 7 18c0056
+c6d12120838563dcd1a1241d48adab62,12/4/18,unknown,Rash,1,Possible,Unlikely,Unlikely,No,No,123,12/4/18,Research Nurse Protocol Note-wk.17
+c6d12120838563dcd1a1241d48adab62,12/4/18,unknown,Nasal bump,1,Unlikely,Possible,Unlikely,No,No,123,12/4/18,Research Nurse Protocol Note-wk.17
+c3bb03af386a687b8eef3303f7886bda,10/29/19,unknown,Inguinal hernia,2,Unlikely,Unlikely,Possible,No,No,127,10/29/19,Research Nurse Protocol Note-week 5 18c0056
+c3bb03af386a687b8eef3303f7886bda,11/12/19,unknown,Dyspnea,1,Possible,Probable,Unlikely,No,No,128,11/12/19,Research Nurse Protocol Note-wk. 7 18c0056
+c3bb03af386a687b8eef3303f7886bda,11/26/19,ongoing,Dyspnea,1,Unlikely,Possible,Unrelated,No,No,129,11/26/19,Research Nurse Protocol Note-week 9 18c0056
+c3bb03af386a687b8eef3303f7886bda,11/26/19,ongoing,Constipation,1,Unlikely,Possible,Unrelated,No,No,129,11/26/19,Research Nurse Protocol Note-week 9 18c0056
+c3bb03af386a687b8eef3303f7886bda,12/24/19,unknown,Epistaxis,1,Possible,Unlikely,Unlikely,No,No,131,12/24/19,Research Nurse Protocol Note-wk. 13 18c0056
+c3bb03af386a687b8eef3303f7886bda,2020-01-07,unknown,Dysphagia,2,Possible,Probable,Unlikely,No,No,132,1/7/20,Research Nurse Protocol Note-week 15 18c0056
+c3bb03af386a687b8eef3303f7886bda,2/4/20,ongoing,Pericardial effusion,2,Possible,Possible,Unlikely,No,Yes,134,2/4/20,Research Nurse Protocol Note-Week # 19 Visit
+c3bb03af386a687b8eef3303f7886bda,2/4/20,unknown,Upper respiratory infection,1,Unlikely,Unlikely,Possible,No,No,134,2/4/20,Research Nurse Protocol Note-Week # 19 Visit
+c3bb03af386a687b8eef3303f7886bda,2020-02-18,unknown,Pericardial effusion,2,Possible,Possible,Unlikely,No,Yes,135,2/18/20,Research Nurse Protocol Note-wk. 21 18c0056
+c3bb03af386a687b8eef3303f7886bda,02/04/20,ongoing,Pericardial effusion,2,Unlikely,Possible,Possible,No,No,137,3/11/20,Research Nurse Protocol Note-week 25 18c0056
+c3bb03af386a687b8eef3303f7886bda,02/04/20,ongoing,Pericardial effusion,2,Unlikely,Possible,Possible,No,No,141,9/1/20,Research Nurse Protocol Note-week 49 18c0056
+c3bb03af386a687b8eef3303f7886bda,10/20/20,unknown,Gastroesophageal reflux disease,2,Unlikely,Unlikely,Unrelated,No,No,142,10/20/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+c3bb03af386a687b8eef3303f7886bda,2020-10-20,unknown,Gastroesophageal reflux disease,2,Unlikely,Unlikely,Unrelated,No,No,143,12/1/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+c3bb03af386a687b8eef3303f7886bda,2020-02-04,unknown,Pericardial effusion,3,Unlikely,Possible,Possible,No,No,143,12/1/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+c3bb03af386a687b8eef3303f7886bda,1/5/21,1/6/21,Oral hemorrhage,1,Unrelated,Possible,Unrelated,No,No,144,1/12/21,Research Nurse Protocol Note-6-wk F/U 18c0056
+7820df7c75ff9301d2adc15aa337db34,07/25/2019,unknown,Back pain,2,Possible,Possible,Unlikely,No,No,147,7/29/19,Research Nurse Protocol Note-Week #3 Visit
+7820df7c75ff9301d2adc15aa337db34,07/25/2019,unknown,Pain in extremity,2,Possible,Possible,Unlikely,No,No,147,7/29/19,Research Nurse Protocol Note-Week #3 Visit
+7820df7c75ff9301d2adc15aa337db34,8/12/19,ongoing,Dehydration,2,Possible,Probable,Unrelated,No,No,149,8/12/19,Research Nurse Protocol Note
+7820df7c75ff9301d2adc15aa337db34,8/12/19,ongoing,Fatigue,2,Possible,Probable,Unrelated,No,No,149,8/12/19,Research Nurse Protocol Note
+7820df7c75ff9301d2adc15aa337db34,8/12/19,ongoing,Tachycardia,2,Possible,Probable,Unrelated,No,No,149,8/12/19,Research Nurse Protocol Note
+7820df7c75ff9301d2adc15aa337db34,8/12/19,ongoing,Constipation,2,Possible,Probable,Unrelated,No,No,149,8/12/19,Research Nurse Protocol Note
+7820df7c75ff9301d2adc15aa337db34,8/28/19,ongoing,Fatigue,3,Possible,Probable,Unrelated,No,Yes,151,8/28/19,Research Nurse Protocol Note-Week #7 Visit 8.27.19
+7820df7c75ff9301d2adc15aa337db34,8/28/19,ongoing,Decreased appetite,2,Possible,Probable,Unrelated,No,No,151,8/28/19,Research Nurse Protocol Note-Week #7 Visit 8.27.19
+7820df7c75ff9301d2adc15aa337db34,8/28/19,ongoing,Tachycardia,3,Unlikely,Definite,Unrelated,No,Yes,151,8/28/19,Research Nurse Protocol Note-Week #7 Visit 8.27.19
+df5d99e7acc6945774fa3fcc9ca6f4a2,12/16/19,unknown,Creatinine increased,1,Unlikely,Unrelated,Unrelated,No,No,152,12/17/19,Research Nurse Protocol Note-consent & wk.1 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,12/16/19,unknown,Hypercalcemia,1,Unlikely,Definite,Unrelated,No,No,152,12/17/19,Research Nurse Protocol Note-consent & wk.1 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,12/16/19,unknown,Lymphocyte count decreased,1,Unlikely,Unrelated,Unrelated,No,No,152,12/17/19,Research Nurse Protocol Note-consent & wk.1 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,12/31/19,unknown,Gingival bleeding,1,Possible,Unlikely,Unlikely,No,No,153,12/31/19,Research Nurse Protocol Note-week 3 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,12/31/19,unknown,Rectal hemorrhage,1,Possible,Possible,Unlikely,No,No,153,12/31/19,Research Nurse Protocol Note-week 3 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,1/14/20,unknown,Allergic reaction,2,Possible,Unlikely,Unlikely,No,No,154,1/14/20,Research Nurse Protocol Note-week 5 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,1/28/20,unknown,Vaginal bleeding,1,Possible,Unlikely,Unrelated,No,No,155,1/28/20,Research Nurse Protocol Note-wk. 7 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,2/11/20,unknown,Pruritus,2,Possible,Unlikely,Unlikely,No,No,156,2/11/20,Research Nurse Protocol Note-wk.9 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,2/11/20,unknown,Rash maculopapular,2,Possible,Unlikely,Unlikely,No,No,156,2/11/20,Research Nurse Protocol Note-wk.9 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,2020-02-25,unknown,Hematuria,2,Possible,Probable,Unrelated,No,No,157,2/25/20,Research Nurse Protocol Note-week 11 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,2/25/20,unknown,Hematuria,3,unknown,Probable,unknown,No,Yes,158,3/4/20,Research Nurse Protocol Note-AE status update
+df5d99e7acc6945774fa3fcc9ca6f4a2,3/10/20,unknown,Dysphagia,2,Possible,Probable,Unrelated,No,No,159,3/10/20,Research Nurse Protocol Note-wk.13 18c0056
+df5d99e7acc6945774fa3fcc9ca6f4a2,3/21/20,3/24/20,Urinary tract infection,2,Unlikely,Unlikely,Possible,No,No,160,3/25/20,Research Nurse Protocol Note-wk. 15 remote update
+de5479020c2993d8b712e1f8595233c4,2/19/19,unknown,Rash,1,Possible,Unlikely,Unlikely,No,No,165,2/19/19,Research Nurse Protocol Note
+de5479020c2993d8b712e1f8595233c4,3/19/19,unknown,Pruritus,2,Possible,Unlikely,Unlikely,No,No,168,3/19/19,Research Nurse Protocol Note-wk. 19
+de5479020c2993d8b712e1f8595233c4,2019-04-02,unknown,Pruritus,2,Possible,Unlikely,Unrelated,No,No,169,4/2/19,Research Nurse Protocol Note-week 21
+de5479020c2993d8b712e1f8595233c4,2019-04-02,unknown,Rash maculo-papular,2,Possible,Unlikely,Unrelated,No,No,169,4/2/19,Research Nurse Protocol Note-week 21
+de5479020c2993d8b712e1f8595233c4,4/16/19,unknown,Pruritus,2,Possible,Unlikely,Unlikely,No,No,170,4/16/19,Research Nurse Protocol Note-week 23
+de5479020c2993d8b712e1f8595233c4,4/30/19,unknown,Pruritus,1,Possible,Unlikely,Unlikely,No,No,171,4/30/19,Research Nurse Protocol Note-week 25
+de5479020c2993d8b712e1f8595233c4,4/30/19,unknown,Rash maculo-papular,1,Possible,Unlikely,Unlikely,No,No,171,4/30/19,Research Nurse Protocol Note-week 25
+de5479020c2993d8b712e1f8595233c4,5/28/19,ongoing,Pruritus,2,Possible,Unlikely,Unlikely,No,No,173,5/28/19,Research Nurse Protocol Note-week 29
+de5479020c2993d8b712e1f8595233c4,6/11/19,unknown,Pruritus,2,Possible,Unlikely,Unlikely,Yes,No,174,6/11/19,Research Nurse Protocol Note-week 31
+de5479020c2993d8b712e1f8595233c4,6/11/19,unknown,Rash maculopapular,2,Possible,Unlikely,Unlikely,Yes,No,174,6/11/19,Research Nurse Protocol Note-week 31
+de5479020c2993d8b712e1f8595233c4,7/9/19,ongoing,Pruritus,2,Possible,Unlikely,Unlikely,No,No,176,7/9/19,Research Nurse Protocol Note-week 35
+de5479020c2993d8b712e1f8595233c4,7/9/19,unknown,Rash,2,Possible,Unlikely,Unlikely,No,No,176,7/9/19,Research Nurse Protocol Note-week 35
+de5479020c2993d8b712e1f8595233c4,7/20/19,unknown,Diarrhea,1,Unlikely,Unrelated,Possible,No,No,177,7/23/19,Research Nurse Protocol Note-week 37
+de5479020c2993d8b712e1f8595233c4,7/20/19,unknown,Vomiting,1,Unlikely,Unrelated,Possible,No,No,177,7/23/19,Research Nurse Protocol Note-week 37
+de5479020c2993d8b712e1f8595233c4,7/21/19,unknown,Fall,1,Unlikely,Unrelated,Possible,No,No,177,7/23/19,Research Nurse Protocol Note-week 37
+de5479020c2993d8b712e1f8595233c4,7/23/19,ongoing,Pruritus,2,Possible,Unrelated,Unrelated,No,No,177,7/23/19,Research Nurse Protocol Note-week 37
+de5479020c2993d8b712e1f8595233c4,8/6/19,unknown,Balance disorder,1,Unlikely,Possible,Unrelated,No,No,178,8/6/19,Research Nurse Protocol Note-week 39
+de5479020c2993d8b712e1f8595233c4,8/26/19,unknown,Balance disorder,1,Unlikely,Possible,Unrelated,No,No,179,8/26/19,Research Nurse Protocol Note-wk.41 update
+de5479020c2993d8b712e1f8595233c4,8/26/19,ongoing,Brain metastases,4,Unlikely,Definite,Unrelated,No,Yes,179,8/26/19,Research Nurse Protocol Note-wk.41 update
+de5479020c2993d8b712e1f8595233c4,10/28/19,ongoing,Imbalance,3,Possible,Probable,Unlikely,No,Yes,185,10/31/19,Research Nurse Protocol Note-wk 51 off schd. 18c0056
+de5479020c2993d8b712e1f8595233c4,10/28/19,ongoing,Falls,3,Possible,Probable,Unlikely,No,Yes,185,10/31/19,Research Nurse Protocol Note-wk 51 off schd. 18c0056
+c460e2e9af240ce9cf71067e48620eeb,11/19/19,unknown,Dyspnea,1,Possible,Possible,Unlikely,No,No,189,11/19/19,Research Nurse Protocol Note-wk. 5 18c0056
+c460e2e9af240ce9cf71067e48620eeb,12/3/19,ongoing,Dyspnea,3,Possible,Possible,Unlikely,No,Yes,190,12/3/19,Research Nurse Protocol Note-Week # 7 Visit
+c460e2e9af240ce9cf71067e48620eeb,12/3/19,unknown,Hypothyroidism,2,Possible,Unlikely,Unlikely,Yes,No,190,12/3/19,Research Nurse Protocol Note-Week # 7 Visit
+c460e2e9af240ce9cf71067e48620eeb,12/3/19,unknown,Elevated liver enzymes,1,Possible,Unlikely,Unlikely,Yes,No,190,12/3/19,Research Nurse Protocol Note-Week # 7 Visit
+76a31fecc63b4452993209c2b6e75de7,3/12/19,3/12/19,Chest pain - epigastric,1,Possible,Unlikely,Unlikely,No,No,196,3/12/19,Research Nurse Protocol Note-Week 39 Clinic Visit
+76a31fecc63b4452993209c2b6e75de7,3/26/19,unknown,Keratoacanthoma,2,Possible,Unlikely,Unrelated,No,No,197,3/26/19,Research Nurse Protocol Note-Week # 41
+76a31fecc63b4452993209c2b6e75de7,5/22/19,unknown,Keratoacanthoma,2,Possible,Unlikely,Unrelated,No,No,201,5/22/19,Research Nurse Protocol Note
+76a31fecc63b4452993209c2b6e75de7,8/14/18,9/23/18,Fatigue,2,Possible,Possible,Unrelated,No,No,204,6/19/19,Research Nurse Protocol Note-week 53 AE update
+76a31fecc63b4452993209c2b6e75de7,9/23/18,10/2/18,Fatigue,2,Unrelated,Unlikely,Probable,No,No,204,6/19/19,Research Nurse Protocol Note-week 53 AE update
+76a31fecc63b4452993209c2b6e75de7,6/19/19,ongoing,Keratoacanthomas,unknown,unknown,unknown,unknown,No,No,204,6/19/19,Research Nurse Protocol Note-week 53 AE update
+55af5e66a032ff37979476659764d59a,10/1/19,unknown,Infusion related reaction,2,Possible,Unrelated,Unrelated,No,No,207,10/1/19,Research Nurse Protocol Note-week 5 18c0056
+55af5e66a032ff37979476659764d59a,10/29/19,unknown,Rectal symptoms,1,Unlikely,Possible,Unrelated,No,No,209,10/29/19,Research Nurse Protocol Note-week 9 18c0056
+55af5e66a032ff37979476659764d59a,11/12/19,unknown,Blurred vision,1,Possible,Unlikely,Unlikely,No,No,210,11/12/19,Research Nurse Protocol Note-wk.11 18c0056
+55af5e66a032ff37979476659764d59a,11/26/19,unknown,Nasal congestion,2,Possible,Unlikely,Unlikely,No,No,211,11/26/19,Research Nurse Protocol Note-week 13 18c0056
+55af5e66a032ff37979476659764d59a,12/10/19,unknown,Sinusitis,2,Unlikely,Possible,Probable,No,No,212,12/10/19,Research Nurse Protocol Note-wk. 15 18c0056
+55af5e66a032ff37979476659764d59a,12/10/19,unknown,Nasal congestion,1,Unlikely,Possible,Probable,No,No,212,12/10/19,Research Nurse Protocol Note-wk. 15 18c0056
+55af5e66a032ff37979476659764d59a,1/21/20,unknown,Sinusitis,2,Unlikely,Unrelated,Possible,No,No,215,1/21/20,Research Nurse Protocol Note-week 21 18c0056
+55af5e66a032ff37979476659764d59a,1/21/20,unknown,Rash,2,Unlikely,Unrelated,Possible,No,No,215,1/21/20,Research Nurse Protocol Note-week 21 18c0056
+55af5e66a032ff37979476659764d59a,1/21/20,unknown,Allergic reaction,2,Unlikely,Unrelated,Possible,No,No,215,1/21/20,Research Nurse Protocol Note-week 21 18c0056
+91f21fa70ee3bc8bbea83a1282f266cf,3/18/19,unknown,Diarrhea,1,Possible,Unlikely,Unlikely,No,No,226,3/18/19,Research Nurse Protocol Note-wk. 27
+91f21fa70ee3bc8bbea83a1282f266cf,2019-04-02,unknown,Diarrhea,1,Unlikely,Unlikely,Possible,No,No,227,4/2/19,Research Nurse Protocol Note-week 29
+91f21fa70ee3bc8bbea83a1282f266cf,4/16/19,unknown,Diarrhea,1,Possible,Unlikely,Possible,No,No,228,4/16/19,Research Nurse Protocol Note-week 31
+91f21fa70ee3bc8bbea83a1282f266cf,6/11/19,unknown,Dizziness,1,Unlikely,Possible,Unrelated,No,No,233,6/11/19,Research Nurse Protocol Note-week 39
+91f21fa70ee3bc8bbea83a1282f266cf,6/11/19,ongoing,Gastrointestinal bleeding,2,Possible,Unlikely,Unrelated,No,No,233,6/11/19,Research Nurse Protocol Note-week 39
+91f21fa70ee3bc8bbea83a1282f266cf,7/9/19,ongoing,Dizziness,1,Possible,Possible,Unrelated,No,No,235,7/9/19,Research Nurse Protocol Note-week 43
+91f21fa70ee3bc8bbea83a1282f266cf,7/9/19,unknown,Gastrointestinal bleeding,2,Possible,Possible,Unrelated,No,Yes,235,7/9/19,Research Nurse Protocol Note-week 43
+91f21fa70ee3bc8bbea83a1282f266cf,7/9/19,unknown,Neuropathy,2,Possible,Possible,Unrelated,No,No,235,7/9/19,Research Nurse Protocol Note-week 43
+91f21fa70ee3bc8bbea83a1282f266cf,9/3/19,ongoing,Weakness,2,Possible,Possible,Unlikely,No,No,239,9/3/19,Research Nurse Protocol Note-wk.51
+91f21fa70ee3bc8bbea83a1282f266cf,9/3/19,ongoing,Pain,2,Possible,Possible,Unlikely,No,No,239,9/3/19,Research Nurse Protocol Note-wk.51
+91f21fa70ee3bc8bbea83a1282f266cf,9/3/19,ongoing,Paresthesia,2,Possible,Possible,Unlikely,No,No,239,9/3/19,Research Nurse Protocol Note-wk.51
+91f21fa70ee3bc8bbea83a1282f266cf,9/3/19,unknown,Potential gastrointestinal bleeding,3,Possible,Unlikely,Unlikely,No,Yes,239,9/3/19,Research Nurse Protocol Note-wk.51
+91f21fa70ee3bc8bbea83a1282f266cf,9/18/19,ongoing,Paresthesia,2,Possible,Unlikely,Unlikely,No,No,240,9/18/19,Research Nurse Protocol Note-week 53
+91f21fa70ee3bc8bbea83a1282f266cf,9/18/19,ongoing,Muscle weakness,2,Possible,Unlikely,Unlikely,No,No,240,9/18/19,Research Nurse Protocol Note-week 53
+91f21fa70ee3bc8bbea83a1282f266cf,9/18/19,ongoing,Lymphedema,2,Possible,Unlikely,Unlikely,No,No,240,9/18/19,Research Nurse Protocol Note-week 53
+91f21fa70ee3bc8bbea83a1282f266cf,11/12/19,unknown,Tinnitus,1,Possible,Unlikely,Unlikely,No,No,241,11/12/19,Research Nurse Protocol Note-week 61 18c0056
+91f21fa70ee3bc8bbea83a1282f266cf,11/12/19,unknown,Hot flashes,1,Possible,Unlikely,Unlikely,No,No,241,11/12/19,Research Nurse Protocol Note-week 61 18c0056
+91f21fa70ee3bc8bbea83a1282f266cf,12/17/19,ongoing,Paresthesia,2,Possible,Possible,Unlikely,No,No,242,12/17/19,Research Nurse Protocol Note-wk. 66 6-wk F/U 18c0056
+91f21fa70ee3bc8bbea83a1282f266cf,12/17/19,ongoing,Muscle weakness,2,Possible,Possible,Unlikely,No,No,242,12/17/19,Research Nurse Protocol Note-wk. 66 6-wk F/U 18c0056
+91f21fa70ee3bc8bbea83a1282f266cf,12/17/19,ongoing,Lymphedema,2,Possible,Possible,Unlikely,No,No,242,12/17/19,Research Nurse Protocol Note-wk. 66 6-wk F/U 18c0056
+91f21fa70ee3bc8bbea83a1282f266cf,10/16/19,10/20/20,Diarrhea,1,Unlikely,Unlikely,Possible,No,No,246,10/20/20,Research Nurse Protocol Note-3-mos F/U (late) 18c0056
+91f21fa70ee3bc8bbea83a1282f266cf,10/16/19,unknown,Hot flashes,1,Unlikely,Unlikely,Unrelated,No,No,246,10/20/20,Research Nurse Protocol Note-3-mos F/U (late) 18c0056
+91f21fa70ee3bc8bbea83a1282f266cf,7/9/19,unknown,Headache,1,Unrelated,Unrelated,Possible,No,No,246,10/20/20,Research Nurse Protocol Note-3-mos F/U (late) 18c0056
+91f21fa70ee3bc8bbea83a1282f266cf,8/25/19,unknown,Fatigue,2,Unrelated,Possible,Probable,No,No,246,10/20/20,Research Nurse Protocol Note-3-mos F/U (late) 18c0056
+5afd3991622b7c89cbca6bb4fd725221,12/10/19,unknown,Constipation,2,Unlikely,Unlikely,Probable,No,No,248,12/10/19,Research Nurse Protocol Note-Week # 3 Visit
+5afd3991622b7c89cbca6bb4fd725221,12/18/19,ongoing,Rectal hemorrhage,2,Possible,Possible,Unlikely,No,No,250,12/24/19,Research Nurse Protocol Note-Week # 5 Visit
+5afd3991622b7c89cbca6bb4fd725221,12/24/19,unknown,Anemia,3,Possible,Possible,Unlikely,No,Yes,250,12/24/19,Research Nurse Protocol Note-Week # 5 Visit
+5afd3991622b7c89cbca6bb4fd725221,12/24/19,unknown,Hyperbilirubinemia,2,Possible,Possible,Unlikely,No,No,250,12/24/19,Research Nurse Protocol Note-Week # 5 Visit
+5afd3991622b7c89cbca6bb4fd725221,12/31/19,unknown,Somnolence,2,Possible,Possible,Unlikely,No,Yes,252,12/31/19,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+5afd3991622b7c89cbca6bb4fd725221,2020-01-07,unknown,Serum amylase increased,1,Possible,Unlikely,Unlikely,No,No,253,1/7/20,Research Nurse Protocol Note-Week # 7 Visit
+5afd3991622b7c89cbca6bb4fd725221,2020-01-07,unknown,Hyponatremia,1,Possible,Unlikely,Unlikely,No,No,253,1/7/20,Research Nurse Protocol Note-Week # 7 Visit
+5afd3991622b7c89cbca6bb4fd725221,2020-01-18,unknown,Abdominal pain,2,Possible,Probable,Unrelated,No,No,255,1/20/20,Research Nurse Protocol Note-AE/SAE Summary
+5afd3991622b7c89cbca6bb4fd725221,2020-01-18,unknown,Abdominal distension,2,Possible,Probable,Unrelated,No,No,255,1/20/20,Research Nurse Protocol Note-AE/SAE Summary
+5afd3991622b7c89cbca6bb4fd725221,2020-01-18,unknown,Fever,1,Possible,Unlikely,Unrelated,No,No,255,1/20/20,Research Nurse Protocol Note-AE/SAE Summary
+5afd3991622b7c89cbca6bb4fd725221,2020-01-28,unknown,Hypokalemia,4,Unlikely,Possible,Unrelated,No,Yes,256,1/28/20,Research Nurse Protocol Note-Safety Follow Up Visit
+6cc9a1944d2e3ac159dc4a4dd2277176,3/12/19,unknown,Dyspnea on exertion,2,Possible,Probable,Unrelated,No,No,263,3/12/19,Research Nurse Protocol Note-Week # 5 Clinic Visit
+6cc9a1944d2e3ac159dc4a4dd2277176,3/12/19,unknown,Fatigue,2,Possible,Probable,Unrelated,No,No,263,3/12/19,Research Nurse Protocol Note-Week # 5 Clinic Visit
+6cc9a1944d2e3ac159dc4a4dd2277176,3/12/19,unknown,Anemia,3,Possible,Probable,Unrelated,No,Yes,263,3/12/19,Research Nurse Protocol Note-Week # 5 Clinic Visit
+6cc9a1944d2e3ac159dc4a4dd2277176,3/26/19,unknown,Hydronephrosis,2,Possible,Probable,Unlikely,No,Yes,264,3/26/19,Research Nurse Protocol Note-Week # 7 Visit
+6cc9a1944d2e3ac159dc4a4dd2277176,3/26/19,unknown,Nausea,1,Possible,Unlikely,Probable,No,No,264,3/26/19,Research Nurse Protocol Note-Week # 7 Visit
+6cc9a1944d2e3ac159dc4a4dd2277176,3/28/19,unknown,Pain,2,Unlikely,Probable,Unrelated,No,No,265,3/28/19,Research Nurse Protocol Note-Unscheduled Clinic Visit - Pain
+6cc9a1944d2e3ac159dc4a4dd2277176,04/09/19,ongoing,Oral mucositis,2,Probable,Unlikely,Unrelated,No,No,266,4/10/19,Research Nurse Protocol Note-Week # 9 Visit
+6cc9a1944d2e3ac159dc4a4dd2277176,04/09/19,unknown,Anemia,2,Unlikely,Probable,Unrelated,No,No,266,4/10/19,Research Nurse Protocol Note-Week # 9 Visit
+6cc9a1944d2e3ac159dc4a4dd2277176,04/09/19,ongoing,Deep vein thrombosis,3,Unlikely,Probable,Unrelated,No,Yes,266,4/10/19,Research Nurse Protocol Note-Week # 9 Visit
+6cc9a1944d2e3ac159dc4a4dd2277176,4/16/19,unknown,Pneumonia,2,Unrelated,Possible,Unrelated,No,Yes,267,4/18/19,"Research Nurse Protocol Note-off sched. F/U, off TX"
+6cc9a1944d2e3ac159dc4a4dd2277176,2019-02-26,ongoing,Anemia,unknown,Unlikely,Probable,Probable,No,No,268,4/19/19,Research Nurse Protocol Note-AE updates
+03b2e85588ad5649532819daf87797a7,2/19/19,unknown,Rectal hemorrhage,1,Possible,Unlikely,Unrelated,No,No,269,2/19/19,Research Nurse Protocol Note
+03b2e85588ad5649532819daf87797a7,2/24/19,unknown,Rectal hemorrhage,1,Possible,Unlikely,Unlikely,No,No,270,2/24/19,Research Nurse Protocol Note
+08b7f8ae708607415cb6d91315044748,8/20/19,unknown,Alanine aminotransferase increased,2,Possible,Possible,Unrelated,No,No,273,8/20/19,Research Nurse Protocol Note-Week # 3 Visit
+08b7f8ae708607415cb6d91315044748,08/22/19,08/23/19,Fever,2,Unlikely,Possible,Probable,No,No,274,8/26/19,Research Nurse Protocol Note-Telephone follow up call
+08b7f8ae708607415cb6d91315044748,08/22/19,08/23/19,Chills,2,Unlikely,Possible,Probable,No,No,274,8/26/19,Research Nurse Protocol Note-Telephone follow up call
+08b7f8ae708607415cb6d91315044748,08/22/19,08/23/19,Leakage at insertion site,2,Unlikely,Possible,Probable,No,No,274,8/26/19,Research Nurse Protocol Note-Telephone follow up call
+08b7f8ae708607415cb6d91315044748,08/22/19,08/23/19,Elevated liver panel,1,Unlikely,Possible,Probable,No,No,274,8/26/19,Research Nurse Protocol Note-Telephone follow up call
+08b7f8ae708607415cb6d91315044748,08/22/19,unknown,Fever,2,Unlikely,Possible,Probable,No,No,275,9/3/19,Research Nurse Protocol Note-Week # 5 Visit
+08b7f8ae708607415cb6d91315044748,9/3/19,ongoing,Elevated liver enzymes,2,Possible,Possible,Unrelated,Yes,No,275,9/3/19,Research Nurse Protocol Note-Week # 5 Visit
+08b7f8ae708607415cb6d91315044748,09/09/19,unknown,Reflux of oral fluids and food particles into biliary drain,2,Unlikely,Probable,Unlikely,No,Yes,276,9/18/19,Research Nurse Protocol Note-Week #7 Visit
+08b7f8ae708607415cb6d91315044748,09/09/19,unknown,Dehydration,2,Unlikely,Probable,Unlikely,No,Yes,276,9/18/19,Research Nurse Protocol Note-Week #7 Visit
+08b7f8ae708607415cb6d91315044748,09/09/19,unknown,Weight loss,2,Unlikely,Probable,Unlikely,No,No,276,9/18/19,Research Nurse Protocol Note-Week #7 Visit
+08b7f8ae708607415cb6d91315044748,08/20/19,unknown,Increased liver enzymes,3,Possible,Possible,Unrelated,No,Yes,277,10/1/19,Research Nurse Protocol Note-Week # 9 Visit
+08b7f8ae708607415cb6d91315044748,unknown,unknown,Biliary drain reflux,2,Unrelated,Probable,Unrelated,No,No,277,10/1/19,Research Nurse Protocol Note-Week # 9 Visit
+08b7f8ae708607415cb6d91315044748,unknown,unknown,Increased amylase,2,Possible,Possible,Unrelated,No,No,277,10/1/19,Research Nurse Protocol Note-Week # 9 Visit
+08b7f8ae708607415cb6d91315044748,unknown,unknown,Increased lipase,2,Possible,Possible,Unrelated,No,No,277,10/1/19,Research Nurse Protocol Note-Week # 9 Visit
+08b7f8ae708607415cb6d91315044748,unknown,unknown,Dehydration,2,Unrelated,Probable,Unrelated,No,No,277,10/1/19,Research Nurse Protocol Note-Week # 9 Visit
+08b7f8ae708607415cb6d91315044748,unknown,unknown,Altered nutrition,2,Unrelated,Probable,Unrelated,No,No,277,10/1/19,Research Nurse Protocol Note-Week # 9 Visit
+08b7f8ae708607415cb6d91315044748,11/12/19,unknown,Hematuria,1,Possible,Possible,Unrelated,No,No,280,11/12/19,Research Nurse Protocol Note-Week #15 Visit
+08b7f8ae708607415cb6d91315044748,11/12/19,unknown,Gingival bleeding,1,Possible,Possible,Unrelated,No,No,280,11/12/19,Research Nurse Protocol Note-Week #15 Visit
+08b7f8ae708607415cb6d91315044748,11/18/19,unknown,Fever,1,Unlikely,Unlikely,Probable,No,No,281,11/26/19,Research Nurse Protocol Note-Week # 17 Visit
+08b7f8ae708607415cb6d91315044748,12/08/19,unknown,Hemorrhoidal bleeding,1,Possible,Possible,Unlikely,No,No,282,12/10/19,Research Nurse Protocol Note-Week # 19 Visit
+08b7f8ae708607415cb6d91315044748,12/24/19,unknown,Biliary drain leakage,2,Unlikely,Probable,Unlikely,No,No,283,12/24/19,Research Nurse Protocol Note-Week # 21 Visit
+08b7f8ae708607415cb6d91315044748,12/24/19,unknown,Fever,2,Unlikely,Probable,Unlikely,No,No,283,12/24/19,Research Nurse Protocol Note-Week # 21 Visit
+08b7f8ae708607415cb6d91315044748,12/24/19,unknown,Lip lesion,1,Possible,Unlikely,Unlikely,No,No,283,12/24/19,Research Nurse Protocol Note-Week # 21 Visit
+08b7f8ae708607415cb6d91315044748,2020-01-07,unknown,Biliary drain site leakage,1,Possible,Possible,Unlikely,No,No,284,1/7/20,Research Nurse Protocol Note-Week #23
+08b7f8ae708607415cb6d91315044748,2020-01-07,unknown,Lip lesion increased in size,2,Possible,Probable,Unlikely,No,No,284,1/7/20,Research Nurse Protocol Note-Week #23
+08b7f8ae708607415cb6d91315044748,2020-01-07,unknown,Papules on shoulders,1,Possible,Possible,Unlikely,No,No,284,1/7/20,Research Nurse Protocol Note-Week #23
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,Abdominal pain,2,Possible,Possible,Unrelated,No,No,285,1/21/20,"Research Nurse Protocol Note-Week #25, re-staging"
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,Fever,1,Possible,Possible,Unrelated,No,No,285,1/21/20,"Research Nurse Protocol Note-Week #25, re-staging"
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,Nausea,1,Possible,Possible,Unrelated,No,No,285,1/21/20,"Research Nurse Protocol Note-Week #25, re-staging"
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,Cholecystitis,3,Possible,Probable,Unrelated,No,Yes,285,1/21/20,"Research Nurse Protocol Note-Week #25, re-staging"
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,Spontaneous pneumothorax,3,Unlikely,Probable,Unrelated,No,Yes,285,1/21/20,"Research Nurse Protocol Note-Week #25, re-staging"
+08b7f8ae708607415cb6d91315044748,2020-01-18,unknown,Left middle finger bump,1,Possible,Unlikely,Unrelated,No,No,285,1/21/20,"Research Nurse Protocol Note-Week #25, re-staging"
+08b7f8ae708607415cb6d91315044748,02/17/20,unknown,Fever,2,Possible,Possible,Unrelated,No,Yes,287,2/20/20,Research Nurse Protocol Note-AE summary for 02.18.20
+fc68f402183b853a44935936ce8a3be4,2/19/19,unknown,Sinus tachycardia,unknown,Unlikely,Possible,Unrelated,No,No,293,2/19/19,Research Nurse Protocol Note
+fc68f402183b853a44935936ce8a3be4,2/19/19,unknown,Elevated ALT,1,Possible,Unlikely,Unrelated,Yes,No,293,2/19/19,Research Nurse Protocol Note
+fc68f402183b853a44935936ce8a3be4,2/19/19,unknown,Elevated AST,unknown,Possible,Unlikely,Unrelated,Yes,No,293,2/19/19,Research Nurse Protocol Note
+fc68f402183b853a44935936ce8a3be4,2019-03-05,ongoing,Increased ALT,2,Possible,Unlikely,Possible,No,No,294,3/5/19,Research Nurse Protocol Note-Week # 13 Clinic Visit
+fc68f402183b853a44935936ce8a3be4,2019-03-05,ongoing,Increased AST,2,Possible,Unlikely,Possible,No,No,294,3/5/19,Research Nurse Protocol Note-Week # 13 Clinic Visit
+fc68f402183b853a44935936ce8a3be4,02/19/19,unknown,Transaminitis,2,Probable,Unlikely,Unrelated,Yes,No,297,4/1/19,Research Nurse Protocol Note-Week #17 Visit
+fc68f402183b853a44935936ce8a3be4,2019-04-15,ongoing,Dyspnea,2,Possible,Possible,Unlikely,No,No,299,5/1/19,Research Nurse Protocol Note-Week 21 Visit
+95a25c446c0420eb661d768b5d097f1b,02/21/2020,unknown,Pyrexia,2,Possible,Unlikely,Unrelated,No,No,302,3/3/20,Research Nurse Protocol Note-Day #15
+95a25c446c0420eb661d768b5d097f1b,unknown,unknown,Cough,2,Possible,Unlikely,Unrelated,No,No,302,3/3/20,Research Nurse Protocol Note-Day #15
+95a25c446c0420eb661d768b5d097f1b,unknown,unknown,Wheezing,2,Possible,Unlikely,Unrelated,No,No,302,3/3/20,Research Nurse Protocol Note-Day #15
+95a25c446c0420eb661d768b5d097f1b,3/17/20,ongoing,Dyspnea,2,Unlikely,Probable,Unrelated,No,No,304,3/17/20,Research Nurse Protocol Note
+95a25c446c0420eb661d768b5d097f1b,3/17/20,ongoing,Cough,2,Unlikely,Probable,Unrelated,No,No,304,3/17/20,Research Nurse Protocol Note
+95a25c446c0420eb661d768b5d097f1b,2020-03-19,unknown,Dyspnea,3,Unlikely,Definite,Unrelated,No,Yes,305,3/19/20,Research Nurse Protocol Note
+95a25c446c0420eb661d768b5d097f1b,03/03/20,unknown,Anorexia,1,Possible,Definite,Unrelated,No,No,307,3/24/20,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+95a25c446c0420eb661d768b5d097f1b,03/17/20,unknown,Constipation,1,Unlikely,Unrelated,Probable,No,No,307,3/24/20,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+95a25c446c0420eb661d768b5d097f1b,2020-04-07,ongoing,Cough,1,Possible,Possible,Unlikely,No,No,308,4/7/20,Research Nurse Protocol Note-Week #3
+95a25c446c0420eb661d768b5d097f1b,2020-04-07,ongoing,Nausea,1,Possible,Possible,Unlikely,No,No,308,4/7/20,Research Nurse Protocol Note-Week #3
+95a25c446c0420eb661d768b5d097f1b,2020-04-07,ongoing,Vomiting,1,Possible,Possible,Unlikely,No,No,308,4/7/20,Research Nurse Protocol Note-Week #3
+95a25c446c0420eb661d768b5d097f1b,2020-04-07,ongoing,Dysphagia,2,Possible,Probable,Unlikely,No,No,308,4/7/20,Research Nurse Protocol Note-Week #3
+95a25c446c0420eb661d768b5d097f1b,2020-04-07,ongoing,Anorexia,1,Possible,Probable,Unlikely,No,No,308,4/7/20,Research Nurse Protocol Note-Week #3
+95a25c446c0420eb661d768b5d097f1b,4/21/20,ongoing,Pneumonitis,2,Possible,Possible,Unrelated,Yes,Yes,309,4/21/20,Research Nurse Protocol Note-Week#5
+95a25c446c0420eb661d768b5d097f1b,4/21/20,unknown,Hematuria,1,Unlikely,Possible,Unrelated,No,No,309,4/21/20,Research Nurse Protocol Note-Week#5
+95a25c446c0420eb661d768b5d097f1b,5/1/20,ongoing,Seizure,3,Possible,Probable,Unrelated,No,Yes,310,5/1/20,Research Nurse Protocol Note-AE Update Week #6
+95a25c446c0420eb661d768b5d097f1b,5/1/20,unknown,Brain metastases,4,Unlikely,Definite,Unrelated,No,Yes,310,5/1/20,Research Nurse Protocol Note-AE Update Week #6
+95a25c446c0420eb661d768b5d097f1b,2020-05-12,unknown,Chest tightness,2,Possible,Possible,Unlikely,No,Yes,311,5/14/20,Research Nurse Protocol Note-Off treatment Note: 05.14.20
+95a25c446c0420eb661d768b5d097f1b,2020-05-14,ongoing,Brain metastasis,4,Possible,Probable,Unlikely,No,Yes,311,5/14/20,Research Nurse Protocol Note-Off treatment Note: 05.14.20
+bf11e3cd44670a1d3c6a93e5801a9aa5,2/12/19,unknown,Headache,1,Unlikely,Possible,Unrelated,No,No,320,2/26/19,Research Nurse Protocol Note-week 13
+bf11e3cd44670a1d3c6a93e5801a9aa5,3/12/19,unknown,Cough,2,Possible,Possible,Unrelated,No,No,321,3/12/19,Research Nurse Protocol Note-Week 15 Clinic Visit
+bf11e3cd44670a1d3c6a93e5801a9aa5,3/28/19,unknown,Supraventricular tachycardia,2,Possible,Possible,Unrelated,No,No,322,3/28/19,Research Nurse Protocol Note-week 17
+bf11e3cd44670a1d3c6a93e5801a9aa5,4/9/19,unknown,Hypotension,1,Unlikely,Unrelated,Probable,No,No,323,4/9/19,Research Nurse Protocol Note-week 19
+bf11e3cd44670a1d3c6a93e5801a9aa5,4/23/19,unknown,Dyspnea on exertion,2,Possible,Possible,Unlikely,No,No,324,4/23/19,Research Nurse Protocol Note-week 21
+aa49b14fb81ff7e0f080562cff98ee13,12/3/19,12/2/19,Epistaxis,1,Unlikely,Unlikely,Possible,No,No,328,12/3/19,Research Nurse Protocol Note-Week # 3 Visit
+aa49b14fb81ff7e0f080562cff98ee13,12/17/19,unknown,Epistaxis,2,Possible,Possible,Unlikely,No,No,329,12/17/19,Research Nurse Protocol Note-Week # 5 Visit
+aa49b14fb81ff7e0f080562cff98ee13,12/17/19,unknown,Anemia,2,Possible,Possible,Unlikely,No,No,329,12/17/19,Research Nurse Protocol Note-Week # 5 Visit
+aa49b14fb81ff7e0f080562cff98ee13,12/24/19,12/30/19,Fatigue,1,Possible,Unlikely,Unrelated,No,No,330,1/2/20,Research Nurse Protocol Note-Week 7
+aa49b14fb81ff7e0f080562cff98ee13,1/14/20,unknown,Epistaxis,2,Possible,Possible,Unrelated,No,No,331,1/14/20,Research Nurse Protocol Note-Week #9
+aa49b14fb81ff7e0f080562cff98ee13,1/14/20,unknown,Fatigue,1,Possible,Possible,Unrelated,No,No,331,1/14/20,Research Nurse Protocol Note-Week #9
+aa49b14fb81ff7e0f080562cff98ee13,1/14/20,unknown,Anemia,2,Possible,Possible,Unrelated,No,No,331,1/14/20,Research Nurse Protocol Note-Week #9
+aa49b14fb81ff7e0f080562cff98ee13,2020-01-28,unknown,ALT increased,1,Possible,Unlikely,Unlikely,No,No,332,1/28/20,"Research Nurse Protocol Note-Week #11, treatment hold"
+aa49b14fb81ff7e0f080562cff98ee13,2020-01-28,unknown,AST increased,1,Possible,Unlikely,Unlikely,No,No,332,1/28/20,"Research Nurse Protocol Note-Week #11, treatment hold"
+aa49b14fb81ff7e0f080562cff98ee13,2020-01-28,unknown,Hypothyroidism,2,Possible,Unlikely,Unlikely,Yes,No,332,1/28/20,"Research Nurse Protocol Note-Week #11, treatment hold"
+aa49b14fb81ff7e0f080562cff98ee13,2/25/20,unknown,Fatigue,2,Possible,Possible,Unrelated,No,No,334,2/25/20,Research Nurse Protocol Note-Week #15
+aa49b14fb81ff7e0f080562cff98ee13,2/25/20,unknown,Decreased libido,2,Possible,Unlikely,Unrelated,No,No,334,2/25/20,Research Nurse Protocol Note-Week #15
+aa49b14fb81ff7e0f080562cff98ee13,3/10/20,unknown,Fatigue,1,Possible,Possible,Unlikely,No,No,335,3/10/20,Research Nurse Protocol Note-Week #17 visit
+aa49b14fb81ff7e0f080562cff98ee13,3/10/20,unknown,Decreased libido,1,Possible,Possible,Unlikely,No,No,335,3/10/20,Research Nurse Protocol Note-Week #17 visit
+aa49b14fb81ff7e0f080562cff98ee13,3/24/20,unknown,Fatigue,1,Possible,Possible,Unlikely,No,No,336,3/24/20,Research Nurse Protocol Note-Week#19 restaging
+aa49b14fb81ff7e0f080562cff98ee13,3/24/20,unknown,Decreased libido,1,Possible,Possible,Unlikely,No,No,336,3/24/20,Research Nurse Protocol Note-Week#19 restaging
+aa49b14fb81ff7e0f080562cff98ee13,3/24/20,unknown,TSH elevation,1,Possible,Unlikely,Unlikely,Yes,No,336,3/24/20,Research Nurse Protocol Note-Week#19 restaging
+aa49b14fb81ff7e0f080562cff98ee13,3/22/20,3/24/20,Headache,1,Unlikely,Unlikely,Possible,No,No,336,3/24/20,Research Nurse Protocol Note-Week#19 restaging
+aa49b14fb81ff7e0f080562cff98ee13,3/22/20,3/24/20,Rhinorrhea,1,Unlikely,Unlikely,Possible,No,No,336,3/24/20,Research Nurse Protocol Note-Week#19 restaging
+4fd9ca376efebbf6ccc1cc88457d025c,6/9/2020,unknown,Chronic Kidney Disease,2,Unlikely,Unrelated,Unrelated,No,No,338,6/9/20,Research Nurse Protocol Note_v1-Day#1/Week#1
+4fd9ca376efebbf6ccc1cc88457d025c,6/9/2020,unknown,Alkaline Phosphatase increased,1,Possible,Unrelated,Unrelated,No,No,338,6/9/20,Research Nurse Protocol Note_v1-Day#1/Week#1
+4fd9ca376efebbf6ccc1cc88457d025c,6/9/2020,unknown,Alanine aminotransferase increased,1,Possible,Unrelated,Unrelated,No,No,338,6/9/20,Research Nurse Protocol Note_v1-Day#1/Week#1
+4fd9ca376efebbf6ccc1cc88457d025c,6/9/2020,unknown,Alkaline phosphatase increased,1,Possible,Unrelated,Unrelated,No,No,339,6/9/20,Research Nurse Protocol Note-Week#1 On Study
+4fd9ca376efebbf6ccc1cc88457d025c,6/9/2020,unknown,Alanine aminotransferase increased,1,Possible,Unrelated,Unrelated,No,No,339,6/9/20,Research Nurse Protocol Note-Week#1 On Study
+4fd9ca376efebbf6ccc1cc88457d025c,6/9/2020,unknown,Mucositis oral,1,Possible,Unrelated,Unrelated,No,No,339,6/9/20,Research Nurse Protocol Note-Week#1 On Study
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-09,unknown,Pruritus,2,Probable,Unlikely,Unlikely,No,No,340,6/9/20,"Research Nurse Protocol Note-week #1, Day 1 AE"
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-09,unknown,Urticaria,2,Probable,Unlikely,Unlikely,No,No,340,6/9/20,"Research Nurse Protocol Note-week #1, Day 1 AE"
+4fd9ca376efebbf6ccc1cc88457d025c,6/23/20,unknown,Vaginal bleeding,1,Possible,Possible,Unlikely,No,No,341,6/23/20,Research Nurse Protocol Note-Week #3
+4fd9ca376efebbf6ccc1cc88457d025c,6/23/20,unknown,Infusion-related reaction,2,Probable,Unlikely,Unlikely,No,No,341,6/23/20,Research Nurse Protocol Note-Week #3
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-30,unknown,Rash,1,Possible,Unlikely,Unlikely,No,No,342,7/7/20,Research Nurse Protocol Note-Week #5 Treatment
+4fd9ca376efebbf6ccc1cc88457d025c,2020-06-30,unknown,Shortness of breath,1,Possible,Unlikely,Unlikely,No,No,342,7/7/20,Research Nurse Protocol Note-Week #5 Treatment
+4fd9ca376efebbf6ccc1cc88457d025c,2020-07-08,unknown,Vaginal bleeding,1,Possible,Possible,Unrelated,No,No,343,7/21/20,Research Nurse Protocol Note-Week #7 Re-staging
+4fd9ca376efebbf6ccc1cc88457d025c,2020-07-17,unknown,Vaginal bleeding,1,Possible,Possible,Unrelated,No,No,343,7/21/20,Research Nurse Protocol Note-Week #7 Re-staging
+4fd9ca376efebbf6ccc1cc88457d025c,2020-07-22,2020-07-28,Vaginal bleeding,1,Possible,Possible,Unlikely,No,No,344,8/4/20,Research Nurse Protocol Note-Week #9
+4fd9ca376efebbf6ccc1cc88457d025c,2020-07-22,ongoing,Vaginal Hemorrhage,1,Probable,Probable,Unrelated,No,No,345,8/18/20,Research Nurse Protocol Note-Week #11 Treatment
+4fd9ca376efebbf6ccc1cc88457d025c,2020-08-04,ongoing,Rash Maculo-papular,1,Possible,Unlikely,Unrelated,No,No,345,8/18/20,Research Nurse Protocol Note-Week #11 Treatment
+4fd9ca376efebbf6ccc1cc88457d025c,08/29/20,09/1/20,Neuralgia,1,Unrelated,Possible,Unrelated,No,No,346,9/1/20,Research Nurse Protocol Note-Week #13 re-staging visit
+4fd9ca376efebbf6ccc1cc88457d025c,7/22/20,ongoing,Vaginal hemorrhage,1,Probable,Probable,Unrelated,No,No,347,9/15/20,Research Nurse Protocol Note
+4fd9ca376efebbf6ccc1cc88457d025c,8/4/20,9/15/20,Rash maculopapular,1,Possible,Unlikely,Unrelated,No,No,347,9/15/20,Research Nurse Protocol Note
+4fd9ca376efebbf6ccc1cc88457d025c,9/29/20,ongoing,Anal hemorrhage,1,Probable,Probable,Unrelated,No,No,348,9/29/20,Research Nurse Protocol Note-Week #17 Treatment
+4fd9ca376efebbf6ccc1cc88457d025c,10/06/20,unknown,Rash maculopapular,1,Possible,Unrelated,Unrelated,No,No,349,10/13/20,Research Nurse Protocol Note
+4fd9ca376efebbf6ccc1cc88457d025c,10/06/20,unknown,Lichenoid dermatitis,1,Possible,Unrelated,Unrelated,No,No,349,10/13/20,Research Nurse Protocol Note
+4fd9ca376efebbf6ccc1cc88457d025c,10/06/20,ongoing,Skin lesion,1,Unrelated,Unrelated,Unlikely,No,No,349,10/13/20,Research Nurse Protocol Note
+4fd9ca376efebbf6ccc1cc88457d025c,10/06/20,unknown,Rash maculopapular,1,Possible,Unrelated,Unrelated,No,No,350,10/27/20,Research Nurse Protocol Note
+4fd9ca376efebbf6ccc1cc88457d025c,11/10/20,unknown,Urticaria,1,Unrelated,Unrelated,Probable,No,No,351,11/11/20,Research Nurse Protocol Note-Week #23 visit
+4fd9ca376efebbf6ccc1cc88457d025c,11/11/20,ongoing,Rash maculopapular,1,Possible,Unrelated,Unrelated,No,No,351,11/11/20,Research Nurse Protocol Note-Week #23 visit
+4fd9ca376efebbf6ccc1cc88457d025c,11/10/20,unknown,Urticaria,1,Unrelated,Unrelated,Probable,No,No,352,11/24/20,Research Nurse Protocol Note-Week #25 re-staging visit
+4fd9ca376efebbf6ccc1cc88457d025c,12/8/20,unknown,Skin and subcutaneous tissue disorders - Rash maculo-papular,1,Possible,Unlikely,Unrelated,No,No,353,12/8/20,Research Nurse Protocol Note-Week #27 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,12/8/20,unknown,Skin and subcutaneous tissue disorders - Skin ulceration,1,Possible,Unrelated,Unrelated,No,No,353,12/8/20,Research Nurse Protocol Note-Week #27 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,12/8/20,unknown,Musculoskeletal and connective tissue disorders - Tendon rupture partial,1,Unrelated,Unrelated,Probable,No,No,353,12/8/20,Research Nurse Protocol Note-Week #27 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,12/8/20,unknown,Musculoskeletal and connective tissue disorder - partial tendon rupture,1,Unrelated,Unrelated,Probable,No,No,354,12/8/20,Research Nurse Protocol Note-Week #27 Clinic visit
+4fd9ca376efebbf6ccc1cc88457d025c,12/8/20,12/8/20,Allergic reaction - pruritus and burning on extremities,1,Unrelated,Unrelated,Probable,No,No,354,12/8/20,Research Nurse Protocol Note-Week #27 Clinic visit
+4fd9ca376efebbf6ccc1cc88457d025c,12/22/20,unknown,Dermatitis (burning and pruritus),1,Unrelated,Unrelated,Probable,No,No,355,12/22/20,Research Nurse Protocol Note-Week #29
+4fd9ca376efebbf6ccc1cc88457d025c,1/5/21,ongoing,Rash maculopapular,1,Possible,Unrelated,Unrelated,Yes,No,356,1/5/21,Research Nurse Protocol Note-Week #31-treatment hold
+4fd9ca376efebbf6ccc1cc88457d025c,12/31/20,unknown,Vaginal hemorrhage,1,Probable,Probable,Unrelated,No,No,356,1/5/21,Research Nurse Protocol Note-Week #31-treatment hold
+4fd9ca376efebbf6ccc1cc88457d025c,12/31/20,unknown,Anal hemorrhage,1,Probable,Probable,Unrelated,No,No,356,1/5/21,Research Nurse Protocol Note-Week #31-treatment hold
+4fd9ca376efebbf6ccc1cc88457d025c,1/19/21,unknown,Vaginal hemorrhage,1,Probable,Probable,Unrelated,No,No,357,1/19/21,Research Nurse Protocol Note-Week #33 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,1/19/21,unknown,Esophageal dilation,1,Unlikely,Probable,Unrelated,No,No,357,1/19/21,Research Nurse Protocol Note-Week #33 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,1/19/21,unknown,Liver hyper-enhancement,1,Unlikely,Probable,Unrelated,No,No,357,1/19/21,Research Nurse Protocol Note-Week #33 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,1/19/21,unknown,Vaginal discharge,1,Unlikely,Unlikely,Unrelated,No,No,357,1/19/21,Research Nurse Protocol Note-Week #33 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,1/21/21,unknown,Vaginal hemorrhage,1,Probable,Probable,Unrelated,No,No,358,1/21/21,Research Nurse Protocol Note-Week #33 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,1/21/21,unknown,Anal hemorrhage,1,Probable,Probable,Unrelated,No,No,358,1/21/21,Research Nurse Protocol Note-Week #33 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,1/21/21,unknown,Rash maculopapular,1,Possible,Unrelated,Unrelated,Yes,No,358,1/21/21,Research Nurse Protocol Note-Week #33 Treatment visit
+4fd9ca376efebbf6ccc1cc88457d025c,2/2/21,ongoing,Rash maculopapular,1,Possible,Unrelated,Unrelated,No,No,359,2/2/21,Research Nurse Protocol Note-Week #35 Clinic
+4fd9ca376efebbf6ccc1cc88457d025c,2/16/2021,unknown,Anemia,2,Probable,Possible,Probable,No,No,360,2/16/21,Research Nurse Protocol Note-Week #37 Re-staging visit
+4fd9ca376efebbf6ccc1cc88457d025c,02/26/2021,unknown,Edema limbs,1,Unlikely,Possible,Probable,No,No,361,3/2/21,Research Nurse Protocol Note-Week #39 Treatment hold
+4fd9ca376efebbf6ccc1cc88457d025c,02/24/2021,unknown,Anal hemorrhage,1,Probable,Probable,Unrelated,No,No,362,3/2/21,Research Nurse Protocol Note-Week #39 Treatment hold
+4fd9ca376efebbf6ccc1cc88457d025c,02/16/2021,ongoing,Anemia,2,Probable,Possible,Probable,No,No,362,3/2/21,Research Nurse Protocol Note-Week #39 Treatment hold
+4fd9ca376efebbf6ccc1cc88457d025c,02/26/2021,unknown,Edema limbs,1,Unlikely,Possible,Probable,No,No,363,3/16/21,Research Nurse Protocol Note-Week #41 Treatment Hold
+4fd9ca376efebbf6ccc1cc88457d025c,2/16/2021,ongoing,Anemia,2,Probable,Possible,Probable,No,No,363,3/16/21,Research Nurse Protocol Note-Week #41 Treatment Hold
+4fd9ca376efebbf6ccc1cc88457d025c,02/26/2021,unknown,Edema limbs,1,Unlikely,Possible,Probable,No,No,364,3/17/21,Research Nurse Protocol Note-Week #41 Treatment Hold
+4fd9ca376efebbf6ccc1cc88457d025c,2/16/2021,ongoing,Anemia,2,Probable,Possible,Probable,No,No,364,3/17/21,Research Nurse Protocol Note-Week #41 Treatment Hold
+4fd9ca376efebbf6ccc1cc88457d025c,2/16/2021,ongoing,Anemia,2,Probable,Possible,Probable,No,No,365,3/30/21,Research Nurse Protocol Note-Week 43 Re-staging/tx hold
+4fd9ca376efebbf6ccc1cc88457d025c,02/16/2021,06/22/21,Anemia,2,Probable,Possible,Probable,No,No,366,6/22/21,Research Nurse Protocol Note-Week 55 re-staging visit
+4fd9ca376efebbf6ccc1cc88457d025c,02/26/2021,06/22/21,Edema limbs,1,Unlikely,Possible,Probable,No,No,366,6/22/21,Research Nurse Protocol Note-Week 55 re-staging visit
+4fd9ca376efebbf6ccc1cc88457d025c,11/10/20,09/21/21,Urticaria,1,Unrelated,Unrelated,Probable,No,No,367,9/21/21,Research Nurse Protocol Note-18C0056 3 month follow-up
+4fd9ca376efebbf6ccc1cc88457d025c,09/15/20,unknown,Platelet count decreased,1,Probable,Possible,Unrelated,No,No,368,12/14/21,Research Nurse Protocol Note-18C0056 Week #80 FU visit
+4fd9ca376efebbf6ccc1cc88457d025c,09/15/20,unknown,Platelet count decreased,1,Probable,Possible,Unrelated,No,No,369,3/8/22,Research Nurse Protocol Note-18C0056 3 month follow-up
+4fd9ca376efebbf6ccc1cc88457d025c,5/31/22,ongoing,Thromboembolic event,2,Unrelated,Unrelated,Probable,No,No,370,5/31/22,Research Nurse Protocol Note-18C0056 3 month follow-up
+4fd9ca376efebbf6ccc1cc88457d025c,9/6/22,unknown,Rectal bleeding,1,Unrelated,Unrelated,Unlikely,No,No,371,9/6/22,Research Nurse Protocol Note-18C0056 3 month restaging FU
+4fd9ca376efebbf6ccc1cc88457d025c,12/6/2022,ongoing,Edema limbs,1,Unrelated,Unrelated,Probable,No,No,372,12/6/22,Research Nurse Protocol Note-18c0056 off treatment note
+f93819c38f7ca8f77469ee9f53fce1de,04/19/19,unknown,Urinary tract infection,2,Unlikely,Possible,Probable,No,No,376,4/25/19,Research Nurse Protocol Note-Week #3 Visit HPV TRAP
+f93819c38f7ca8f77469ee9f53fce1de,04/19/19,unknown,Hypercalcemia,3,Possible,Probable,Unlikely,No,Yes,376,4/25/19,Research Nurse Protocol Note-Week #3 Visit HPV TRAP
+f93819c38f7ca8f77469ee9f53fce1de,04/19/19,unknown,Nausea,2,Possible,Unlikely,Unlikely,No,No,376,4/25/19,Research Nurse Protocol Note-Week #3 Visit HPV TRAP
+f93819c38f7ca8f77469ee9f53fce1de,04/19/19,unknown,Vomiting,2,Possible,Unlikely,Unlikely,No,No,376,4/25/19,Research Nurse Protocol Note-Week #3 Visit HPV TRAP
+f93819c38f7ca8f77469ee9f53fce1de,04/13/19,unknown,Constipation,3,Possible,Unlikely,Unlikely,No,Yes,376,4/25/19,Research Nurse Protocol Note-Week #3 Visit HPV TRAP
+4013ce1eb4e04dc53415c02629dc6a36,11/20/18,ongoing,Fatigue,2,Possible,Possible,Unlikely,No,No,377,11/20/18,Research Nurse Protocol Note-wk.27-missed visit
+4013ce1eb4e04dc53415c02629dc6a36,11/20/18,ongoing,Muscle weakness,2,Possible,Possible,Unlikely,No,No,377,11/20/18,Research Nurse Protocol Note-wk.27-missed visit
+4013ce1eb4e04dc53415c02629dc6a36,12/18/18,unknown,Adrenal insufficiency,2,Possible,Unlikely,Unlikely,Yes,No,379,12/18/18,Research Nurse Protocol Note-wk. 31
+4013ce1eb4e04dc53415c02629dc6a36,7/2/19,ongoing,Increased appetite,1,Unlikely,Possible,Unrelated,No,No,391,7/2/19,Research Nurse Protocol Note-wk.59
+4013ce1eb4e04dc53415c02629dc6a36,7/2/19,ongoing,Weight gain,1,Unlikely,Possible,Unrelated,No,No,391,7/2/19,Research Nurse Protocol Note-wk.59
+4013ce1eb4e04dc53415c02629dc6a36,7/2/19,ongoing,Depression,2,Unlikely,Possible,Unrelated,No,No,391,7/2/19,Research Nurse Protocol Note-wk.59
+4013ce1eb4e04dc53415c02629dc6a36,7/2/19,ongoing,Night sweats,1,Unlikely,Possible,Unrelated,No,No,391,7/2/19,Research Nurse Protocol Note-wk.59
+4013ce1eb4e04dc53415c02629dc6a36,7/2/19,ongoing,Headache,1,Unlikely,Possible,Unrelated,No,No,391,7/2/19,Research Nurse Protocol Note-wk.59
+4013ce1eb4e04dc53415c02629dc6a36,7/2/19,ongoing,Fatigue,1,Unlikely,Possible,Unrelated,No,No,391,7/2/19,Research Nurse Protocol Note-wk.59
+4013ce1eb4e04dc53415c02629dc6a36,8/27/19,unknown,Fatigue,2,Possible,Possible,Unlikely,No,No,392,8/27/19,Research Nurse Protocol Note-week 67
+4013ce1eb4e04dc53415c02629dc6a36,8/27/19,unknown,Night sweats,1,Possible,Possible,Unlikely,No,No,392,8/27/19,Research Nurse Protocol Note-week 67
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Dry mouth,2,Possible,Unlikely,Unrelated,No,No,398,12/31/19,Research Nurse Protocol Note-wk. 85 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Dry eye,2,Possible,Unlikely,Unrelated,No,No,398,12/31/19,Research Nurse Protocol Note-wk. 85 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Rash,2,Possible,Unlikely,Unrelated,No,No,398,12/31/19,Research Nurse Protocol Note-wk. 85 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Pruritus,2,Possible,Unlikely,Unrelated,No,No,398,12/31/19,Research Nurse Protocol Note-wk. 85 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Pulmonary embolism,4,Unlikely,Probable,Unrelated,No,Yes,398,12/31/19,Research Nurse Protocol Note-wk. 85 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,1/14/20,unknown,Dry mouth,1,Possible,Unrelated,Unlikely,No,No,399,1/14/20,Research Nurse Protocol Note-week 87 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,1/14/20,unknown,Dry eyes,1,Possible,Unrelated,Unlikely,No,No,399,1/14/20,Research Nurse Protocol Note-week 87 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,2020-01-28,unknown,Dry mouth,1,Possible,Unlikely,Unlikely,No,No,400,1/28/20,Research Nurse Protocol Note-18c0056 wk. 89
+4013ce1eb4e04dc53415c02629dc6a36,2020-01-28,unknown,Dry eye,1,Possible,Unlikely,Unlikely,No,No,400,1/28/20,Research Nurse Protocol Note-18c0056 wk. 89
+4013ce1eb4e04dc53415c02629dc6a36,2/11/20,ongoing,Dry mouth,1,Possible,Unlikely,Unrelated,No,No,401,2/11/20,Research Nurse Protocol Note-18-c-0056 week 91
+4013ce1eb4e04dc53415c02629dc6a36,2/11/20,ongoing,Dry eyes,1,Possible,Unlikely,Unrelated,No,No,401,2/11/20,Research Nurse Protocol Note-18-c-0056 week 91
+4013ce1eb4e04dc53415c02629dc6a36,6/17/20,unknown,Adrenal insufficiency,unknown,unknown,unknown,unknown,Yes,unknown,404,6/17/20,Research Nurse Protocol Note-18c0056 AE update
+4013ce1eb4e04dc53415c02629dc6a36,6/17/20,unknown,Hypothyroidism,unknown,unknown,unknown,unknown,Yes,unknown,404,6/17/20,Research Nurse Protocol Note-18c0056 AE update
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Adrenal insufficiency,2,Possible,Unlikely,Unrelated,Yes,No,406,10/20/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Hypothyroidism,2,Possible,Unlikely,Unrelated,Yes,No,406,10/20/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,3/24/20,unknown,Weight gain,2,Unrelated,Unrelated,Probable,No,No,406,10/20/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,ongoing,Dry mouth,1,Possible,Unrelated,Unrelated,No,No,406,10/20/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,ongoing,Dry eye,1,Possible,Unrelated,Unrelated,No,No,406,10/20/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Thromboembolic event,2,Unlikely,Possible,Unrelated,No,No,406,10/20/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Adrenal insufficiency,2,Possible,Unlikely,Unrelated,Yes,Yes,407,12/1/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Hypothyroidism,2,Possible,Unlikely,Unrelated,Yes,No,407,12/1/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,3/24/20,unknown,Weight gain,2,Unrelated,Unrelated,Probable,No,No,407,12/1/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Dry mouth,1,Possible,Unrelated,Unrelated,No,No,407,12/1/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,ongoing,Dry eye,1,Possible,Unrelated,Unrelated,No,No,407,12/1/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Thromboembolic event,2,Unlikely,Possible,Unrelated,No,Yes,407,12/1/20,Research Nurse Protocol Note-6-wk F/U 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Adrenal insufficiency,2,Possible,Unlikely,Unrelated,Yes,Yes,408,12/22/20,Research Nurse Protocol Note-wk. 136 re-start 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Hypothyroidism,2,Possible,Unlikely,Unrelated,Yes,No,408,12/22/20,Research Nurse Protocol Note-wk. 136 re-start 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,3/24/20,unknown,Weight gain,2,Unrelated,Unrelated,Probable,No,No,408,12/22/20,Research Nurse Protocol Note-wk. 136 re-start 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Dry mouth,1,Possible,Unrelated,Unrelated,No,No,408,12/22/20,Research Nurse Protocol Note-wk. 136 re-start 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,ongoing,Dry eye,1,Possible,Unrelated,Unrelated,No,No,408,12/22/20,Research Nurse Protocol Note-wk. 136 re-start 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Thromboembolic event,2,Unlikely,Possible,Unrelated,No,Yes,408,12/22/20,Research Nurse Protocol Note-wk. 136 re-start 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,1/5/21,unknown,Oral hemorrhage,1,Possible,Unrelated,Unrelated,No,No,409,1/5/21,Research Nurse Protocol Note-wk 138 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,2021-01-05,unknown,Oral hemorrhage,1,Possible,Unrelated,Unrelated,No,No,410,1/19/21,Research Nurse Protocol Note-Week 140 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,2021-01-19,unknown,Fatigue,1,Possible,Possible,Unrelated,No,No,410,1/19/21,Research Nurse Protocol Note-Week 140 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,2021-01-19,unknown,Hypomagnesemia,1,Unlikely,Possible,Unrelated,No,No,410,1/19/21,Research Nurse Protocol Note-Week 140 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,1/19/21,unknown,Fatigue,1,Possible,Possible,Unrelated,No,No,412,2/16/21,Research Nurse Protocol Note-wk.144 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,1/19/21,2/16/21,Hypomagnesemia,1,Unlikely,Possible,Unrelated,No,No,412,2/16/21,Research Nurse Protocol Note-wk.144 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,1/19/21,unknown,Fatigue,1,Possible,Possible,Unrelated,No,No,413,3/2/21,Research Nurse Protocol Note-wk.146 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,1/5/21,unknown,Oral hemorrhage,1,Possible,Unrelated,Unrelated,No,No,413,3/2/21,Research Nurse Protocol Note-wk.146 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,3/16/21,unknown,Dry eye,unknown,unknown,unknown,unknown,No,No,414,3/16/21,Research Nurse Protocol Note-wk 148 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,2021-04-27,ongoing,Dry eye,unknown,Possible,Unlikely,Unlikely,No,No,416,4/27/21,Research Nurse Protocol Note-wk 154 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,2021-04-27,ongoing,Fatigue,unknown,Possible,Unlikely,Unlikely,No,No,416,4/27/21,Research Nurse Protocol Note-wk 154 18c0056
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Adrenal insufficiency,2,Possible,Unlikely,Unrelated,Yes,Yes,417,5/4/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Hypothyroidism,2,Possible,Unlikely,Unrelated,Yes,No,417,5/4/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,1/5/21,unknown,Oral hemorrhage,1,Possible,Unrelated,Unrelated,No,No,417,5/4/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,1/19/21,unknown,Fatigue,1,Possible,Possible,Unrelated,No,No,417,5/4/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,3/16/21,4/27/21,Acneiform rash,1,Possible,Unrelated,Unrelated,No,No,417,5/4/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,3/16/21,4/27/21,Dry eye,2,Possible,Unrelated,Unrelated,No,No,417,5/4/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,4/27/21,ongoing,Dry eye,1,Possible,Unrelated,Unrelated,No,No,417,5/4/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,10/19/21,ongoing,Dry eye,unknown,unknown,unknown,unknown,No,No,419,10/19/21,Research Nurse Protocol Note-18c0056 3-month F/U
+4013ce1eb4e04dc53415c02629dc6a36,10/19/21,ongoing,Fatigue,unknown,unknown,unknown,unknown,No,No,419,10/19/21,Research Nurse Protocol Note-18c0056 3-month F/U
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Adrenal insufficiency,2,Possible,Unlikely,Unrelated,Yes,Yes,420,10/20/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Hypothyroidism,2,Possible,Unlikely,Unrelated,Yes,No,420,10/20/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,1/5/21,unknown,Oral hemorrhage,1,Possible,Unrelated,Unrelated,No,No,420,10/20/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,1/19/21,unknown,Fatigue,1,Possible,Possible,Unrelated,No,No,420,10/20/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,4/27/21,ongoing,Dry eye,1,Possible,Unrelated,Unrelated,No,No,420,10/20/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Adrenal insufficiency,2,Possible,Unlikely,Unrelated,Yes,Yes,422,12/9/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Hypothyroidism,2,Possible,Unlikely,Unrelated,Yes,No,422,12/9/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,1/5/21,unknown,Oral hemorrhage,1,Possible,Unrelated,Unrelated,No,No,422,12/9/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,1/19/21,unknown,Fatigue,1,Possible,Possible,Unrelated,No,No,422,12/9/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,8/17/21,unknown,Constipation,1,Unrelated,Unrelated,Probable,No,No,422,12/9/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,8/17/21,unknown,Diarrhea,1,Unrelated,Unrelated,Probable,Yes,No,422,12/9/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,8/17/21,unknown,Flatulence,1,Unrelated,Unrelated,Probable,No,No,422,12/9/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,11/21/21,11/29/21,Back pain,1,Unrelated,Possible,Possible,No,Yes,422,12/9/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Adrenal insufficiency,2,Possible,Unlikely,Unrelated,Yes,Yes,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/4/18,unknown,Hypothyroidism,2,Possible,Unlikely,Unrelated,Yes,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,1/5/21,unknown,Oral hemorrhage,1,Possible,Unrelated,Unrelated,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,3/24/20,unknown,Weight gain,2,Unrelated,Unrelated,Probable,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,1/19/21,unknown,Fatigue,1,Possible,Possible,Unrelated,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,4/23/19,unknown,Hot flashes,1,Unlikely,Unlikely,Possible,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,8/17/21,unknown,Constipation,1,Unrelated,Unrelated,Probable,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Dry mouth,1,Possible,Unrelated,Unrelated,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,8/17/21,unknown,Flatulence,1,Unrelated,Unrelated,Probable,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/31/19,unknown,Thromboembolic event,2,Unlikely,Possible,Unrelated,No,Yes,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,11/2019,unknown,Ear and labyrinth disorders – fullness/congestion left ear,1,Unlikely,Unrelated,Probable,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,2/11/20,unknown,"Musculoskeletal and connective tissue disorder – TMJ symptoms, Left jaw",1,Unlikely,Unrelated,Unrelated,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/21/21,unknown,Alk phos increased,1,Unrelated,Unrelated,Unrelated,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,4/27/21,ongoing,Dry eye,1,Possible,Unrelated,Unrelated,No,No,424,12/23/21,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,8/17/21,unknown,Constipation,1,Unrelated,Unrelated,Probable,No,No,426,1/6/22,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,8/17/21,unknown,Flatulence,1,Unrelated,Unrelated,Probable,No,No,426,1/6/22,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,12/21/21,unknown,Alkaline phosphatase increased,1,Unrelated,Unrelated,Unrelated,No,No,426,1/6/22,Research Nurse Protocol Note-18c0056 AE Updates
+4013ce1eb4e04dc53415c02629dc6a36,1/18/22,unknown,Serum amylase increased,2,Possible,Unlikely,Unrelated,No,No,428,1/21/22,Research Nurse Protocol Note-18c0056 AE Updates
+fd204329b6f420abfec04e8269fee41e,7/9/19,unknown,Hypothyroidism,2,Unlikely,Unrelated,Unrelated,Yes,No,429,7/9/19,"Research Nurse Protocol Note-Consent, week 1"
+fd204329b6f420abfec04e8269fee41e,7/9/19,unknown,Hyperglycemia,1,Unlikely,Unrelated,Unrelated,No,No,429,7/9/19,"Research Nurse Protocol Note-Consent, week 1"
+fd204329b6f420abfec04e8269fee41e,7/9/19,unknown,Anemia,1,Unlikely,Unrelated,Unrelated,No,No,429,7/9/19,"Research Nurse Protocol Note-Consent, week 1"
+fd204329b6f420abfec04e8269fee41e,7/9/19,unknown,AST increased,1,Unlikely,Unrelated,Unrelated,No,No,429,7/9/19,"Research Nurse Protocol Note-Consent, week 1"
+fd204329b6f420abfec04e8269fee41e,7/9/19,unknown,ALT increased,1,Unlikely,Unrelated,Unrelated,No,No,429,7/9/19,"Research Nurse Protocol Note-Consent, week 1"
+fd204329b6f420abfec04e8269fee41e,7/9/19,unknown,Proteinuria,1,Unlikely,Unrelated,Unrelated,No,No,429,7/9/19,"Research Nurse Protocol Note-Consent, week 1"
+fd204329b6f420abfec04e8269fee41e,7/9/19,unknown,Hematuria,1,Unlikely,Unrelated,Unrelated,No,No,429,7/9/19,"Research Nurse Protocol Note-Consent, week 1"
+fd204329b6f420abfec04e8269fee41e,7/9/19,unknown,Hypomagnesemia,1,Unlikely,Unrelated,Unrelated,No,No,429,7/9/19,"Research Nurse Protocol Note-Consent, week 1"
+fd204329b6f420abfec04e8269fee41e,7/24/19,unknown,Dyspnea,2,Possible,Possible,Unlikely,No,No,430,7/24/19,Research Nurse Protocol Note-week 3 7/23/19
+fd204329b6f420abfec04e8269fee41e,7/24/19,unknown,Hypoxia,2,Possible,Possible,Unlikely,No,No,430,7/24/19,Research Nurse Protocol Note-week 3 7/23/19
+fd204329b6f420abfec04e8269fee41e,7/24/19,unknown,Tachycardia,2,Possible,Possible,Unlikely,No,No,430,7/24/19,Research Nurse Protocol Note-week 3 7/23/19
+fd204329b6f420abfec04e8269fee41e,7/24/19,unknown,Anemia,3,Possible,Probable,Unlikely,No,Yes,430,7/24/19,Research Nurse Protocol Note-week 3 7/23/19
+fd204329b6f420abfec04e8269fee41e,7/24/19,unknown,Hyponatremia,2,Possible,Possible,Unlikely,No,No,430,7/24/19,Research Nurse Protocol Note-week 3 7/23/19
+fd204329b6f420abfec04e8269fee41e,7/24/19,unknown,Hypokalemia,2,Possible,Possible,Unlikely,No,No,430,7/24/19,Research Nurse Protocol Note-week 3 7/23/19
+fd204329b6f420abfec04e8269fee41e,7/24/19,unknown,Hypomagnesemia,2,Possible,Possible,Unlikely,No,No,430,7/24/19,Research Nurse Protocol Note-week 3 7/23/19
+fd204329b6f420abfec04e8269fee41e,7/24/19,unknown,Fatigue,2,Possible,Possible,Unlikely,No,No,430,7/24/19,Research Nurse Protocol Note-week 3 7/23/19
+fd204329b6f420abfec04e8269fee41e,7/24/19,unknown,Decreased appetite,2,Possible,Possible,Unlikely,No,No,430,7/24/19,Research Nurse Protocol Note-week 3 7/23/19
+fd204329b6f420abfec04e8269fee41e,8/6/19,unknown,Vaginal bleeding,2,Possible,Possible,Unrelated,No,Yes,431,8/7/19,Research Nurse Protocol Note-week 5 missed visit
+6670265bba3f83c1294410a268d3e503,12/3/19,unknown,Anemia,2,Possible,Possible,Unlikely,No,No,436,12/3/19,Research Nurse Protocol Note-Week # 5 Visit
+6670265bba3f83c1294410a268d3e503,12/3/19,unknown,Increased liver function test,2,Possible,Possible,Unlikely,No,No,436,12/3/19,Research Nurse Protocol Note-Week # 5 Visit
+6670265bba3f83c1294410a268d3e503,2019-12-07,unknown,Abdominal pain,2,Unlikely,Probable,Unrelated,No,No,437,12/9/19,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+6670265bba3f83c1294410a268d3e503,2019-12-07,unknown,Anemia,3,Unlikely,Probable,Unrelated,No,Yes,437,12/9/19,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+6670265bba3f83c1294410a268d3e503,2019-12-07,unknown,Tumor hemorrhage,3,Unlikely,Probable,Unrelated,No,Yes,437,12/9/19,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+6670265bba3f83c1294410a268d3e503,12/17/19,ongoing,Constipation,2,Possible,Unlikely,Unlikely,No,No,438,12/17/19,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+6670265bba3f83c1294410a268d3e503,12/17/19,ongoing,Dyspnea on exertion,2,Possible,Possible,Unlikely,No,No,438,12/17/19,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+6670265bba3f83c1294410a268d3e503,12/17/19,unknown,Disease progression,3,Unlikely,Definite,Unlikely,No,Yes,438,12/17/19,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+ccecd2b9caceb75e156d158ef7513799,12/15/2018,unknown,Rash maculopapular,1,Possible,Unlikely,Unlikely,No,No,441,1/22/19,Research Nurse Protocol Note-wk.13
+ccecd2b9caceb75e156d158ef7513799,1/22/2019,unknown,Abdominal pain,2,Possible,Possible,Unlikely,No,No,441,1/22/19,Research Nurse Protocol Note-wk.13
+8cef60952b35498cb9fe41077e327d0f,11/26/18,unknown,Anemia,3,Unlikely,Probable,Unrelated,No,Yes,442,11/26/18,Research Nurse Protocol Note-schedule/admit
+8cef60952b35498cb9fe41077e327d0f,1/10/19,unknown,Herpes zoster,2,Unlikely,Unlikely,Possible,No,No,445,1/25/19,Research Nurse Protocol Note-week 33
+8cef60952b35498cb9fe41077e327d0f,1/17/19,unknown,Pain,2,Unlikely,Unlikely,Possible,No,No,445,1/25/19,Research Nurse Protocol Note-week 33
+8cef60952b35498cb9fe41077e327d0f,1/17/19,unknown,Burning sensation,2,Unlikely,Unlikely,Possible,No,No,445,1/25/19,Research Nurse Protocol Note-week 33
+8cef60952b35498cb9fe41077e327d0f,1/17/19,unknown,Skin ulcer,2,Unlikely,Unlikely,Possible,No,No,445,1/25/19,Research Nurse Protocol Note-week 33
+8cef60952b35498cb9fe41077e327d0f,2019-03-05,unknown,Pruritus,2,Possible,Unlikely,Unrelated,No,No,448,3/5/19,Research Nurse Protocol Note-wk. 39
+8cef60952b35498cb9fe41077e327d0f,2019-03-05,unknown,Pruritus,1,Possible,Unlikely,Unlikely,No,No,449,3/5/19,Research Nurse Protocol Note-wk. 39
+8cef60952b35498cb9fe41077e327d0f,2/19/19,unknown,Pruritus,2,Possible,Unlikely,Unrelated,No,No,451,4/16/19,Research Nurse Protocol Note-week 45
+8cef60952b35498cb9fe41077e327d0f,2019-02-19,ongoing,Pruritus,2,Possible,Unlikely,Unlikely,No,No,452,5/28/19,Research Nurse Protocol Note-week 51
+8cef60952b35498cb9fe41077e327d0f,2/19/19,ongoing,Pruritus,2,Possible,Unlikely,Unlikely,No,No,453,7/9/19,Research Nurse Protocol Note-week 57
+8cef60952b35498cb9fe41077e327d0f,02/19/19,ongoing,Pruritus,2,Possible,Unlikely,Unlikely,No,No,456,10/29/19,Research Nurse Protocol Note-week 73 18c0056
+8cef60952b35498cb9fe41077e327d0f,02/19/19,ongoing,Pruritus,2,Possible,Unlikely,Unlikely,No,No,457,12/10/19,Research Nurse Protocol Note-week 79 6-wk. F/U 18c0056
+880d1b0ab2e5e4946585422e8ce11ac4,2019-09-09,unknown,Confusion,3,Unlikely,Probable,Unrelated,No,Yes,463,9/9/19,Research Nurse Protocol Note-Adverse Events Summary
+880d1b0ab2e5e4946585422e8ce11ac4,2019-09-09,unknown,Hypercalcemia,4,Unlikely,Definite,Unrelated,No,Yes,463,9/9/19,Research Nurse Protocol Note-Adverse Events Summary
+f089e1b909605b0d39ac54cc18f05758,7/9/19,unknown,Pruritus,2,Possible,Unlikely,Unrelated,No,No,468,7/9/19,Research Nurse Protocol Note-week 3
+f089e1b909605b0d39ac54cc18f05758,8/6/19,unknown,Epistaxis,2,Possible,Possible,Unlikely,No,No,470,8/6/19,Research Nurse Protocol Note-week 7
+f089e1b909605b0d39ac54cc18f05758,8/6/19,unknown,Anemia,3,Possible,Possible,Unlikely,No,Yes,470,8/6/19,Research Nurse Protocol Note-week 7
+f089e1b909605b0d39ac54cc18f05758,8/20/19,unknown,Gingival bleeding,1,Possible,Unlikely,Unrelated,No,No,471,8/20/19,Research Nurse Protocol Note-week 9
+f089e1b909605b0d39ac54cc18f05758,8/20/19,unknown,Psoriasis rash,2,Possible,Probable,Unrelated,No,No,471,8/20/19,Research Nurse Protocol Note-week 9
+f089e1b909605b0d39ac54cc18f05758,9/16/19,unknown,Anemia,3,Possible,Possible,Unrelated,No,Yes,473,9/17/19,Research Nurse Protocol Note-wk. 13
+f089e1b909605b0d39ac54cc18f05758,10/01/2019,unknown,Anemia,2,Possible,Possible,Unrelated,No,No,474,10/1/19,Research Nurse Protocol Note-week 15 18c0056
+f089e1b909605b0d39ac54cc18f05758,10/01/2019,unknown,Mucosal bleeding,2,Possible,Possible,Unrelated,No,No,474,10/1/19,Research Nurse Protocol Note-week 15 18c0056
+f089e1b909605b0d39ac54cc18f05758,10/15/19,ongoing,Anemia,2,Possible,Possible,Unlikely,No,No,475,10/15/19,Research Nurse Protocol Note-week 17 18c0056
+f089e1b909605b0d39ac54cc18f05758,10/15/19,unknown,Mucosal bleeding,2,Possible,Possible,Unlikely,No,No,475,10/15/19,Research Nurse Protocol Note-week 17 18c0056
+f089e1b909605b0d39ac54cc18f05758,10/29/19,ongoing,Anemia,2,Possible,Possible,Unlikely,No,No,476,10/29/19,Research Nurse Protocol Note-week 19 18c0056
+f089e1b909605b0d39ac54cc18f05758,10/29/19,unknown,Mucosal bleeding,2,Possible,Possible,Unlikely,No,No,476,10/29/19,Research Nurse Protocol Note-week 19 18c0056
+f089e1b909605b0d39ac54cc18f05758,11/12/19,ongoing,Anemia,2,Possible,Possible,Unlikely,No,No,477,11/12/19,Research Nurse Protocol Note-wk. 21 18c0056
+f089e1b909605b0d39ac54cc18f05758,11/12/19,unknown,Mucosal bleeding,2,Possible,Possible,Unlikely,No,No,477,11/12/19,Research Nurse Protocol Note-wk. 21 18c0056
+f089e1b909605b0d39ac54cc18f05758,2/18/20,unknown,Dizziness,1,Unlikely,Possible,Unrelated,No,No,485,2/18/20,Research Nurse Protocol Note-week 35 18c0056
+f089e1b909605b0d39ac54cc18f05758,2020-03-03,ongoing,Pancytopenia,3,Possible,Probable,Unlikely,No,Yes,486,3/3/20,Research Nurse Protocol Note-wk. 37 18c0056
+f089e1b909605b0d39ac54cc18f05758,2020-03-03,unknown,Anemia,2,Possible,Probable,Unlikely,No,No,486,3/3/20,Research Nurse Protocol Note-wk. 37 18c0056
+f089e1b909605b0d39ac54cc18f05758,2020-03-31,unknown,Dizziness,1,Unlikely,Probable,Unrelated,No,No,487,3/31/20,Research Nurse Protocol Note-week 41 18c0056
+f089e1b909605b0d39ac54cc18f05758,1/24/20,unknown,Dizziness,1,Unlikely,Possible,Possible,No,No,494,2/9/21,Research Nurse Protocol Note-8-wk F/U 18c0056
+f089e1b909605b0d39ac54cc18f05758,2/18/20,unknown,Arthralgia,1,Unlikely,Unlikely,Unrelated,No,No,494,2/9/21,Research Nurse Protocol Note-8-wk F/U 18c0056
+a2eac1eb9ebb6ea61d9498fc9c813106,2020-03-19,2020-03-20,Hot flashes,1,Possible,Unlikely,Unlikely,No,No,498,3/24/20,Research Nurse Protocol Note-Day # 15 Visit
+a2eac1eb9ebb6ea61d9498fc9c813106,2020-03-24,unknown,Increased liver enzymes,1,Possible,Unlikely,Unlikely,No,No,498,3/24/20,Research Nurse Protocol Note-Day # 15 Visit
+a2eac1eb9ebb6ea61d9498fc9c813106,03/24/20,04/07/20,AST increased,1,Possible,Unlikely,Unrelated,No,No,499,4/7/20,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+a2eac1eb9ebb6ea61d9498fc9c813106,03/24/20,04/07/20,ALT increased,1,Possible,Unlikely,Unrelated,No,No,499,4/7/20,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+a2eac1eb9ebb6ea61d9498fc9c813106,03/24/20,04/07/20,Proteinuria,2,Unrelated,Possible,Unrelated,No,No,499,4/7/20,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+a2eac1eb9ebb6ea61d9498fc9c813106,03/24/20,04/07/20,Bacteriuria,unknown,Unrelated,Possible,Unrelated,No,No,499,4/7/20,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+a2eac1eb9ebb6ea61d9498fc9c813106,03/30/20,04/07/20,Mucositis oral,1,Possible,Unrelated,Unrelated,No,No,499,4/7/20,Research Nurse Protocol Note_v1-Research Nurse Protocol Note
+99f8e325b895fb103328c46fcecba780,11/13/18,unknown,Dyspnea,2,Possible,Possible,Unlikely,No,Yes,504,11/20/18,Research Nurse Protocol Note-18-C-0056 Week 29
+99f8e325b895fb103328c46fcecba780,11/20/18,unknown,Hypoxia,3,Possible,Probable,Unlikely,No,Yes,504,11/20/18,Research Nurse Protocol Note-18-C-0056 Week 29
+99f8e325b895fb103328c46fcecba780,11/20/18,unknown,Dyspnea,2,Possible,Possible,Unlikely,No,Yes,505,11/20/18,Research Nurse Protocol Note-18-C-0056 Week 29
+99f8e325b895fb103328c46fcecba780,11/20/18,unknown,Hypoxia,3,Possible,Possible,Unlikely,No,Yes,505,11/20/18,Research Nurse Protocol Note-18-C-0056 Week 29
+13f0c302e519fabfdec53ebec86a164f,8/20/19,unknown,Creatinine increased,1,Unlikely,Unrelated,Unlikely,No,No,512,8/20/19,"Research Nurse Protocol Note-consent, week 1"
+13f0c302e519fabfdec53ebec86a164f,8/20/19,unknown,Hyperglycemia,1,Unlikely,Unrelated,Unlikely,No,No,512,8/20/19,"Research Nurse Protocol Note-consent, week 1"
+13f0c302e519fabfdec53ebec86a164f,8/20/19,unknown,Lymphocyte count decreased,1,Unlikely,Unrelated,Unlikely,No,No,512,8/20/19,"Research Nurse Protocol Note-consent, week 1"
+13f0c302e519fabfdec53ebec86a164f,8/20/19,unknown,Anemia,2,Unlikely,Unrelated,Unlikely,No,No,512,8/20/19,"Research Nurse Protocol Note-consent, week 1"
+13f0c302e519fabfdec53ebec86a164f,8/20/19,unknown,ALK Phosphatase increased,1,Unlikely,Unrelated,Unlikely,No,No,512,8/20/19,"Research Nurse Protocol Note-consent, week 1"
+13f0c302e519fabfdec53ebec86a164f,8/20/19,unknown,Proteinuria,1,Unlikely,Unrelated,Unlikely,No,No,512,8/20/19,"Research Nurse Protocol Note-consent, week 1"
+13f0c302e519fabfdec53ebec86a164f,8/20/19,unknown,Hematuria,1,Unlikely,Unrelated,Unlikely,No,No,512,8/20/19,"Research Nurse Protocol Note-consent, week 1"
+13f0c302e519fabfdec53ebec86a164f,9/3/19,unknown,Hematuria,2,Possible,Possible,Unrelated,No,No,513,9/3/19,Research Nurse Protocol Note-week 3
+13f0c302e519fabfdec53ebec86a164f,10/4/19,unknown,Difficulty voiding,1,Possible,Possible,Unlikely,No,No,515,10/4/19,Research Nurse Protocol Note
+13f0c302e519fabfdec53ebec86a164f,10/4/19,unknown,Hematuria,1,Possible,Possible,Unlikely,No,No,515,10/4/19,Research Nurse Protocol Note
+13f0c302e519fabfdec53ebec86a164f,10/4/19,unknown,Anemia,2,Possible,Possible,Unlikely,No,Yes,515,10/4/19,Research Nurse Protocol Note
+13f0c302e519fabfdec53ebec86a164f,10/15/19,unknown,Back pain,2,Possible,Possible,Unlikely,No,No,516,10/15/19,Research Nurse Protocol Note-wk.9 18c0056
+13f0c302e519fabfdec53ebec86a164f,10/15/19,unknown,Flank pain,2,Possible,Possible,Unlikely,No,No,516,10/15/19,Research Nurse Protocol Note-wk.9 18c0056
+6193a1dd3825671d9e5ea9f02d0f0fb0,10/29/19,unknown,Dehydration,2,Possible,Possible,Unlikely,No,No,520,10/29/19,Research Nurse Protocol Note-Week # 3 Visit
+6193a1dd3825671d9e5ea9f02d0f0fb0,10/29/19,unknown,Fatigue,2,Possible,Possible,Unlikely,No,No,520,10/29/19,Research Nurse Protocol Note-Week # 3 Visit
+6193a1dd3825671d9e5ea9f02d0f0fb0,10/29/19,ongoing,Tachycardia,1,Possible,Possible,Unlikely,No,No,520,10/29/19,Research Nurse Protocol Note-Week # 3 Visit
+6193a1dd3825671d9e5ea9f02d0f0fb0,10/29/19,unknown,Elevated liver enzymes,1,Possible,Unlikely,Unlikely,Yes,No,520,10/29/19,Research Nurse Protocol Note-Week # 3 Visit
+6193a1dd3825671d9e5ea9f02d0f0fb0,11/12/19,ongoing,Tachycardia,1,Unlikely,Possible,Unrelated,No,No,522,11/12/19,Research Nurse Protocol Note-Week # 5 Visit
+6193a1dd3825671d9e5ea9f02d0f0fb0,11/18/19,unknown,Acute kidney injury,3,Possible,Possible,Unrelated,No,Yes,523,11/18/19,Research Nurse Protocol Note-Week #6 Safety Visit
+6193a1dd3825671d9e5ea9f02d0f0fb0,11/18/19,unknown,Hyperkalemia,3,Possible,Possible,Unrelated,No,Yes,523,11/18/19,Research Nurse Protocol Note-Week #6 Safety Visit
+6193a1dd3825671d9e5ea9f02d0f0fb0,11/18/19,unknown,Fatigue,2,Possible,Possible,Unrelated,No,No,523,11/18/19,Research Nurse Protocol Note-Week #6 Safety Visit
+69a0d1ccba33f6d40b042ec617177636,12/21/18,unknown,Urinary retention,2,Possible,Possible,Unlikely,No,Yes,525,12/21/18,Research Nurse Protocol Note-wk.10 off sched. communication
+69a0d1ccba33f6d40b042ec617177636,12/21/18,unknown,Confusion,2,Possible,Possible,Unlikely,No,Yes,525,12/21/18,Research Nurse Protocol Note-wk.10 off sched. communication
+69a0d1ccba33f6d40b042ec617177636,01/11/2019,ongoing,Weakness,2,Possible,Possible,Unlikely,No,No,526,1/11/19,Research Nurse Protocol Note-wk.13 update patient status
+69a0d1ccba33f6d40b042ec617177636,01/11/2019,unknown,Urinary retention,2,Possible,Probable,Unlikely,No,No,526,1/11/19,Research Nurse Protocol Note-wk.13 update patient status
+69a0d1ccba33f6d40b042ec617177636,01/11/2019,unknown,Confusion,2,Possible,Probable,Unlikely,No,No,526,1/11/19,Research Nurse Protocol Note-wk.13 update patient status
+69a0d1ccba33f6d40b042ec617177636,01/11/2019,unknown,Pain,2,Possible,Probable,Unlikely,No,No,526,1/11/19,Research Nurse Protocol Note-wk.13 update patient status
+ad0f6d0f06469e9179935afed8931055,12/19/18,unknown,Muscle spasms,2,Possible,Unlikely,Possible,No,No,528,12/20/18,Research Nurse Protocol Note
+ad0f6d0f06469e9179935afed8931055,12/19/18,unknown,Pruritus,1,Possible,Unlikely,Unlikely,No,No,528,12/20/18,Research Nurse Protocol Note
+ad0f6d0f06469e9179935afed8931055,12/20/18,unknown,Deep vein thrombosis,3,Unlikely,Probable,Unrelated,No,Yes,529,12/31/18,Research Nurse Protocol Note
+ad0f6d0f06469e9179935afed8931055,12/31/18,unknown,Alanine aminotransferase increased,2,Possible,Unlikely,Probable,No,No,529,12/31/18,Research Nurse Protocol Note
+ad0f6d0f06469e9179935afed8931055,1/9/19,1/4/19,Elevated liver enzymes,Unknown,Possible,Unlikely,Unlikely,No,No,531,1/9/19,Research Nurse Protocol Note-Off Treatment Note
+99e34b12538569b3b9f4452ab6ead054,3/17/20,unknown,Creatinine increased,1,Unlikely,Unrelated,Unrelated,No,No,533,3/31/20,Research Nurse Protocol Note-wk. 3 updates 18c0056
+99e34b12538569b3b9f4452ab6ead054,3/17/20,unknown,Lymphocyte count decreased,1,Unrelated,Definite,Unrelated,No,No,533,3/31/20,Research Nurse Protocol Note-wk. 3 updates 18c0056
+99e34b12538569b3b9f4452ab6ead054,4/7/20,unknown,Oral mucositis,1,Unlikely,Possible,Unrelated,No,No,534,4/14/20,Research Nurse Protocol Note-week 5 18c0056
+99e34b12538569b3b9f4452ab6ead054,4/29/20,unknown,Pain in oropharynx,1,Possible,Possible,Unlikely,No,No,535,4/29/20,Research Nurse Protocol Note-WK. 7 18C0056
+99e34b12538569b3b9f4452ab6ead054,5/12/20,5/12/20,Mucositis oral,1,Unlikely,Definite,Unrelated,No,No,536,5/12/20,Research Nurse Protocol Note-week 9 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/7/20,ongoing,Keratoacanthoma,2,Probable,Unlikely,Unrelated,No,No,539,7/7/20,Research Nurse Protocol Note-Week # 15 Visit
+99e34b12538569b3b9f4452ab6ead054,7/7/20,9/1/20,Dysphagia,2,Unrelated,Possible,Definite,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/7/20,9/1/20,Esophagitis,2,Unrelated,Unlikely,Definite,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/7/20,unknown,Dry Mouth,1,Unrelated,Unlikely,Probable,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/21/20,unknown,Soft Tissue Infection,2,Unrelated,Unlikely,Unrelated,No,Yes,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/21/20,9/1/20,Dysguesia,2,Unrelated,Unlikely,Probable,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/21/20,9/1/20,Nausea,1,Unrelated,Unlikely,Probable,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/21/20,9/1/20,Vomiting,1,Unrelated,Unlikely,Probable,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/7/20,8/17/20,Weight Loss,1,Unrelated,Unlikely,Probable,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/21/20,9/1/20,Dermatitis Radiation,2,Unrelated,Unrelated,Probable,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,8/17/20,unknown,Weight Loss,2,Unrelated,Unlikely,Probable,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,9/1/20,unknown,Dysguesia,1,Unrelated,Unlikely,Probable,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,9/1/20,unknown,Esophagitis,1,Unrelated,Unlikely,Definite,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,9/1/20,unknown,Dysphagia,1,Unrelated,Possible,Definite,No,No,541,9/1/20,Research Nurse Protocol Note-wk. 25 18c0056
+99e34b12538569b3b9f4452ab6ead054,7/21/20,9/1/20,Soft tissue infection,2,Unrelated,Unlikely,Unrelated,No,Yes,542,12/1/20,Research Nurse Protocol Note-wk 37 (late) 18c0056
+99e34b12538569b3b9f4452ab6ead054,8/17/20,unknown,Weight loss,2,Unrelated,Unlikely,Probable,No,No,542,12/1/20,Research Nurse Protocol Note-wk 37 (late) 18c0056
+99e34b12538569b3b9f4452ab6ead054,9/1/20,unknown,Dysguesia,1,Unrelated,Unlikely,Probable,No,No,542,12/1/20,Research Nurse Protocol Note-wk 37 (late) 18c0056
+99e34b12538569b3b9f4452ab6ead054,9/1/20,unknown,Esophagitis,1,Unrelated,Unlikely,Definite,No,No,542,12/1/20,Research Nurse Protocol Note-wk 37 (late) 18c0056
+99e34b12538569b3b9f4452ab6ead054,9/1/20,unknown,Dysphagia,1,Unrelated,Possible,Definite,No,No,542,12/1/20,Research Nurse Protocol Note-wk 37 (late) 18c0056
+99e34b12538569b3b9f4452ab6ead054,12/1/20,1/5/21,Lymphocyte count decreased,3,Unrelated,Possible,Possible,No,No,543,1/5/21,Research Nurse Protocol Note-wk. 43 18c0056 & Off Tx
+ba8df459b1548c0aca86fbc2a802490a,12/3/19,unknown,Rash,1,Possible,Unrelated,Unlikely,No,No,549,12/3/19,Research Nurse Protocol Note-Week #5 Visit
+ba8df459b1548c0aca86fbc2a802490a,1/9/20,unknown,Rash maculopapular,1,Possible,Unlikely,Unrelated,No,No,552,1/14/20,Research Nurse Protocol Note-Week # 11 Visit
+ba8df459b1548c0aca86fbc2a802490a,01/31/2019,ongoing,Rash maculopapular,2,Probable,Unlikely,Unlikely,No,No,554,2/11/20,Research Nurse Protocol Note-Week #15 Visit
+ba8df459b1548c0aca86fbc2a802490a,2/25/20,unknown,Rash maculopapular,1,Possible,Unlikely,Unrelated,No,No,555,2/25/20,"Research Nurse Protocol Note-Week #17, treatment re-start"
+ba8df459b1548c0aca86fbc2a802490a,4/7/20,ongoing,Rash maculo-papular,2,Probable,Unlikely,Unlikely,No,No,558,4/7/20,Research Nurse Protocol Note-Week #23 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-04-21,unknown,Rash,1,Possible,Unlikely,Unrelated,No,No,559,4/21/20,Research Nurse Protocol Note-Week #25 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-05,unknown,Rash,1,Possible,Unlikely,Unlikely,No,No,560,5/5/20,Research Nurse Protocol Note-Week # 27 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-13,unknown,Epistaxis,1,Possible,Unlikely,Unlikely,No,No,561,5/19/20,Research Nurse Protocol Note-Week #29 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-13,unknown,Myalgia,1,Possible,Unlikely,Unlikely,No,No,561,5/19/20,Research Nurse Protocol Note-Week #29 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,Adrenal insufficiency,2,Probable,Unlikely,Unrelated,Yes,Yes,562,6/2/20,Research Nurse Protocol Note-Week # 31 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,Fatigue,2,Probable,Unlikely,Unrelated,No,No,562,6/2/20,Research Nurse Protocol Note-Week # 31 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,Nausea,2,Probable,Unlikely,Unrelated,No,No,562,6/2/20,Research Nurse Protocol Note-Week # 31 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,Vomiting,2,Probable,Unlikely,Unrelated,No,No,562,6/2/20,Research Nurse Protocol Note-Week # 31 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,Myalgia,2,Probable,Unlikely,Unrelated,No,No,562,6/2/20,Research Nurse Protocol Note-Week # 31 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,Anorexia,2,Probable,Unlikely,Unrelated,No,No,562,6/2/20,Research Nurse Protocol Note-Week # 31 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,Weight loss,2,Probable,Unlikely,Unrelated,No,No,562,6/2/20,Research Nurse Protocol Note-Week # 31 Visit
+ba8df459b1548c0aca86fbc2a802490a,2020-05-26,ongoing,Abdominal pain,2,Probable,Unlikely,Unrelated,No,No,562,6/2/20,Research Nurse Protocol Note-Week # 31 Visit
+ba8df459b1548c0aca86fbc2a802490a,6/5/20,unknown,Cough,1,Unrelated,Unrelated,Possible,No,No,563,6/8/20,Research Nurse Protocol Note-Telephone contact 6/5/20
+ba8df459b1548c0aca86fbc2a802490a,7/14/20,ongoing,Adrenal insufficiency,2,Possible,Possible,Unrelated,Yes,Yes,565,7/14/20,Research Nurse Protocol Note-Week #37 Visit
+ba8df459b1548c0aca86fbc2a802490a,08/01/20,unknown,Anosmia,1,Unrelated,Unrelated,Probable,No,No,567,8/25/20,Research Nurse Protocol Note-Week # 43 Visit
+ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,unknown,Hyperglycemia,1,Unlikely,Unrelated,Unrelated,No,No,570,8/13/19,"Research Nurse Protocol Note-Consent, week 1"
+ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,unknown,Hypocalcemia,1,Unlikely,Unrelated,Unrelated,No,No,570,8/13/19,"Research Nurse Protocol Note-Consent, week 1"
+ebac4f67360c91e7bd8c6e10ba775fcd,8/13/19,unknown,Lymphocyte count decreased,1,Unlikely,Unrelated,Unrelated,No,No,570,8/13/19,"Research Nurse Protocol Note-Consent, week 1"
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,unknown,Arthralgia,1,Possible,Unlikely,Unlikely,No,No,571,8/27/19,Research Nurse Protocol Note-week 3
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,unknown,Fatigue,1,Possible,Unlikely,Unlikely,No,No,571,8/27/19,Research Nurse Protocol Note-week 3
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,unknown,Gum bleeding,1,Possible,Unlikely,Unlikely,No,No,571,8/27/19,Research Nurse Protocol Note-week 3
+ebac4f67360c91e7bd8c6e10ba775fcd,8/27/19,8/24/19,Vaginal spotting,1,Possible,Unlikely,Unlikely,No,No,571,8/27/19,Research Nurse Protocol Note-week 3
+ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,ongoing,Vaginal bleeding,2,Possible,Unlikely,Unrelated,No,No,572,9/10/19,Research Nurse Protocol Note_v1-18c0056 week 5
+ebac4f67360c91e7bd8c6e10ba775fcd,9/10/19,ongoing,Gum bleeding,1,Possible,Unlikely,Unrelated,No,No,572,9/10/19,Research Nurse Protocol Note_v1-18c0056 week 5
+ebac4f67360c91e7bd8c6e10ba775fcd,9/24/19,unknown,Gingival bleeding,1,Possible,Unlikely,Unlikely,No,No,574,9/24/19,"Research Nurse Protocol Note-18c0056, week 7"
+ebac4f67360c91e7bd8c6e10ba775fcd,9/24/19,ongoing,Perianal skin abrasion,2,Unlikely,Possible,Unlikely,No,No,574,9/24/19,"Research Nurse Protocol Note-18c0056, week 7"
+ebac4f67360c91e7bd8c6e10ba775fcd,10/8/19,unknown,Stomatitis,1,Possible,Unlikely,Unrelated,No,No,575,10/8/19,Research Nurse Protocol Note-week 9 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,11/5/19,unknown,Perineal pain,2,Unlikely,Possible,Unrelated,No,No,577,11/5/19,Research Nurse Protocol Note-18c0056 wk. 13
+ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,unknown,Perineal pain,2,Unlikely,Probable,Unrelated,No,No,578,11/19/19,Research Nurse Protocol Note-wk. 15 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,unknown,Dyspnea,3,Possible,Possible,Unrelated,No,Yes,578,11/19/19,Research Nurse Protocol Note-wk. 15 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,11/19/19,unknown,Asthma exacerbation,2,Unlikely,Probable,Unrelated,No,No,578,11/19/19,Research Nurse Protocol Note-wk. 15 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,12/17/19,ongoing,Asthma exacerbation,2,Unlikely,Probable,Unrelated,No,No,579,12/17/19,Research Nurse Protocol Note-week 19 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,12/17/19,ongoing,Perineal pain,1,Unlikely,Probable,Unrelated,No,No,579,12/17/19,Research Nurse Protocol Note-week 19 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,12/30/19,ongoing,Perineal pain,2,Unlikely,Probable,Unrelated,No,No,580,12/30/19,Research Nurse Protocol Note-week 21 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,1/14/20,unknown,Pain,3,Unlikely,Probable,Unrelated,No,Yes,581,1/14/20,Research Nurse Protocol Note-week 23 18c0056 missed
+ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,ongoing,Pain at surgical site,2,Unlikely,Possible,Probable,No,No,582,1/28/20,Research Nurse Protocol Note-wk. 25 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,1/28/20,unknown,Discomfort at surgical site,1,Unlikely,Possible,Probable,No,No,582,1/28/20,Research Nurse Protocol Note-wk. 25 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-02-11,ongoing,Pain at surgical site,2,Unlikely,Possible,Unrelated,No,No,583,2/11/20,Research Nurse Protocol Note-18c0056 wk.27
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-02-11,unknown,Discomfort at surgical site,1,Unlikely,Possible,Unrelated,No,No,583,2/11/20,Research Nurse Protocol Note-18c0056 wk.27
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-02-11,unknown,Hypothyroidism,2,Possible,Unlikely,Unrelated,Yes,No,583,2/11/20,Research Nurse Protocol Note-18c0056 wk.27
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-03-10,ongoing,Pain at surgical site,2,Unlikely,Probable,Unlikely,No,No,585,3/10/20,Research Nurse Protocol Note-week 31 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,2020-03-10,unknown,Discomfort at surgical site,1,Unlikely,Probable,Unlikely,No,No,585,3/10/20,Research Nurse Protocol Note-week 31 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,5/5/20,unknown,Arthralgia,2,Possible,Unlikely,Unrelated,No,No,588,5/5/20,Research Nurse Protocol Note-week 37 18c0056
+ebac4f67360c91e7bd8c6e10ba775fcd,6/16/20,unknown,Arthralgia,2,Possible,Unlikely,Unlikely,No,No,590,6/16/20,Research Nurse Protocol Note-Wk. 45 18c0056 late re-stage
+ebac4f67360c91e7bd8c6e10ba775fcd,9/9/20,unknown,Arthralgia,2,Possible,Unlikely,Probable,No,No,592,9/15/20,Research Nurse Protocol Note-18c0056 off treatment
+ebac4f67360c91e7bd8c6e10ba775fcd,2/11/20,unknown,Hypothyroidism,2,Possible,Unlikely,Unrelated,Yes,No,592,9/15/20,Research Nurse Protocol Note-18c0056 off treatment
