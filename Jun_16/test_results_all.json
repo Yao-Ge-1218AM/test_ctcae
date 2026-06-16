@@ -1,0 +1,34 @@
+{
+  "neg_dataset_test_v3": {
+    "eval_loss": 0.418935090303421,
+    "eval_model_preparation_time": 0.0261,
+    "eval_accuracy": 0.85,
+    "eval_runtime": 0.971,
+    "eval_samples_per_second": 102.982,
+    "eval_steps_per_second": 25.746
+  },
+  "pos_dataset_test_v3": {
+    "eval_loss": 0.22002533078193665,
+    "eval_model_preparation_time": 0.0014,
+    "eval_accuracy": 0.93,
+    "eval_runtime": 0.6683,
+    "eval_samples_per_second": 149.624,
+    "eval_steps_per_second": 37.406
+  },
+  "pos_alter_dataset_test_v3": {
+    "eval_loss": 0.2584940195083618,
+    "eval_model_preparation_time": 0.0014,
+    "eval_accuracy": 0.89,
+    "eval_runtime": 0.712,
+    "eval_samples_per_second": 140.457,
+    "eval_steps_per_second": 35.114
+  },
+  "nonesense_dataset_test": {
+    "eval_loss": 0.02225474826991558,
+    "eval_model_preparation_time": 0.0014,
+    "eval_accuracy": 0.99,
+    "eval_runtime": 0.4916,
+    "eval_samples_per_second": 203.417,
+    "eval_steps_per_second": 50.854
+  }
+}
